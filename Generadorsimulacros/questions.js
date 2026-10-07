@@ -173,1784 +173,7874 @@ window.QUESTION_BANK=[
     }
   },
   {
-    "id": "PP-01",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-01",
+    "block": "5 Potencias con bases enteras",
     "level": "Media",
-    "prompt": "Simplifica y deja exponentes positivos: [(a³b⁻²)²·a⁻¹b⁵]/(a²b⁻¹).",
-    "answer": "a³b².",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(-18)^3\\cdot16^{-3}\\cdot(-9)^4}{36^{-1}}",
+    "answer": "",
+    "answerLatex": "-\\frac{43046721}{128}",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a a³b². Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(-\\frac{43046721}{128}\\)."
       ]
     }
   },
   {
-    "id": "PP-02",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-02",
+    "block": "6 Potencias con bases fraccionarias",
     "level": "Media",
-    "prompt": "Simplifica y deja exponentes positivos: [(x⁻²y³)³·(xy⁻¹)⁻²]/(x⁻¹y²).",
-    "answer": "y⁹/x⁷.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(\\frac49)^{-1}(\\frac54)^3}{(\\frac{25}{3})^2(\\frac13)^{-3}2^{-7}}",
+    "answer": "",
+    "answerLatex": "\\frac3{10}",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a y⁹/x⁷. Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(\\frac3{10}\\)."
       ]
     }
   },
   {
-    "id": "PP-03",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-03",
+    "block": "6 Potencias con bases fraccionarias",
     "level": "Media",
-    "prompt": "Expresa como una sola potencia: (8⁴·4⁻³·2⁵)/(16⁻¹).",
-    "answer": "2¹⁹.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(\\frac49)^{-1}(\\frac54)^3(\\frac72)^{-2}3^3}{(\\frac{25}{3})^2(\\frac13)^{-3}2^{-7}(\\frac98)^4}",
+    "answer": "",
+    "answerLatex": "\\frac{8192}{19845}",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a 2¹⁹. Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(\\frac{8192}{19845}\\)."
       ]
     }
   },
   {
-    "id": "PP-04",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-04",
+    "block": "5 Potencias con bases enteras",
     "level": "Alta",
-    "prompt": "Simplifica: [(m³n⁻²)⁻²·m⁵n]/(m⁻¹n³).",
-    "answer": "n².",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(-18)^3 16^{-3}(-9)^4 25^{-2}}{36^{-1}12^2}",
+    "answer": "",
+    "answerLatex": "-\\frac{4782969}{1280000}",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a n². Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(-\\frac{4782969}{1280000}\\)."
       ]
     }
   },
   {
-    "id": "PP-05",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-05",
+    "block": "5 Potencias con bases enteras",
     "level": "Alta",
-    "prompt": "Simplifica y deja exponentes positivos: [(a⁻²b³)²·(a³b⁻¹)³]/(ab²)².",
-    "answer": "a³/b.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(-12)^4 18^{-3}(-8)^2}{24^{-2}}",
+    "answer": "",
+    "answerLatex": "131072",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a a³/b. Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(131072\\)."
       ]
     }
   },
   {
-    "id": "PP-06",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-06",
+    "block": "6 Potencias con bases fraccionarias",
     "level": "Alta",
-    "prompt": "Reduce a una potencia de base 3: [(27⁻²·9³)²]/(81⁻¹).",
-    "answer": "3⁴.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(\\frac23)^{-3}(\\frac98)^2(\\frac54)^{-2}}{(\\frac{15}{2})^2 3^{-4}2^{-3}}",
+    "answer": "",
+    "answerLatex": "\\frac{19683}{625}",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a 3⁴. Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(\\frac{19683}{625}\\)."
       ]
     }
   },
   {
-    "id": "PP-07",
-    "block": "5 Propiedades de las potencias",
-    "level": "Alta",
-    "prompt": "Simplifica: [(x²y⁻³)⁴·(x⁻¹y²)³]/(x³y⁻²).",
-    "answer": "x²/y⁴.",
-    "solution": {
-      "title": "Simplificación de exponentes",
-      "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a x²/y⁴. Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
-      ]
-    }
-  },
-  {
-    "id": "PP-08",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-07",
+    "block": "5 Potencias con bases enteras",
     "level": "Examen",
-    "prompt": "Simplifica y expresa con exponentes positivos: {[(a²b⁻¹)³]⁻²·a⁵b⁴}/{(a⁻²b)³}.",
-    "answer": "b⁷/a.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(-20)^{-2}25^3(-8)^4}{10^{-3}16^2 5^{-1}}",
+    "answer": "",
+    "answerLatex": "3125000",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a b⁷/a. Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(3125000\\)."
       ]
     }
   },
   {
-    "id": "PP-09",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-08",
+    "block": "6 Potencias con bases fraccionarias",
     "level": "Examen",
-    "prompt": "Expresa como una sola potencia de base 2: [(4³·8⁻²)⁻³·16²]/2⁻⁵.",
-    "answer": "2¹³.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(\\frac6{25})^{-2}(\\frac{15}{4})^3 2^{-4}}{(\\frac35)^{-3}(\\frac98)^2 10}",
+    "answer": "",
+    "answerLatex": "\\frac{125}{128}",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a 2¹³. Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(\\frac{125}{128}\\)."
       ]
     }
   },
   {
-    "id": "PP-10",
-    "block": "5 Propiedades de las potencias",
+    "id": "P-09",
+    "block": "5 Potencias con bases enteras",
     "level": "Examen",
-    "prompt": "Simplifica: {[(p⁻²q³)²·(p³q⁻¹)⁻²]}/{(p⁻¹q²)³}.",
-    "answer": "q²/p⁷.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(-27)^2 12^{-3}(-16)^2}{18^{-2}8^3 3^{-1}}",
+    "answer": "",
+    "answerLatex": "\\frac{6561}{32}",
     "solution": {
-      "title": "Simplificación de exponentes",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Aplicamos primero (aᵐ)ⁿ=aᵐⁿ y repartimos el exponente exterior entre todos los factores del paréntesis.",
-        "Reunimos las potencias de igual base: al multiplicar sumamos exponentes y al dividir restamos los del denominador.",
-        "El exponente total de cada base conduce a q²/p⁷. Los exponentes negativos se trasladan al denominador para dejar el resultado con exponentes positivos.",
-        "Comprobación: sustituir todas las letras por un mismo valor positivo en la expresión inicial y en la final da el mismo resultado."
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(\\frac{6561}{32}\\)."
       ]
     }
   },
   {
-    "id": "OP-01",
-    "block": "6 Operaciones con potencias",
+    "id": "P-10",
+    "block": "6 Potencias con bases fraccionarias",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(\\frac89)^{-2}(\\frac{15}{4})^3(\\frac{10}{3})^{-1}}{(\\frac{25}{6})^2 2^{-5}(\\frac13)^{-3}}",
+    "answer": "",
+    "answerLatex": "\\frac{2187}{1600}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.",
+        "Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.",
+        "Agrupamos las potencias de igual base y simplificamos hasta obtener \\(\\frac{2187}{1600}\\)."
+      ]
+    }
+  },
+  {
+    "id": "R-01",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Media",
-    "prompt": "Opera y simplifica: [(-18)³·16⁻³·(-9)⁴]/36⁻¹.",
-    "answer": "−3¹⁶/2⁷.",
+    "prompt": "Opera y simplifica:",
+    "latex": "(\\sqrt[4]{2})^3+\\sqrt2\\sqrt[4]{2}-\\sqrt[4]{8}",
+    "answer": "",
+    "answerLatex": "2^{3/4}",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: −3¹⁶/2⁷.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(2^{3/4}\\)."
       ]
     }
   },
   {
-    "id": "OP-02",
-    "block": "6 Operaciones con potencias",
+    "id": "R-02",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Media",
-    "prompt": "Opera y simplifica: {[(4/9)⁻¹·(5/4)³]}/{[(25/3)²·(1/3)⁻³·2⁻⁷]}.",
-    "answer": "3/20.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{\\sqrt{125}(\\sqrt[3]{5})^2}{\\sqrt5\\sqrt[3]{25}}",
+    "answer": "",
+    "answerLatex": "5",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: 3/20.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(5\\)."
       ]
     }
   },
   {
-    "id": "OP-03",
-    "block": "6 Operaciones con potencias",
+    "id": "R-03",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Media",
-    "prompt": "Opera: [(−12)⁴·(8)⁻²·(−6)³]/(24⁻¹).",
-    "answer": "−2⁸·3⁸.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{\\sqrt[3]{18}\\sqrt[4]{12}}{\\sqrt[6]{6^3\\cdot8^4}}",
+    "answer": "",
+    "answerLatex": "\\frac{\\sqrt[3]{2}\\,3^{5/12}}4",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: −2⁸·3⁸.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(\\frac{\\sqrt[3]{2}\\,3^{5/12}}4\\)."
       ]
     }
   },
   {
-    "id": "OP-04",
-    "block": "6 Operaciones con potencias",
+    "id": "R-04",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Alta",
-    "prompt": "Opera y expresa como fracción irreducible: {[(3/2)⁻³·(9/4)²]}/{[(27/8)⁻¹·(2/3)⁴]}.",
-    "answer": "6561/256.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{15\\sqrt{3\\sqrt[4]{18}}}{3\\sqrt[3]{6\\sqrt{12}}}",
+    "answer": "",
+    "answerLatex": "\\frac52\\,2^{11/24}\\sqrt[4]{3}",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: 6561/256.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(\\frac52\\,2^{11/24}\\sqrt[4]{3}\\)."
       ]
     }
   },
   {
-    "id": "OP-05",
-    "block": "6 Operaciones con potencias",
+    "id": "R-05",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Alta",
-    "prompt": "Opera: [(25⁻²·125³)²]/(5⁷·625⁻¹).",
-    "answer": "5⁷.",
+    "prompt": "Opera y simplifica:",
+    "latex": "(\\sqrt[3]{4})^2+\\sqrt2\\sqrt[3]{2}-\\sqrt[3]{32}",
+    "answer": "",
+    "answerLatex": "-2\\cdot2^{2/3}+2^{5/6}+2\\sqrt[3]{2}",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: 5⁷.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(-2\\cdot2^{2/3}+2^{5/6}+2\\sqrt[3]{2}\\)."
       ]
     }
   },
   {
-    "id": "OP-06",
-    "block": "6 Operaciones con potencias",
+    "id": "R-06",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Alta",
-    "prompt": "Calcula: {[(−8)⁴·(−4)⁻³]}/{[2⁻⁵·16²]}.",
-    "answer": "−8.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{\\sqrt{48}(\\sqrt[3]{3})^2}{\\sqrt3\\sqrt[3]{9}}",
+    "answer": "",
+    "answerLatex": "4",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: −8.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(4\\)."
       ]
     }
   },
   {
-    "id": "OP-07",
-    "block": "6 Operaciones con potencias",
-    "level": "Alta",
-    "prompt": "Opera y simplifica: {[(6/5)⁻²·(9/25)³]}/{[(3/5)⁴·(10/3)⁻¹]}.",
-    "answer": "5/6.",
-    "solution": {
-      "title": "Cálculo con potencias",
-      "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: 5/6.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
-      ]
-    }
-  },
-  {
-    "id": "OP-08",
-    "block": "6 Operaciones con potencias",
+    "id": "R-07",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Examen",
-    "prompt": "Opera: {[(−27)²·81⁻¹·(−3)⁵]}/{9⁻³}.",
-    "answer": "−3¹³.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{\\sqrt[3]{12}\\sqrt[4]{8}}{\\sqrt[6]{2^5\\cdot3^2}}",
+    "answer": "",
+    "answerLatex": "2^{7/12}",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: −3¹³.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(2^{7/12}\\)."
       ]
     }
   },
   {
-    "id": "OP-09",
-    "block": "6 Operaciones con potencias",
+    "id": "R-08",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Examen",
-    "prompt": "Opera y expresa como fracción irreducible: {[(5/2)⁻²·(25/4)³]}/{[(125/8)²·(2/5)⁻¹]}.",
-    "answer": "8/125.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{(\\sqrt[4]{3})^5\\sqrt[3]{9}}{\\sqrt[6]{27}\\sqrt3}",
+    "answer": "",
+    "answerLatex": "3^{11/12}",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: 8/125.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(3^{11/12}\\)."
       ]
     }
   },
   {
-    "id": "OP-10",
-    "block": "6 Operaciones con potencias",
+    "id": "R-09",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Examen",
-    "prompt": "Opera y simplifica: {[(−18)²·12⁻³·8²]}/{[27⁻¹·(−6)³]}.",
-    "answer": "−3/2.",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{\\sqrt{72}\\sqrt[3]{12}}{\\sqrt[6]{2^7\\cdot3^5}}",
+    "answer": "",
+    "answerLatex": "2\\sqrt3",
     "solution": {
-      "title": "Cálculo con potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Descomponemos cada número en factores primos (bases 2, 3 y 5) y sustituimos cada potencia por la potencia equivalente de esas bases.",
-        "Eliminamos paréntesis multiplicando exponentes; después sumamos exponentes en los productos y restamos los del denominador.",
-        "Simplificamos las bases comunes y conservamos el signo que determinan las potencias de base negativa: −3/2.",
-        "Si el resultado es fraccionario, dividimos numerador y denominador por todos sus factores comunes."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(2\\sqrt3\\)."
       ]
     }
   },
   {
-    "id": "PR-01",
-    "block": "7 Propiedades de los radicales",
-    "level": "Media",
-    "prompt": "Expresa como una sola raíz y simplifica: ∛(a²)·⁴√(a³)·√a, con a>0.",
-    "answer": "¹²√(a²³)=a·¹²√(a¹¹).",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es ¹²√(a²³)=a·¹²√(a¹¹).",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "PR-02",
-    "block": "7 Propiedades de los radicales",
-    "level": "Media",
-    "prompt": "Reduce a índice común y efectúa: (∛2·⁴√8)/⁶√4.",
-    "answer": "⁴√8.",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es ⁴√8.",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "PR-03",
-    "block": "7 Propiedades de los radicales",
-    "level": "Media",
-    "prompt": "Escribe como potencia y simplifica: ⁶√(x⁹)·∛(x²)/√x, con x>0.",
-    "answer": "x^(5/3)=∛(x⁵).",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es x^(5/3)=∛(x⁵).",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "PR-04",
-    "block": "7 Propiedades de los radicales",
-    "level": "Alta",
-    "prompt": "Reduce a índice común y simplifica: ⁴√(a³)·⁶√(a⁵)/∛a, con a>0.",
-    "answer": "a^(5/4)=⁴√(a⁵).",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es a^(5/4)=⁴√(a⁵).",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "PR-05",
-    "block": "7 Propiedades de los radicales",
-    "level": "Alta",
-    "prompt": "Expresa en forma radical y simplifica: x^(7/6)·x^(−2/3)·x^(1/2), con x>0.",
-    "answer": "x.",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es x.",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "PR-06",
-    "block": "7 Propiedades de los radicales",
-    "level": "Alta",
-    "prompt": "Opera aplicando propiedades: √(12a³)·√(3a)/(√2·√(2a)), con a>0.",
-    "answer": "3a√a.",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es 3a√a.",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "PR-07",
-    "block": "7 Propiedades de los radicales",
-    "level": "Alta",
-    "prompt": "Reduce a índice común y ordena de menor a mayor: √2, ∛3 y ⁴√5.",
-    "answer": "√2 < ∛3 < ⁴√5.",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es √2 < ∛3 < ⁴√5.",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "PR-08",
-    "block": "7 Propiedades de los radicales",
+    "id": "R-10",
+    "block": "7–10 Operaciones completas con radicales",
     "level": "Examen",
-    "prompt": "Simplifica: [⁴√(x⁶)·⁶√(x⁵)]/¹²√(x⁴), con x>0.",
-    "answer": "x².",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{6\\sqrt{2\\sqrt[3]{16}}}{3\\sqrt[4]{8\\sqrt2}}",
+    "answer": "",
+    "answerLatex": "2\\cdot2^{7/24}",
     "solution": {
-      "title": "Radicales como potencias",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es x².",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
+        "Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.",
+        "Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.",
+        "Después de simplificar completamente resulta \\(2\\cdot2^{7/24}\\)."
       ]
     }
   },
   {
-    "id": "PR-09",
-    "block": "7 Propiedades de los radicales",
-    "level": "Examen",
-    "prompt": "Opera y expresa como un único radical: (∛4·⁵√8)/¹⁵√2.",
-    "answer": "¹⁵√(2¹⁸)=2·⁵√2.",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es ¹⁵√(2¹⁸)=2·⁵√2.",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "PR-10",
-    "block": "7 Propiedades de los radicales",
-    "level": "Examen",
-    "prompt": "Simplifica completamente: {⁸√(a¹²b⁴)·⁶√(a³b⁹)}/{⁴√(a²b²)}, con a,b>0.",
-    "answer": "a^(3/2)b^(3/2)=ab√(ab).",
-    "solution": {
-      "title": "Radicales como potencias",
-      "steps": [
-        "Escribimos ⁿ√(aᵐ)=aᵐ⁄ⁿ. Si hay varios índices, usamos su mínimo común múltiplo para expresarlos con un índice común.",
-        "Operamos los exponentes fraccionarios: se suman en productos y se restan en cocientes.",
-        "Separamos la parte entera del exponente y regresamos a notación radical. El resultado simplificado es a^(3/2)b^(3/2)=ab√(ab).",
-        "Comprobamos que el índice y todos los exponentes del radicando no tengan un divisor común."
-      ]
-    }
-  },
-  {
-    "id": "ER-01",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Media",
-    "prompt": "Extrae todos los factores posibles: a) √(432x⁵); b) ∛(250a⁷b⁴); c) ⁴√(1296x⁶). Variables positivas.",
-    "answer": "a) 12x²√(3x); b) 5a²b∛(2ab); c) 6x√x.",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos a) 12x²√(3x); b) 5a²b∛(2ab); c) 6x√x."
-      ]
-    }
-  },
-  {
-    "id": "ER-02",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Media",
-    "prompt": "Extrae factores y simplifica: √(675a³b⁵)−2√(48a³b⁵)+√(75a³b⁵), con a,b>0.",
-    "answer": "12ab²√(3ab).",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos 12ab²√(3ab)."
-      ]
-    }
-  },
-  {
-    "id": "ER-03",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Media",
-    "prompt": "Extrae todos los factores posibles: a) √(1800x⁷); b) ∛(686a⁸); c) ⁵√(7776b¹²).",
-    "answer": "a) 30x³√(2x); b) 7a²∛(2a²); c) 6b²⁵√(b²).",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos a) 30x³√(2x); b) 7a²∛(2a²); c) 6b²⁵√(b²)."
-      ]
-    }
-  },
-  {
-    "id": "ER-04",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Alta",
-    "prompt": "Introduce factores en el radical y después simplifica el producto: 3a√(2a)·2√(6a), con a>0.",
-    "answer": "12a²√3.",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos 12a²√3."
-      ]
-    }
-  },
-  {
-    "id": "ER-05",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Alta",
-    "prompt": "Simplifica completamente: √(300x⁵y³)−√(48x⁵y³)+2√(75x⁵y³), con x,y>0.",
-    "answer": "16x²y√(3xy).",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos 16x²y√(3xy)."
-      ]
-    }
-  },
-  {
-    "id": "ER-06",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Alta",
-    "prompt": "Extrae factores: a) ∛(−432a¹⁰b⁷); b) ⁴√(5000x⁹); c) √(968y⁷).",
-    "answer": "a) −6a³b²∛(2ab); b) 5x²·⁴√(8x); c) 22y³√(2y).",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos a) −6a³b²∛(2ab); b) 5x²·⁴√(8x); c) 22y³√(2y)."
-      ]
-    }
-  },
-  {
-    "id": "ER-07",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Alta",
-    "prompt": "Halla el menor número natural n para que √(540n) sea un número entero y calcula dicha raíz.",
-    "answer": "n=15; √8100=90.",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos n=15; √8100=90."
-      ]
-    }
-  },
-  {
-    "id": "ER-08",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Examen",
-    "prompt": "Halla el menor número natural n para que ∛(250n) sea entero y calcula la raíz.",
-    "answer": "n=4; ∛1000=10.",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos n=4; ∛1000=10."
-      ]
-    }
-  },
-  {
-    "id": "ER-09",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Examen",
-    "prompt": "Simplifica completamente: 2√(98a⁵)−3√(8a⁵)+√(200a⁵), con a>0.",
-    "answer": "18a²√(2a).",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos 18a²√(2a)."
-      ]
-    }
-  },
-  {
-    "id": "ER-10",
-    "block": "8 Extracción de factores de radicales",
-    "level": "Examen",
-    "prompt": "Extrae factores y reduce: ∛(128x⁸y⁴)+2∛(54x⁸y⁴)−∛(16x⁸y⁴), con x,y>0.",
-    "answer": "8x²y∛(2x²y).",
-    "solution": {
-      "title": "Extracción completa de factores",
-      "steps": [
-        "Descomponemos cada radicando en factores primos y agrupamos tantos factores iguales como indica el índice de la raíz.",
-        "Cada grupo completo sale de la raíz como un factor; los factores que no completan grupo permanecen dentro.",
-        "Si hay varios radicales, simplificamos todos antes de sumar o restar y solo agrupamos los que quedan semejantes.",
-        "Tras extraer y reducir completamente obtenemos 8x²y∛(2x²y)."
-      ]
-    }
-  },
-  {
-    "id": "SR-01",
-    "block": "9 Suma y resta de radicales",
-    "level": "Media",
-    "prompt": "Opera y simplifica: 3√50−2√72+√98−4√8.",
-    "answer": "2√2.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da 2√2."
-      ]
-    }
-  },
-  {
-    "id": "SR-02",
-    "block": "9 Suma y resta de radicales",
-    "level": "Media",
-    "prompt": "Opera y simplifica: 2∛128−3∛54+∛250−4∛16.",
-    "answer": "−4∛2.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da −4∛2."
-      ]
-    }
-  },
-  {
-    "id": "SR-03",
-    "block": "9 Suma y resta de radicales",
-    "level": "Media",
-    "prompt": "Reduce y opera: √300−2√75+3√48−√27.",
-    "answer": "9√3.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da 9√3."
-      ]
-    }
-  },
-  {
-    "id": "SR-04",
-    "block": "9 Suma y resta de radicales",
-    "level": "Alta",
-    "prompt": "Simplifica: 4√45−3√20+2√125−√80.",
-    "answer": "14√5.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da 14√5."
-      ]
-    }
-  },
-  {
-    "id": "SR-05",
-    "block": "9 Suma y resta de radicales",
-    "level": "Alta",
-    "prompt": "Opera: 3⁴√48−2⁴√243+⁴√768.",
-    "answer": "4⁴√3.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da 4⁴√3."
-      ]
-    }
-  },
-  {
-    "id": "SR-06",
-    "block": "9 Suma y resta de radicales",
-    "level": "Alta",
-    "prompt": "Simplifica: (√72+√50−√8)/√2.",
-    "answer": "9.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da 9."
-      ]
-    }
-  },
-  {
-    "id": "SR-07",
-    "block": "9 Suma y resta de radicales",
-    "level": "Alta",
-    "prompt": "Opera: 2√(27a³)−√(48a³)+3√(75a³), con a>0.",
-    "answer": "17a√(3a).",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da 17a√(3a)."
-      ]
-    }
-  },
-  {
-    "id": "SR-08",
-    "block": "9 Suma y resta de radicales",
-    "level": "Examen",
-    "prompt": "Halla x para que x√12−2√27+√75=9√3.",
-    "answer": "x=5.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da x=5."
-      ]
-    }
-  },
-  {
-    "id": "SR-09",
-    "block": "9 Suma y resta de radicales",
-    "level": "Examen",
-    "prompt": "Simplifica completamente: 1/2√200−2/3√450+3/5√72.",
-    "answer": "−7√2/5.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da −7√2/5."
-      ]
-    }
-  },
-  {
-    "id": "SR-10",
-    "block": "9 Suma y resta de radicales",
-    "level": "Examen",
-    "prompt": "Opera: 3∛250−2∛128+5∛54−∛16.",
-    "answer": "20∛2.",
-    "solution": {
-      "title": "Reducción a radicales semejantes",
-      "steps": [
-        "Factorizamos cada radicando y extraemos cuadrados, cubos o potencias perfectas según el índice.",
-        "Reescribimos todos los términos como coeficiente por un radical irreducible.",
-        "Agrupamos únicamente los términos con el mismo índice y el mismo radicando, operando sus coeficientes.",
-        "La combinación de coeficientes da 20∛2."
-      ]
-    }
-  },
-  {
-    "id": "MR-01",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Media",
-    "prompt": "Opera y simplifica: [(3√6)(2√15)]/√10.",
-    "answer": "18.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es 18."
-      ]
-    }
-  },
-  {
-    "id": "MR-02",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Media",
-    "prompt": "Desarrolla y simplifica: (√12−√5)²−(√3+√5)(√3−√5).",
-    "answer": "19−4√15.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es 19−4√15."
-      ]
-    }
-  },
-  {
-    "id": "MR-03",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Media",
-    "prompt": "Opera: [(2√18)(3√12)]/(6√3).",
-    "answer": "6√2.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es 6√2."
-      ]
-    }
-  },
-  {
-    "id": "MR-04",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Alta",
-    "prompt": "Simplifica: (√8+√18)(√8−√18).",
-    "answer": "−10.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es −10."
-      ]
-    }
-  },
-  {
-    "id": "MR-05",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Alta",
-    "prompt": "Opera: [(∛12)(∛18)]/∛4.",
-    "answer": "3∛2.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es 3∛2."
-      ]
-    }
-  },
-  {
-    "id": "MR-06",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Alta",
-    "prompt": "Desarrolla: (2√3−3√2)².",
-    "answer": "30−12√6.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es 30−12√6."
-      ]
-    }
-  },
-  {
-    "id": "MR-07",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Alta",
-    "prompt": "Simplifica: [(√75−√12)√3]/√27.",
-    "answer": "√3.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es √3."
-      ]
-    }
-  },
-  {
-    "id": "MR-08",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Examen",
-    "prompt": "Opera: [(3√20)(2√45)−4√50]/√10.",
-    "answer": "18√10−4√5.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es 18√10−4√5."
-      ]
-    }
-  },
-  {
-    "id": "MR-09",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Examen",
-    "prompt": "Calcula exactamente: (√5+√3)²(√5−√3)².",
-    "answer": "4.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es 4."
-      ]
-    }
-  },
-  {
-    "id": "MR-10",
-    "block": "10 Multiplicación y división de radicales",
-    "level": "Examen",
-    "prompt": "Simplifica: {[(√6+√2)(√6−√2)]²}/{√16}.",
-    "answer": "4.",
-    "solution": {
-      "title": "Producto y cociente de radicales",
-      "steps": [
-        "Simplificamos primero cada radical y separamos los coeficientes de los radicandos.",
-        "Multiplicamos o dividimos coeficientes y radicales del mismo índice. En binomios usamos (a−b)²=a²−2ab+b² o (a+b)(a−b)=a²−b².",
-        "Extraemos del radical final cualquier potencia perfecta y reducimos los factores comunes del cociente.",
-        "El valor exacto simplificado es 4."
-      ]
-    }
-  },
-  {
-    "id": "RA-01",
+    "id": "Q-01",
     "block": "11 Racionalización",
     "level": "Media",
-    "prompt": "Racionaliza y simplifica: a) 5/(2√3); b) 3/∛4; c) 2/(√5−1).",
-    "answer": "a) 5√3/6; b) 3∛2/2; c) (√5+1)/2.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{2\\sqrt3-3}{2\\sqrt3+3}",
+    "answer": "",
+    "answerLatex": "7-4\\sqrt3",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es a) 5√3/6; b) 3∛2/2; c) (√5+1)/2."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(7-4\\sqrt3\\)."
       ]
     }
   },
   {
-    "id": "RA-02",
+    "id": "Q-02",
     "block": "11 Racionalización",
     "level": "Media",
-    "prompt": "Opera y racionaliza: 1/(√3+√2)−2/(√3−√2).",
-    "answer": "−√3−3√2.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{2+\\sqrt2}{1+\\sqrt2}",
+    "answer": "",
+    "answerLatex": "\\sqrt2",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es −√3−3√2."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(\\sqrt2\\)."
       ]
     }
   },
   {
-    "id": "RA-03",
+    "id": "Q-03",
     "block": "11 Racionalización",
     "level": "Media",
-    "prompt": "Racionaliza: a) 7/√20; b) 4/⁵√8; c) 3/(2−√3).",
-    "answer": "a) 7√5/10; b) 2⁵√4; c) 6+3√3.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{3+\\sqrt5}{2-\\sqrt5}",
+    "answer": "",
+    "answerLatex": "-11-5\\sqrt5",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es a) 7√5/10; b) 2⁵√4; c) 6+3√3."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(-11-5\\sqrt5\\)."
       ]
     }
   },
   {
-    "id": "RA-04",
+    "id": "Q-04",
     "block": "11 Racionalización",
     "level": "Alta",
-    "prompt": "Opera y racionaliza: 3/(√7−2)+1/(√7+2).",
-    "answer": "(4√7+4)/3.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{2\\sqrt3+1}{\\sqrt3-2}",
+    "answer": "",
+    "answerLatex": "-8-5\\sqrt3",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es (4√7+4)/3."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(-8-5\\sqrt3\\)."
       ]
     }
   },
   {
-    "id": "RA-05",
+    "id": "Q-05",
     "block": "11 Racionalización",
     "level": "Alta",
-    "prompt": "Racionaliza y simplifica: √3/(√6−√2).",
-    "answer": "(3√2+√6)/4.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{\\sqrt5-2}{\\sqrt5+1}",
+    "answer": "",
+    "answerLatex": "\\frac{7-3\\sqrt5}{4}",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es (3√2+√6)/4."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(\\frac{7-3\\sqrt5}{4}\\)."
       ]
     }
   },
   {
-    "id": "RA-06",
+    "id": "Q-06",
     "block": "11 Racionalización",
     "level": "Alta",
-    "prompt": "Opera: 2/√8+3/√18−1/√2. Racionaliza el resultado.",
-    "answer": "√2/2.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{3-\\sqrt2}{2+\\sqrt2}",
+    "answer": "",
+    "answerLatex": "4-\\frac{5\\sqrt2}{2}",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es √2/2."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(4-\\frac{5\\sqrt2}{2}\\)."
       ]
     }
   },
   {
-    "id": "RA-07",
-    "block": "11 Racionalización",
-    "level": "Alta",
-    "prompt": "Racionaliza: 5/(∛2+1), utilizando (a+b)(a²−ab+b²).",
-    "answer": "5(∛4−∛2+1)/3.",
-    "solution": {
-      "title": "Racionalización",
-      "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es 5(∛4−∛2+1)/3."
-      ]
-    }
-  },
-  {
-    "id": "RA-08",
+    "id": "Q-07",
     "block": "11 Racionalización",
     "level": "Examen",
-    "prompt": "Racionaliza y reduce: (√5+1)/(√5−1).",
-    "answer": "(3+√5)/2.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{2\\sqrt5+3}{2\\sqrt5-1}",
+    "answer": "",
+    "answerLatex": "\\frac{23+8\\sqrt5}{19}",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es (3+√5)/2."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(\\frac{23+8\\sqrt5}{19}\\)."
       ]
     }
   },
   {
-    "id": "RA-09",
+    "id": "Q-08",
     "block": "11 Racionalización",
     "level": "Examen",
-    "prompt": "Opera y racionaliza: 1/(√2−1)+1/(√2+1)−2/√2.",
-    "answer": "√2.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{\\sqrt7+2}{\\sqrt7-2}",
+    "answer": "",
+    "answerLatex": "\\frac{11+4\\sqrt7}{3}",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es √2."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(\\frac{11+4\\sqrt7}{3}\\)."
       ]
     }
   },
   {
-    "id": "RA-10",
+    "id": "Q-09",
     "block": "11 Racionalización",
     "level": "Examen",
-    "prompt": "Racionaliza completamente: 4/(⁴√8).",
-    "answer": "2⁴√2.",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{3\\sqrt2-1}{\\sqrt2+3}",
+    "answer": "",
+    "answerLatex": "\\frac{10\\sqrt2-9}{7}",
     "solution": {
-      "title": "Racionalización",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Identificamos el denominador. Para una raíz cuadrada multiplicamos por esa raíz; para un binomio, por su conjugado; para índices mayores, completamos la potencia del radicando.",
-        "Multiplicamos numerador y denominador por el mismo factor, por lo que el valor de la fracción no cambia.",
-        "En el denominador usamos el producto notable o la potencia completa para que desaparezca el radical; después reducimos la fracción.",
-        "La expresión equivalente con denominador racional es 2⁴√2."
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(\\frac{10\\sqrt2-9}{7}\\)."
       ]
     }
   },
   {
-    "id": "LG-01",
+    "id": "Q-10",
+    "block": "11 Racionalización",
+    "level": "Examen",
+    "prompt": "Racionaliza y simplifica:",
+    "latex": "\\frac{4-\\sqrt3}{2\\sqrt3-1}",
+    "answer": "",
+    "answerLatex": "\\frac{7\\sqrt3-2}{11}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Multiplicamos numerador y denominador por el conjugado del denominador.",
+        "En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.",
+        "Reducimos términos y obtenemos \\(\\frac{7\\sqrt3-2}{11}\\)."
+      ]
+    }
+  },
+  {
+    "id": "QM-01",
+    "block": "11 Racionalización",
+    "level": "Media",
+    "prompt": "Racionaliza, opera y simplifica:",
+    "latex": "\\frac{2}{\\sqrt3+1}+\\frac1{\\sqrt3}",
+    "answer": "",
+    "answerLatex": "\\frac{4\\sqrt3-3}{3}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Racionalizamos la primera fracción con el conjugado: \\(\\frac{2}{\\sqrt3+1}\\cdot\\frac{\\sqrt3-1}{\\sqrt3-1}=\\sqrt3-1\\).",
+        "En la segunda usamos la propia raíz: \\(\\frac1{\\sqrt3}=\\frac{\\sqrt3}{3}\\).",
+        "Sumamos con denominador común: \\(\\sqrt3-1+\\frac{\\sqrt3}{3}=\\frac{4\\sqrt3-3}{3}\\). El numerador no tiene un factor común y no se puede reducir."
+      ]
+    }
+  },
+  {
+    "id": "QM-02",
+    "block": "11 Racionalización",
+    "level": "Media",
+    "prompt": "Racionaliza, opera y simplifica:",
+    "latex": "\\frac{3}{\\sqrt5-2}-\\frac2{\\sqrt5}",
+    "answer": "",
+    "answerLatex": "\\frac{30+13\\sqrt5}{5}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Conjugamos la primera: \\(\\frac{3}{\\sqrt5-2}\\cdot\\frac{\\sqrt5+2}{\\sqrt5+2}=3\\sqrt5+6\\), porque \\((\\sqrt5)^2-2^2=1\\).",
+        "Racionalizamos la segunda: \\(\\frac2{\\sqrt5}=\\frac{2\\sqrt5}{5}\\).",
+        "Restamos: \\(3\\sqrt5+6-\\frac{2\\sqrt5}{5}=\\frac{30+13\\sqrt5}{5}\\). Aunque 30 es divisible entre 5, el término \\(13\\sqrt5\\) no lo es; no se puede cancelar solo una parte de una suma."
+      ]
+    }
+  },
+  {
+    "id": "QM-03",
+    "block": "11 Racionalización",
+    "level": "Media",
+    "prompt": "Racionaliza, opera y simplifica:",
+    "latex": "\\frac1{\\sqrt2+1}+\\frac2{\\sqrt8}",
+    "answer": "",
+    "answerLatex": "\\frac{3\\sqrt2-2}{2}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Primero simplificamos la raíz que hace de trampa: \\(\\sqrt8=2\\sqrt2\\), así que \\(\\frac2{\\sqrt8}=\\frac1{\\sqrt2}=\\frac{\\sqrt2}{2}\\).",
+        "Racionalizamos con el conjugado: \\(\\frac1{\\sqrt2+1}\\cdot\\frac{\\sqrt2-1}{\\sqrt2-1}=\\sqrt2-1\\).",
+        "Sumamos: \\(\\sqrt2-1+\\frac{\\sqrt2}{2}=\\frac{3\\sqrt2-2}{2}\\). No puede reducirse porque el numerador completo no contiene el factor 2."
+      ]
+    }
+  },
+  {
+    "id": "QM-04",
+    "block": "11 Racionalización",
+    "level": "Alta",
+    "prompt": "Racionaliza, opera y simplifica:",
+    "latex": "\\frac4{\\sqrt7+2}-\\frac3{\\sqrt7}",
+    "answer": "",
+    "answerLatex": "\\frac{19\\sqrt7-56}{21}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Conjugamos la primera fracción: \\(\\frac4{\\sqrt7+2}=\\frac{4(\\sqrt7-2)}{7-4}=\\frac{4\\sqrt7-8}{3}\\).",
+        "Racionalizamos la segunda: \\(\\frac3{\\sqrt7}=\\frac{3\\sqrt7}{7}\\).",
+        "Con denominador común 21: \\(\\frac{28\\sqrt7-56}{21}-\\frac{9\\sqrt7}{21}=\\frac{19\\sqrt7-56}{21}\\). Parece simplificable por 7, pero \\(19\\sqrt7\\) no es múltiplo de 7."
+      ]
+    }
+  },
+  {
+    "id": "QM-05",
+    "block": "11 Racionalización",
+    "level": "Alta",
+    "prompt": "Racionaliza, opera y simplifica:",
+    "latex": "\\frac2{3-\\sqrt5}+\\frac1{\\sqrt5}",
+    "answer": "",
+    "answerLatex": "\\frac{15+7\\sqrt5}{10}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Multiplicamos por el conjugado: \\(\\frac2{3-\\sqrt5}\\cdot\\frac{3+\\sqrt5}{3+\\sqrt5}=\\frac{3+\\sqrt5}{2}\\).",
+        "Racionalizamos la raíz simple: \\(\\frac1{\\sqrt5}=\\frac{\\sqrt5}{5}\\).",
+        "Sumamos con denominador 10: \\(\\frac{15+5\\sqrt5}{10}+\\frac{2\\sqrt5}{10}=\\frac{15+7\\sqrt5}{10}\\). No se reduce porque 7 no comparte factor con 10."
+      ]
+    }
+  },
+  {
+    "id": "QM-06",
+    "block": "11 Racionalización",
+    "level": "Alta",
+    "prompt": "Racionaliza, opera y simplifica:",
+    "latex": "\\frac5{\\sqrt6+2}-\\frac1{\\sqrt6}",
+    "answer": "",
+    "answerLatex": "\\frac{7\\sqrt6-15}{3}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Conjugamos la primera fracción: \\(\\frac5{\\sqrt6+2}=\\frac{5(\\sqrt6-2)}{6-4}=\\frac{5\\sqrt6-10}{2}\\).",
+        "Racionalizamos la segunda: \\(\\frac1{\\sqrt6}=\\frac{\\sqrt6}{6}\\).",
+        "Restamos: \\(\\frac{15\\sqrt6-30}{6}-\\frac{\\sqrt6}{6}=\\frac{14\\sqrt6-30}{6}\\). Ahora sí hay un factor común 2 y obtenemos \\(\\frac{7\\sqrt6-15}{3}\\)."
+      ]
+    }
+  },
+  {
+    "id": "LD-1",
     "block": "12 Logaritmos",
     "level": "Media",
-    "prompt": "Calcula sin calculadora: a) log₃(1/27); b) log_(1/2)16; c) log₅√125; d) log_(√3)27.",
-    "answer": "a) −3; b) −4; c) 3/2; d) 6.",
+    "prompt": "",
+    "latex": "\\log_2 x=5",
+    "answer": "",
+    "answerLatex": "x=32",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene a) −3; b) −4; c) 3/2; d) 6."
+        "Pasamos a forma exponencial: \\(x=2^5\\).",
+        "Por tanto, \\(x=32\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "LG-02",
+    "id": "LD-2",
     "block": "12 Logaritmos",
     "level": "Media",
-    "prompt": "Sabiendo log2=0,3010 y log3=0,4771, calcula: a) log72; b) log0,024; c) log(27/40).",
-    "answer": "a) 1,8572; b) −1,6199; c) −0,1707.",
+    "prompt": "",
+    "latex": "\\log_x81=4",
+    "answer": "",
+    "answerLatex": "x=3",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene a) 1,8572; b) −1,6199; c) −0,1707."
+        "Por definición, \\(x^4=81\\).",
+        "Como la base de un logaritmo debe ser positiva y distinta de 1, \\(x=3\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "LG-03",
+    "id": "LD-3",
     "block": "12 Logaritmos",
     "level": "Media",
-    "prompt": "Desarrolla al máximo: log[(x³√y)/(z²∛x)], con x,y,z>0.",
-    "answer": "(8/3)logx+(1/2)logy−2logz.",
+    "prompt": "",
+    "latex": "\\log_3 27=x",
+    "answer": "",
+    "answerLatex": "x=3",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene (8/3)logx+(1/2)logy−2logz."
+        "Escribimos \\(27=3^3\\).",
+        "Luego \\(\\log_3 27=3\\) y, por tanto, \\(x=3\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "LG-04",
+    "id": "LD-4",
     "block": "12 Logaritmos",
     "level": "Alta",
-    "prompt": "Expresa como un solo logaritmo: 3logx−2logy+(1/2)logz.",
-    "answer": "log(x³√z/y²).",
+    "prompt": "",
+    "latex": "\\log_x\\frac1{16}=-2",
+    "answer": "",
+    "answerLatex": "x=4",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene log(x³√z/y²)."
+        "Pasamos a forma exponencial: \\(x^{-2}=\\frac1{16}\\).",
+        "Entonces \\(x^2=16\\); al ser una base, \\(x=4\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "LG-05",
+    "id": "LD-5",
     "block": "12 Logaritmos",
     "level": "Alta",
-    "prompt": "Calcula: a) log₂64−log₂(1/8); b) log₃81+log₃(1/27); c) 2log₅25−log₅125.",
-    "answer": "a) 9; b) 1; c) 1.",
+    "prompt": "",
+    "latex": "\\log_5 x=-2",
+    "answer": "",
+    "answerLatex": "x=\\frac1{25}",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene a) 9; b) 1; c) 1."
+        "Por definición, \\(x=5^{-2}\\).",
+        "Así, \\(x=\\frac1{25}\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "LG-06",
+    "id": "LD-6",
     "block": "12 Logaritmos",
     "level": "Alta",
-    "prompt": "Halla la base: a) log_b625=4; b) log_b(1/32)=−5; c) log_b9=1/2.",
-    "answer": "a) b=5; b) b=2; c) b=81.",
+    "prompt": "",
+    "latex": "\\log_4 64=x",
+    "answer": "",
+    "answerLatex": "x=3",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene a) b=5; b) b=2; c) b=81."
+        "Buscamos el exponente al que hay que elevar 4 para obtener 64.",
+        "Como \\(4^3=64\\), resulta \\(x=3\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "LG-07",
-    "block": "12 Logaritmos",
-    "level": "Alta",
-    "prompt": "Si log a=1,2 y log b=0,7, calcula log(a²√b/100).",
-    "answer": "0,75.",
-    "solution": {
-      "title": "Propiedades de los logaritmos",
-      "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene 0,75."
-      ]
-    }
-  },
-  {
-    "id": "LG-08",
+    "id": "LD-7",
     "block": "12 Logaritmos",
     "level": "Examen",
-    "prompt": "Simplifica: logₐ(a⁵√a)−logₐ(1/a²)+logₐ∛a, con a>0, a≠1.",
-    "answer": "47/6.",
+    "prompt": "",
+    "latex": "\\log_x125=3",
+    "answer": "",
+    "answerLatex": "x=5",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene 47/6."
+        "Por definición, \\(x^3=125\\).",
+        "Como \\(125=5^3\\), la base es \\(x=5\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "LG-09",
+    "id": "LD-8",
     "block": "12 Logaritmos",
     "level": "Examen",
-    "prompt": "Resuelve: log₂(x−1)+log₂(x−3)=3.",
-    "answer": "x=5; dominio x>3.",
+    "prompt": "",
+    "latex": "\\log_2(x-1)=4",
+    "answer": "",
+    "answerLatex": "x=17",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene x=5; dominio x>3."
+        "Pasamos a forma exponencial: \\(x-1=2^4=16\\).",
+        "Despejando, \\(x=17\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "LG-10",
+    "id": "LD-9",
     "block": "12 Logaritmos",
     "level": "Examen",
-    "prompt": "Resuelve: log₃(x+1)−log₃(x−1)=1.",
-    "answer": "x=2; dominio x>1.",
+    "prompt": "",
+    "latex": "\\log_3(2x+1)=2",
+    "answer": "",
+    "answerLatex": "x=4",
     "solution": {
-      "title": "Propiedades de los logaritmos",
+      "title": "Resolución paso a paso",
       "steps": [
-        "Usamos log_b(x)=y ⇔ bʸ=x y comprobamos que la base sea positiva y distinta de 1 y que cada argumento sea positivo.",
-        "Aplicamos log(MN)=log M+log N, log(M/N)=log M−log N y log(Mᵏ)=k·log M, según corresponda.",
-        "Reducimos potencias y términos semejantes. Si es una ecuación, resolvemos la ecuación resultante y verificamos el dominio en la expresión original.",
-        "Se obtiene x=2; dominio x>1."
+        "Por definición, \\(2x+1=3^2=9\\).",
+        "Entonces \\(2x=8\\) y \\(x=4\\)."
       ]
-    }
+    },
+    "logType": "definition"
   },
   {
-    "id": "PO-01",
+    "id": "LD-10",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "\\log_x32=5",
+    "answer": "",
+    "answerLatex": "x=2",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Pasamos a forma exponencial: \\(x^5=32\\).",
+        "Como \\(32=2^5\\), obtenemos \\(x=2\\)."
+      ]
+    },
+    "logType": "definition"
+  },
+  {
+    "id": "LP-1",
+    "block": "12 Logaritmos",
+    "level": "Media",
+    "prompt": "",
+    "latex": "\\log x=1{,}3,\\;\\log y=0{,}8:\\quad \\log(x\\sqrt y)",
+    "answer": "",
+    "answerLatex": "1{,}7",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aplicamos \\(\\log(x\\sqrt y)=\\log x+\\frac12\\log y\\).",
+        "Sustituimos: \\(1{,}3+\\frac12(0{,}8)=1{,}7\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-2",
+    "block": "12 Logaritmos",
+    "level": "Media",
+    "prompt": "",
+    "latex": "\\log x=0{,}6,\\;\\log y=1{,}2:\\quad \\log(x^2y)",
+    "answer": "",
+    "answerLatex": "2{,}4",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aplicamos \\(\\log(x^2y)=2\\log x+\\log y\\).",
+        "Calculamos \\(2(0{,}6)+1{,}2=2{,}4\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-3",
+    "block": "12 Logaritmos",
+    "level": "Media",
+    "prompt": "",
+    "latex": "\\log x=1{,}5,\\;\\log y=0{,}4:\\quad \\log\\frac{x}{y}",
+    "answer": "",
+    "answerLatex": "1{,}1",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Usamos la propiedad del cociente: \\(\\log\\frac{x}{y}=\\log x-\\log y\\).",
+        "Resultado: \\(1{,}5-0{,}4=1{,}1\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-4",
+    "block": "12 Logaritmos",
+    "level": "Alta",
+    "prompt": "",
+    "latex": "\\log x=0{,}9,\\;\\log y=0{,}3:\\quad \\log\\frac{x^3}{y}",
+    "answer": "",
+    "answerLatex": "2{,}4",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aplicamos \\(\\log\\frac{x^3}{y}=3\\log x-\\log y\\).",
+        "Resultado: \\(3(0{,}9)-0{,}3=2{,}4\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-5",
+    "block": "12 Logaritmos",
+    "level": "Alta",
+    "prompt": "",
+    "latex": "\\log x=1{,}3,\\;\\log y=0{,}7:\\quad \\log\\sqrt[3]{\\frac{x}{y}}",
+    "answer": "",
+    "answerLatex": "0{,}2",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "El índice de la raíz pasa a ser coeficiente: \\(\\frac13(\\log x-\\log y)\\).",
+        "Calculamos \\(\\frac13(1{,}3-0{,}7)=0{,}2\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-6",
+    "block": "12 Logaritmos",
+    "level": "Alta",
+    "prompt": "",
+    "latex": "\\log x=0{,}8,\\;\\log y=1{,}4:\\quad \\log\\frac{y^2}{\\sqrt x}",
+    "answer": "",
+    "answerLatex": "2{,}4",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Desarrollamos: \\(2\\log y-\\frac12\\log x\\).",
+        "Sustituimos: \\(2(1{,}4)-\\frac12(0{,}8)=2{,}4\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-7",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "\\log x=1{,}1,\\;\\log y=0{,}5:\\quad \\log(x^2\\sqrt y)",
+    "answer": "",
+    "answerLatex": "2{,}45",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aplicamos \\(2\\log x+\\frac12\\log y\\).",
+        "Resultado: \\(2(1{,}1)+\\frac12(0{,}5)=2{,}45\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-8",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "\\log x=0{,}7,\\;\\log y=1{,}6:\\quad \\log\\sqrt{\\frac{y}{x}}",
+    "answer": "",
+    "answerLatex": "0{,}45",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "La raíz cuadrada multiplica por \\(\\frac12\\): \\(\\frac12(\\log y-\\log x)\\).",
+        "Calculamos \\(\\frac12(1{,}6-0{,}7)=0{,}45\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-9",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "\\log x=1{,}2,\\;\\log y=0{,}4:\\quad \\log\\frac{x}{y^3}",
+    "answer": "",
+    "answerLatex": "0",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Desarrollamos: \\(\\log x-3\\log y\\).",
+        "Sustituimos: \\(1{,}2-3(0{,}4)=0\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LP-10",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "\\log x=0{,}5,\\;\\log y=0{,}9:\\quad \\log(xy^2)",
+    "answer": "",
+    "answerLatex": "2{,}3",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aplicamos \\(\\log(xy^2)=\\log x+2\\log y\\).",
+        "Resultado: \\(0{,}5+2(0{,}9)=2{,}3\\)."
+      ]
+    },
+    "logType": "properties"
+  },
+  {
+    "id": "LE-1",
+    "block": "12 Logaritmos",
+    "level": "Media",
+    "prompt": "",
+    "latex": "3+\\log(2x)=5",
+    "answer": "",
+    "answerLatex": "x=50",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aislamos el logaritmo: \\(\\log(2x)=2\\).",
+        "Pasamos a forma exponencial: \\(2x=10^2=100\\), luego \\(x=50\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-2",
+    "block": "12 Logaritmos",
+    "level": "Media",
+    "prompt": "",
+    "latex": "7-\\log_2 x=3",
+    "answer": "",
+    "answerLatex": "x=16",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aislamos: \\(\\log_2x=4\\).",
+        "Por definición, \\(x=2^4=16\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-3",
+    "block": "12 Logaritmos",
+    "level": "Media",
+    "prompt": "",
+    "latex": "2+\\log(5x)=4",
+    "answer": "",
+    "answerLatex": "x=20",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Restamos 2: \\(\\log(5x)=2\\).",
+        "Entonces \\(5x=100\\) y \\(x=20\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-4",
+    "block": "12 Logaritmos",
+    "level": "Alta",
+    "prompt": "",
+    "latex": "5-\\log_3 x=1",
+    "answer": "",
+    "answerLatex": "x=81",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aislamos: \\(\\log_3x=4\\).",
+        "Por tanto, \\(x=3^4=81\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-5",
+    "block": "12 Logaritmos",
+    "level": "Alta",
+    "prompt": "",
+    "latex": "1+\\log(x-2)=2",
+    "answer": "",
+    "answerLatex": "x=12",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aislamos: \\(\\log(x-2)=1\\).",
+        "Así, \\(x-2=10\\) y \\(x=12\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-6",
+    "block": "12 Logaritmos",
+    "level": "Alta",
+    "prompt": "",
+    "latex": "4+\\log_2(x+1)=7",
+    "answer": "",
+    "answerLatex": "x=7",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Restamos 4: \\(\\log_2(x+1)=3\\).",
+        "Luego \\(x+1=8\\) y \\(x=7\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-7",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "6-\\log_5(2x)=4",
+    "answer": "",
+    "answerLatex": "x=\\frac{25}{2}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aislamos: \\(\\log_5(2x)=2\\).",
+        "Entonces \\(2x=25\\) y \\(x=\\frac{25}{2}\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-8",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "2+\\log_4(x-1)=4",
+    "answer": "",
+    "answerLatex": "x=17",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aislamos: \\(\\log_4(x-1)=2\\).",
+        "Por tanto, \\(x-1=16\\) y \\(x=17\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-9",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "8-\\log_2(3x+1)=3",
+    "answer": "",
+    "answerLatex": "x=\\frac{31}{3}",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aislamos: \\(\\log_2(3x+1)=5\\).",
+        "Entonces \\(3x+1=32\\), de donde \\(x=\\frac{31}{3}\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "LE-10",
+    "block": "12 Logaritmos",
+    "level": "Examen",
+    "prompt": "",
+    "latex": "3+\\log(4x)=6",
+    "answer": "",
+    "answerLatex": "x=250",
+    "solution": {
+      "title": "Resolución paso a paso",
+      "steps": [
+        "Aislamos: \\(\\log(4x)=3\\).",
+        "Así, \\(4x=1000\\) y \\(x=250\\)."
+      ]
+    },
+    "logType": "equation"
+  },
+  {
+    "id": "C-1",
     "block": "13 Problemas de porcentajes",
     "level": "Media",
-    "prompt": "Una producción de 8 500 unidades aumenta un 12 %, disminuye después un 8 % y finalmente aumenta un 15 %. Calcula la producción final y la variación porcentual total.",
-    "answer": "10 072,16 unidades; aumento total del 18,496 %.",
+    "prompt": "En una granja se cosecharon 4500 kg. La cosecha aumentó un 12,5 %, después disminuyó un 15 % y finalmente aumentó un 10 %. ¿Cuántos kilogramos se cosechan al final?",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "4733{,}44\\text{ kg}",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta 10 072,16 unidades; aumento total del 18,496 %."
+        "Usamos los índices de variación \\(1{,}125\\), \\(0{,}85\\) y \\(1{,}10\\).",
+        "Calculamos \\(4500\\cdot1{,}125\\cdot0{,}85\\cdot1{,}10=4733{,}4375\\)."
       ]
     }
   },
   {
-    "id": "PO-02",
+    "id": "C-2",
     "block": "13 Problemas de porcentajes",
     "level": "Media",
-    "prompt": "Un artículo se rebaja un 20 %, después otro 15 % y finalmente se añade un 21 % de IVA. El cliente paga 493,68 €. Calcula el precio inicial.",
-    "answer": "600 €.",
+    "prompt": "BMW vendió 120 000 coches. Las ventas aumentaron un 20 %, disminuyeron un 8 %, volvieron a disminuir un 5 % y después aumentaron un 12 %. Calcula las ventas finales y la reducción causada por el 5 %.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "140958{,}72\\text{ coches};\\;6624\\text{ coches}",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta 600 €."
+        "Ventas antes de la bajada del 5 %: \\(120000\\cdot1{,}20\\cdot0{,}92=132480\\).",
+        "Reducción: \\(132480\\cdot0{,}05=6624\\). Ventas finales: \\(132480\\cdot0{,}95\\cdot1{,}12=140958{,}72\\)."
       ]
     }
   },
   {
-    "id": "PO-03",
+    "id": "C-3",
     "block": "13 Problemas de porcentajes",
     "level": "Media",
-    "prompt": "Una población de 24 000 habitantes aumenta un 6 %, disminuye un 4 % y vuelve a aumentar un 2,5 %. Calcula la población final y la variación total.",
-    "answer": "25 032,96 habitantes; aumento del 4,304 %.",
+    "prompt": "Una producción de 8500 unidades aumenta un 12 %, disminuye un 8 % y aumenta un 15 %. Calcula la producción final y la variación total.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "10072{,}16;\\;18{,}496\\%",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta 25 032,96 habitantes; aumento del 4,304 %."
+        "Multiplicamos los índices: \\(1{,}12\\cdot0{,}92\\cdot1{,}15=1{,}18496\\).",
+        "Producción: \\(8500\\cdot1{,}18496=10072{,}16\\). La subida total es \\(18{,}496\\%\\)."
       ]
     }
   },
   {
-    "id": "PO-04",
+    "id": "C-4",
     "block": "13 Problemas de porcentajes",
     "level": "Alta",
-    "prompt": "Después de una rebaja del 18 % y otra del 10 %, un ordenador cuesta 737,10 €. Calcula el precio inicial y el descuento único equivalente.",
-    "answer": "1 000 €; descuento equivalente del 26,2 %.",
+    "prompt": "Un artículo se rebaja un 20 %, después otro 15 % y finalmente se añade un 21 % de IVA. Se pagan 493,68 €. Calcula el precio inicial.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "600\\,€",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta 1 000 €; descuento equivalente del 26,2 %."
+        "Sea \\(P\\) el precio inicial: \\(P\\cdot0{,}80\\cdot0{,}85\\cdot1{,}21=493{,}68\\).",
+        "Despejamos: \\(P=493{,}68/(0{,}80\\cdot0{,}85\\cdot1{,}21)=600\\)."
       ]
     }
   },
   {
-    "id": "PO-05",
+    "id": "C-5",
     "block": "13 Problemas de porcentajes",
     "level": "Alta",
-    "prompt": "El precio sin IVA de un producto aumenta un 12 %. Luego se aplica un descuento del 5 % y un IVA del 21 %. Si se pagan 643,72 €, calcula el precio inicial sin IVA.",
-    "answer": "500 €.",
+    "prompt": "Una población de 24 000 habitantes aumenta un 6 %, disminuye un 4 % y aumenta un 2,5 %. Calcula la población final y la variación total.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "25032{,}96;\\;4{,}304\\%",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta 500 €."
+        "Índice total: \\(1{,}06\\cdot0{,}96\\cdot1{,}025=1{,}04304\\).",
+        "Población final: \\(24000\\cdot1{,}04304=25032{,}96\\); aumento total \\(4{,}304\\%\\)."
       ]
     }
   },
   {
-    "id": "PO-06",
+    "id": "C-6",
     "block": "13 Problemas de porcentajes",
     "level": "Alta",
-    "prompt": "Una inversión pierde un 15 % el primer año y gana un 20 % el segundo. Si termina con 10 200 €, calcula el capital inicial y la variación total.",
-    "answer": "10 000 €; aumento total del 2 %.",
+    "prompt": "Tras rebajas del 18 % y del 10 %, un ordenador cuesta 737,10 €. Calcula el precio inicial y el descuento equivalente.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "998{,}78\\,€;\\;26{,}2\\%",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta 10 000 €; aumento total del 2 %."
+        "Índice final: \\(0{,}82\\cdot0{,}90=0{,}738\\); descuento equivalente: \\(26{,}2\\%\\).",
+        "Precio inicial: \\(737{,}10/0{,}738=998{,}78\\,€\\)."
       ]
     }
   },
   {
-    "id": "PO-07",
-    "block": "13 Problemas de porcentajes",
-    "level": "Alta",
-    "prompt": "Una disolución de 750 g contiene un 12 % de soluto. Se evapora agua hasta que la concentración es del 18 %. ¿Cuál es la masa final de la disolución?",
-    "answer": "500 g.",
-    "solution": {
-      "title": "Porcentajes encadenados",
-      "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta 500 g."
-      ]
-    }
-  },
-  {
-    "id": "PO-08",
+    "id": "C-7",
     "block": "13 Problemas de porcentajes",
     "level": "Examen",
-    "prompt": "El salario de una persona sube un 4,5 %, baja un 2 % y vuelve a subir un 3 %. Si inicialmente era 1 800 €, calcula el salario final y el aumento total.",
-    "answer": "1 898,68 €; aumento aproximado del 5,4823 %.",
+    "prompt": "Un precio aumenta un 12 %, se descuenta un 5 % y se añade un 21 % de IVA. Se pagan 643,72 €. Calcula el precio inicial.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "500\\,€",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta 1 898,68 €; aumento aproximado del 5,4823 %."
+        "Planteamos \\(P\\cdot1{,}12\\cdot0{,}95\\cdot1{,}21=643{,}72\\).",
+        "Al despejar obtenemos \\(P=500\\,€\\)."
       ]
     }
   },
   {
-    "id": "PO-09",
+    "id": "C-8",
     "block": "13 Problemas de porcentajes",
     "level": "Examen",
-    "prompt": "Un comercio marca un precio aumentando el coste un 35 %. En rebajas aplica un 20 % y aun así gana 32 € por unidad. Calcula el coste y el precio marcado.",
-    "answer": "Coste 400 €; precio marcado 540 €.",
+    "prompt": "Una inversión pierde un 15 % y al año siguiente gana un 20 %. Termina con 10 200 €. Calcula el capital inicial y la variación total.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "10000\\,€;\\;2\\%",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta Coste 400 €; precio marcado 540 €."
+        "Índice total: \\(0{,}85\\cdot1{,}20=1{,}02\\), equivalente a una subida del 2 %.",
+        "Capital inicial: \\(10200/1{,}02=10000\\,€\\)."
       ]
     }
   },
   {
-    "id": "PO-10",
+    "id": "C-9",
     "block": "13 Problemas de porcentajes",
     "level": "Examen",
-    "prompt": "Dos tiendas venden el mismo producto de 800 €. A aplica descuentos del 15 % y 10 %; B aplica un único descuento del 23 %. Compara los precios finales.",
-    "answer": "A: 612 €; B: 616 €. Conviene A por 4 €.",
+    "prompt": "Un comercio aumenta el coste un 35 % y después rebaja el precio marcado un 20 %. Aun así gana 32 € por unidad. Calcula el coste y el precio marcado.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "400\\,€;\\;540\\,€",
     "solution": {
-      "title": "Porcentajes encadenados",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Convertimos cada cambio en un índice: aumento r % → 1+r/100; disminución r % → 1−r/100.",
-        "Multiplicamos los índices en el orden del enunciado. Los porcentajes sucesivos no se suman porque cada uno actúa sobre una cantidad distinta.",
-        "Para hallar una cantidad inicial dividimos el valor final entre el índice total; para hallar la final multiplicamos la inicial por él.",
-        "Sustituyendo los datos del problema y redondeando solo al final resulta A: 612 €; B: 616 €. Conviene A por 4 €."
+        "Si el coste es \\(C\\), el precio final es \\(1{,}35C\\cdot0{,}80=1{,}08C\\).",
+        "El beneficio es \\(0{,}08C=32\\), luego \\(C=400\\) y el precio marcado es \\(540\\,€\\)."
       ]
     }
   },
   {
-    "id": "FI-01",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "C-10",
+    "block": "13 Problemas de porcentajes",
+    "level": "Examen",
+    "prompt": "Dos tiendas parten de 800 €. A aplica descuentos del 15 % y 10 %; B aplica un 23 %. Compara los precios.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "A:612\\,€;\\;B:616\\,€",
+    "solution": {
+      "title": "Planteamiento y cálculo",
+      "steps": [
+        "Tienda A: \\(800\\cdot0{,}85\\cdot0{,}90=612\\,€\\).",
+        "Tienda B: \\(800\\cdot0{,}77=616\\,€\\). Es más económica A."
+      ]
+    }
+  },
+  {
+    "id": "F-1",
+    "block": "14 Interés simple y compuesto",
     "level": "Media",
-    "prompt": "La longitud real es 347,826 km. Redondea a décimas y unidades y calcula en ambos casos los errores absoluto y relativo porcentual.",
-    "answer": "Décimas: 347,8; EA=0,026; ER≈0,00748 %. Unidades: 348; EA=0,174; ER≈0,05003 %.",
+    "prompt": "Laura invierte 2500 € al 3,5 % simple durante 3 años. Sergio termina con 2787 € tras 3 años al 3,5 % compuesto. Calcula capitales, beneficios y compara.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "Laura:2762{,}50\\,€;\\;Sergio:\\,C_0\\approx2513{,}71\\,€,\\;B\\approx273{,}29\\,€",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona Décimas: 347,8; EA=0,026; ER≈0,00748 %. Unidades: 348; EA=0,174; ER≈0,05003 %."
+        "Laura: \\(C_f=2500(1+0{,}035\\cdot3)=2762{,}50\\,€\\).",
+        "Sergio: \\(C_0=2787/(1{,}035)^3\\approx2513{,}71\\,€\\); beneficio \\(273{,}29\\,€\\). Sergio obtiene mayor beneficio."
       ]
     }
   },
   {
-    "id": "FI-02",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "F-2",
+    "block": "14 Interés simple y compuesto",
     "level": "Media",
-    "prompt": "Una masa se registra como 2,37 kg al redondear a centésimas. Indica el intervalo de valores posibles y las cotas de los errores absoluto y relativo.",
-    "answer": "[2,365; 2,375); EA<0,005 kg; ER<0,005/2,37≈0,211 %.",
+    "prompt": "Sofía invierte 7000 € al 4 % compuesto durante 4 años. Alejandro termina con 8556,25 € tras 4 años al 5 % compuesto. Calcula capitales y beneficios.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "Sofía:8189{,}01\\,€;\\;Alejandro:\\,C_0\\approx7039{,}25\\,€",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona [2,365; 2,375); EA<0,005 kg; ER<0,005/2,37≈0,211 %."
+        "Sofía: \\(7000(1{,}04)^4=8189{,}01\\,€\\), beneficio \\(1189{,}01\\,€\\).",
+        "Alejandro: \\(C_0=8556{,}25/(1{,}05)^4\\approx7039{,}25\\,€\\), beneficio \\(1517\\,€\\) aproximadamente."
       ]
     }
   },
   {
-    "id": "FI-03",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "F-3",
+    "block": "14 Interés simple y compuesto",
     "level": "Media",
-    "prompt": "La distancia Tierra-Sol se toma como 1,50·10⁸ km frente al valor 1,496·10⁸ km. Calcula errores absoluto y relativo porcentual.",
-    "answer": "EA=4·10⁵ km; ER≈0,2674 %.",
+    "prompt": "Dabiz invierte 92 000 € al 3,8 % compuesto durante 4 años. Joan termina con 110 324 € al 4,6 % compuesto. Calcula y compara.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "Dabiz:106801{,}47\\,€;\\;Joan:\\,C_0\\approx92160{,}17\\,€",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona EA=4·10⁵ km; ER≈0,2674 %."
+        "Dabiz: \\(92000(1{,}038)^4=106801{,}47\\,€\\).",
+        "Joan: \\(C_0=110324/(1{,}046)^4\\approx92160{,}17\\,€\\). Calculamos ambos beneficios y comparamos."
       ]
     }
   },
   {
-    "id": "FI-04",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "F-4",
+    "block": "14 Interés simple y compuesto",
     "level": "Alta",
-    "prompt": "Un depósito se estima en 12 000 L, redondeando a millares. Da el intervalo posible y la cota del error relativo.",
-    "answer": "[11 500,12 500) L; EA<500 L; ER<500/12 000≈4,17 %.",
+    "prompt": "Calcula capital final y beneficio de 6500 € al 4,2 % simple durante 4 años.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "7592\\,€;\\;1092\\,€",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona [11 500,12 500) L; EA<500 L; ER<500/12 000≈4,17 %."
+        "\\(C_f=6500(1+0{,}042\\cdot4)=7592\\,€\\).",
+        "Beneficio: \\(7592-6500=1092\\,€\\)."
       ]
     }
   },
   {
-    "id": "FI-05",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "F-5",
+    "block": "14 Interés simple y compuesto",
     "level": "Alta",
-    "prompt": "Se aproxima π por 3,142. Calcula el error absoluto y relativo porcentual usando π≈3,14159265.",
-    "answer": "EA≈0,00040735; ER≈0,01297 %.",
+    "prompt": "Un capital produce 1260 € de interés simple en 3 años al 3,5 %. Calcula el capital inicial y final.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "12000\\,€;\\;13260\\,€",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona EA≈0,00040735; ER≈0,01297 %."
+        "\\(I=C_0rt\\), luego \\(1260=C_0\\cdot0{,}035\\cdot3\\).",
+        "\\(C_0=12000\\,€\\) y \\(C_f=12000+1260=13260\\,€\\)."
       ]
     }
   },
   {
-    "id": "FI-06",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "F-6",
+    "block": "14 Interés simple y compuesto",
     "level": "Alta",
-    "prompt": "Calcula capital final y beneficio de 6 500 € al 4,2 % simple anual durante 4 años.",
-    "answer": "Capital final 7 592 €; beneficio 1 092 €.",
+    "prompt": "Una inversión termina con 7545,76 € tras 4 años al 3,8 % compuesto. Calcula capital inicial y beneficio.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "6500\\,€;\\;1045{,}76\\,€",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona Capital final 7 592 €; beneficio 1 092 €."
+        "\\(C_0=7545{,}76/(1{,}038)^4\\approx6500\\,€\\).",
+        "Beneficio: \\(7545{,}76-6500=1045{,}76\\,€\\)."
       ]
     }
   },
   {
-    "id": "FI-07",
-    "block": "14 Aproximaciones e interés simple y compuesto",
-    "level": "Alta",
-    "prompt": "Un capital produce 1 260 € de interés simple en 3 años al 3,5 % anual. Calcula el capital inicial y final.",
-    "answer": "Capital inicial 12 000 €; capital final 13 260 €.",
-    "solution": {
-      "title": "Aproximaciones e intereses",
-      "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona Capital inicial 12 000 €; capital final 13 260 €."
-      ]
-    }
-  },
-  {
-    "id": "FI-08",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "F-7",
+    "block": "14 Interés simple y compuesto",
     "level": "Examen",
-    "prompt": "Una inversión termina con 7 545,76 € tras 4 años al 3,8 % compuesto anual. Calcula capital inicial y beneficio.",
-    "answer": "Capital inicial ≈6 500 €; beneficio ≈1 045,76 €.",
+    "prompt": "Compara 10 000 € durante 6 años: banco A al 4 % simple y banco B al 3,7 % compuesto.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "A:12400\\,€;\\;B:12435{,}77\\,€",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona Capital inicial ≈6 500 €; beneficio ≈1 045,76 €."
+        "A: \\(10000(1+0{,}04\\cdot6)=12400\\,€\\).",
+        "B: \\(10000(1{,}037)^6=12435{,}77\\,€\\). Conviene B."
       ]
     }
   },
   {
-    "id": "FI-09",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "F-8",
+    "block": "14 Interés simple y compuesto",
     "level": "Examen",
-    "prompt": "Compara 10 000 € durante 6 años: banco A al 4 % simple anual; banco B al 3,7 % compuesto anual.",
-    "answer": "A: 12 400 €. B≈12 435,77 €. Conviene B por ≈35,77 €.",
+    "prompt": "Un capital de 8000 € se convierte en 9733,22 € en 5 años con interés compuesto. Calcula el tipo anual.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "4\\%",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona A: 12 400 €. B≈12 435,77 €. Conviene B por ≈35,77 €."
+        "\\(9733{,}22=8000(1+r)^5\\), así que \\((1+r)^5=9733{,}22/8000\\).",
+        "\\(r=\\sqrt[5]{9733{,}22/8000}-1\\approx0{,}04=4\\%\\)."
       ]
     }
   },
   {
-    "id": "FI-10",
-    "block": "14 Aproximaciones e interés simple y compuesto",
+    "id": "F-9",
+    "block": "14 Interés simple y compuesto",
     "level": "Examen",
-    "prompt": "Un capital de 8 000 € se convierte en 9 733,22 € en 5 años con interés compuesto. Calcula el tipo anual.",
-    "answer": "4 % anual.",
+    "prompt": "Marta invierte 12 000 € al 4,5 % simple y Pablo 11 500 € al 4 % compuesto, ambos 4 años. Calcula y compara.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "Marta:14160\\,€;\\;Pablo:13453{,}37\\,€",
     "solution": {
-      "title": "Aproximaciones e intereses",
+      "title": "Planteamiento y cálculo",
       "steps": [
-        "Clasificamos el ejercicio: error, interés simple o interés compuesto. En errores usamos EA=|real−aproximado| y ER=EA/|real|.",
-        "Para interés simple aplicamos C=C₀(1+n·r); para compuesto, C=C₀(1+r)ⁿ. La tasa r se escribe en tanto por uno.",
-        "Sustituimos todos los datos con sus unidades, despejamos la incógnita y no redondeamos hasta la última operación.",
-        "El cálculo final proporciona 4 % anual."
+        "Marta: \\(12000(1+0{,}045\\cdot4)=14160\\,€\\).",
+        "Pablo: \\(11500(1{,}04)^4=13453{,}37\\,€\\). Comparamos los beneficios, no solo los capitales finales."
       ]
     }
+  },
+  {
+    "id": "F-10",
+    "block": "14 Interés simple y compuesto",
+    "level": "Examen",
+    "prompt": "Una inversión al 3,2 % compuesto alcanza 18 141,52 € en 5 años. Calcula capital inicial y beneficio.",
+    "latex": "",
+    "answer": "",
+    "answerLatex": "C_0\\approx15497{,}98\\,€;\\;B\\approx2643{,}54\\,€",
+    "solution": {
+      "title": "Planteamiento y cálculo",
+      "steps": [
+        "\\(C_0=18141{,}52/(1{,}032)^5\\approx15497{,}98\\,€\\).",
+        "Beneficio: \\(18141{,}52-15497{,}98\\approx2643{,}54\\,€\\)."
+      ]
+    }
+  },
+  {
+    "id": "U2-FP-001",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} + 2 x - 8",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 2\\right) \\left(3 x - 4\\right)\\\\\\text{Raíces reales: }-2;\\quad \\frac{4}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} + 2 x - 8=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(3)\\cdot(-8)=100\\)",
+        "\\(x=\\frac{-(2)\\pm\\sqrt{100}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-2,\\frac{4}{3}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 2\\right) \\left(3 x - 4\\right)\\)",
+        "\\(\\text{Factores: }x + 2;\\quad 3 x - 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1a",
+    "polynomial": "3*x**2 + 2*x - 8",
+    "factorization": "(x + 2)*(3*x - 4)",
+    "roots": {
+      "-2": 1,
+      "4/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-002",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} - 4 x - 7",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 1\\right) \\left(3 x - 7\\right)\\\\\\text{Raíces reales: }-1;\\quad \\frac{7}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} - 4 x - 7=0\\quad\\Longrightarrow\\quad\\Delta=16-4\\cdot(3)\\cdot(-7)=100\\)",
+        "\\(x=\\frac{-(-4)\\pm\\sqrt{100}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-1,\\frac{7}{3}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 1\\right) \\left(3 x - 7\\right)\\)",
+        "\\(\\text{Factores: }x + 1;\\quad 3 x - 7\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1a · variante propia",
+    "polynomial": "3*x**2 - 4*x - 7",
+    "factorization": "(x + 1)*(3*x - 7)",
+    "roots": {
+      "-1": 1,
+      "7/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-003",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} + 8 x - 3",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 3\\right) \\left(3 x - 1\\right)\\\\\\text{Raíces reales: }-3;\\quad \\frac{1}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} + 8 x - 3=0\\quad\\Longrightarrow\\quad\\Delta=64-4\\cdot(3)\\cdot(-3)=100\\)",
+        "\\(x=\\frac{-(8)\\pm\\sqrt{100}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-3,\\frac{1}{3}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 3\\right) \\left(3 x - 1\\right)\\)",
+        "\\(\\text{Factores: }x + 3;\\quad 3 x - 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1a · variante propia",
+    "polynomial": "3*x**2 + 8*x - 3",
+    "factorization": "(x + 3)*(3*x - 1)",
+    "roots": {
+      "-3": 1,
+      "1/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-004",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{5} - 48 x",
+    "answerLatex": "\\begin{gathered}P(x)=3 x \\left(x - 2\\right) \\left(x + 2\\right) \\left(x^{2} + 4\\right)\\\\\\text{Raíces reales: }-2;\\quad 0;\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrrr} & 3 & 0 & 0 & 0 & -48 & 0\\\\-2 & & -6 & 12 & -24 & 48 & 0\\\\\\hline & 3 & -6 & 12 & -24 & 0 & 0\\end{array}\\)",
+        "\\(3 x^{5} - 48 x=\\left(x + 2\\right)\\left(3 x^{4} - 6 x^{3} + 12 x^{2} - 24 x\\right)\\)",
+        "\\(\\begin{array}{r|rrrrr} & 3 & -6 & 12 & -24 & 0\\\\0 & & 0 & 0 & 0 & 0\\\\\\hline & 3 & -6 & 12 & -24 & 0\\end{array}\\)",
+        "\\(3 x^{4} - 6 x^{3} + 12 x^{2} - 24 x=\\left(x\\right)\\left(3 x^{3} - 6 x^{2} + 12 x - 24\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 3 & -6 & 12 & -24\\\\2 & & 6 & 0 & 24\\\\\\hline & 3 & 0 & 12 & 0\\end{array}\\)",
+        "\\(3 x^{3} - 6 x^{2} + 12 x - 24=\\left(x - 2\\right)\\left(3 x^{2} + 12\\right)\\)",
+        "\\(3 x^{2} + 12=0\\quad\\Longrightarrow\\quad\\Delta=0-4\\cdot(3)\\cdot(12)=-144\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=3 x \\left(x - 2\\right) \\left(x + 2\\right) \\left(x^{2} + 4\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x;\\quad x + 2;\\quad x^{2} + 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1b",
+    "polynomial": "3*x**5 - 48*x",
+    "factorization": "3*x*(x - 2)*(x + 2)*(x**2 + 4)",
+    "roots": {
+      "-2": 1,
+      "2": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-005",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{5} - 15 x^{4} + 30 x^{3} - 30 x^{2} - 33 x + 45",
+    "answerLatex": "\\begin{gathered}P(x)=3 \\left(x - 3\\right) \\left(x - 1\\right) \\left(x + 1\\right) \\left(x^{2} - 2 x + 5\\right)\\\\\\text{Raíces reales: }-1;\\quad 1;\\quad 3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrrr} & 3 & -15 & 30 & -30 & -33 & 45\\\\-1 & & -3 & 18 & -48 & 78 & -45\\\\\\hline & 3 & -18 & 48 & -78 & 45 & 0\\end{array}\\)",
+        "\\(3 x^{5} - 15 x^{4} + 30 x^{3} - 30 x^{2} - 33 x + 45=\\left(x + 1\\right)\\left(3 x^{4} - 18 x^{3} + 48 x^{2} - 78 x + 45\\right)\\)",
+        "\\(\\begin{array}{r|rrrrr} & 3 & -18 & 48 & -78 & 45\\\\1 & & 3 & -15 & 33 & -45\\\\\\hline & 3 & -15 & 33 & -45 & 0\\end{array}\\)",
+        "\\(3 x^{4} - 18 x^{3} + 48 x^{2} - 78 x + 45=\\left(x - 1\\right)\\left(3 x^{3} - 15 x^{2} + 33 x - 45\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 3 & -15 & 33 & -45\\\\3 & & 9 & -18 & 45\\\\\\hline & 3 & -6 & 15 & 0\\end{array}\\)",
+        "\\(3 x^{3} - 15 x^{2} + 33 x - 45=\\left(x - 3\\right)\\left(3 x^{2} - 6 x + 15\\right)\\)",
+        "\\(3 x^{2} - 6 x + 15=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(3)\\cdot(15)=-144\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=3 \\left(x - 3\\right) \\left(x - 1\\right) \\left(x + 1\\right) \\left(x^{2} - 2 x + 5\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x - 1;\\quad x + 1;\\quad x^{2} - 2 x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1b · variante propia",
+    "polynomial": "3*x**5 - 15*x**4 + 30*x**3 - 30*x**2 - 33*x + 45",
+    "factorization": "3*(x - 3)*(x - 1)*(x + 1)*(x**2 - 2*x + 5)",
+    "roots": {
+      "3": 1,
+      "1": 1,
+      "-1": 1
+    }
+  },
+  {
+    "id": "U2-FP-006",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{5} + 15 x^{4} + 30 x^{3} + 30 x^{2} - 33 x - 45",
+    "answerLatex": "\\begin{gathered}P(x)=3 \\left(x - 1\\right) \\left(x + 1\\right) \\left(x + 3\\right) \\left(x^{2} + 2 x + 5\\right)\\\\\\text{Raíces reales: }-3;\\quad -1;\\quad 1\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrrr} & 3 & 15 & 30 & 30 & -33 & -45\\\\-3 & & -9 & -18 & -36 & 18 & 45\\\\\\hline & 3 & 6 & 12 & -6 & -15 & 0\\end{array}\\)",
+        "\\(3 x^{5} + 15 x^{4} + 30 x^{3} + 30 x^{2} - 33 x - 45=\\left(x + 3\\right)\\left(3 x^{4} + 6 x^{3} + 12 x^{2} - 6 x - 15\\right)\\)",
+        "\\(\\begin{array}{r|rrrrr} & 3 & 6 & 12 & -6 & -15\\\\-1 & & -3 & -3 & -9 & 15\\\\\\hline & 3 & 3 & 9 & -15 & 0\\end{array}\\)",
+        "\\(3 x^{4} + 6 x^{3} + 12 x^{2} - 6 x - 15=\\left(x + 1\\right)\\left(3 x^{3} + 3 x^{2} + 9 x - 15\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 3 & 3 & 9 & -15\\\\1 & & 3 & 6 & 15\\\\\\hline & 3 & 6 & 15 & 0\\end{array}\\)",
+        "\\(3 x^{3} + 3 x^{2} + 9 x - 15=\\left(x - 1\\right)\\left(3 x^{2} + 6 x + 15\\right)\\)",
+        "\\(3 x^{2} + 6 x + 15=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(3)\\cdot(15)=-144\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=3 \\left(x - 1\\right) \\left(x + 1\\right) \\left(x + 3\\right) \\left(x^{2} + 2 x + 5\\right)\\)",
+        "\\(\\text{Factores: }x - 1;\\quad x + 1;\\quad x + 3;\\quad x^{2} + 2 x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1b · variante propia",
+    "polynomial": "3*x**5 + 15*x**4 + 30*x**3 + 30*x**2 - 33*x - 45",
+    "factorization": "3*(x - 1)*(x + 1)*(x + 3)*(x**2 + 2*x + 5)",
+    "roots": {
+      "1": 1,
+      "-1": 1,
+      "-3": 1
+    }
+  },
+  {
+    "id": "U2-FP-007",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{3} + x^{2} - 5 x - 10",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 2\\right) \\left(2 x^{2} + 5 x + 5\\right)\\\\\\text{Raíces reales: }2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 2 & 1 & -5 & -10\\\\2 & & 4 & 10 & 10\\\\\\hline & 2 & 5 & 5 & 0\\end{array}\\)",
+        "\\(2 x^{3} + x^{2} - 5 x - 10=\\left(x - 2\\right)\\left(2 x^{2} + 5 x + 5\\right)\\)",
+        "\\(2 x^{2} + 5 x + 5=0\\quad\\Longrightarrow\\quad\\Delta=25-4\\cdot(2)\\cdot(5)=-15\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 2\\right) \\left(2 x^{2} + 5 x + 5\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad 2 x^{2} + 5 x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1c",
+    "polynomial": "2*x**3 + x**2 - 5*x - 10",
+    "factorization": "(x - 2)*(2*x**2 + 5*x + 5)",
+    "roots": {
+      "2": 1
+    }
+  },
+  {
+    "id": "U2-FP-008",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{3} - 5 x^{2} - x - 6",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(2 x^{2} + x + 2\\right)\\\\\\text{Raíces reales: }3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 2 & -5 & -1 & -6\\\\3 & & 6 & 3 & 6\\\\\\hline & 2 & 1 & 2 & 0\\end{array}\\)",
+        "\\(2 x^{3} - 5 x^{2} - x - 6=\\left(x - 3\\right)\\left(2 x^{2} + x + 2\\right)\\)",
+        "\\(2 x^{2} + x + 2=0\\quad\\Longrightarrow\\quad\\Delta=1-4\\cdot(2)\\cdot(2)=-15\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(2 x^{2} + x + 2\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad 2 x^{2} + x + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1c · variante propia",
+    "polynomial": "2*x**3 - 5*x**2 - x - 6",
+    "factorization": "(x - 3)*(2*x**2 + x + 2)",
+    "roots": {
+      "3": 1
+    }
+  },
+  {
+    "id": "U2-FP-009",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{3} + 7 x^{2} + 3 x - 12",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 1\\right) \\left(2 x^{2} + 9 x + 12\\right)\\\\\\text{Raíces reales: }1\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 2 & 7 & 3 & -12\\\\1 & & 2 & 9 & 12\\\\\\hline & 2 & 9 & 12 & 0\\end{array}\\)",
+        "\\(2 x^{3} + 7 x^{2} + 3 x - 12=\\left(x - 1\\right)\\left(2 x^{2} + 9 x + 12\\right)\\)",
+        "\\(2 x^{2} + 9 x + 12=0\\quad\\Longrightarrow\\quad\\Delta=81-4\\cdot(2)\\cdot(12)=-15\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 1\\right) \\left(2 x^{2} + 9 x + 12\\right)\\)",
+        "\\(\\text{Factores: }x - 1;\\quad 2 x^{2} + 9 x + 12\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1c · variante propia",
+    "polynomial": "2*x**3 + 7*x**2 + 3*x - 12",
+    "factorization": "(x - 1)*(2*x**2 + 9*x + 12)",
+    "roots": {
+      "1": 1
+    }
+  },
+  {
+    "id": "U2-FP-010",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 7 x^{2} + 8 x + 16",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 4\\right)^{2} \\left(x + 1\\right)\\\\\\text{Raíces reales: }-1;\\quad 4\\;(2\\text{ veces})\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -7 & 8 & 16\\\\-1 & & -1 & 8 & -16\\\\\\hline & 1 & -8 & 16 & 0\\end{array}\\)",
+        "\\(x^{3} - 7 x^{2} + 8 x + 16=\\left(x + 1\\right)\\left(x^{2} - 8 x + 16\\right)\\)",
+        "\\(x^{2} - 8 x + 16=0\\quad\\Longrightarrow\\quad\\Delta=64-4\\cdot(1)\\cdot(16)=0\\)",
+        "\\(x=\\frac{-(-8)\\pm\\sqrt{0}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{4\\right\\}\\)",
+        "\\(P(x)=\\left(x - 4\\right)^{2} \\left(x + 1\\right)\\)",
+        "\\(\\text{Factores: }x + 1;\\quad x - 4\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1d",
+    "polynomial": "x**3 - 7*x**2 + 8*x + 16",
+    "factorization": "(x - 4)**2*(x + 1)",
+    "roots": {
+      "-1": 1,
+      "4": 2
+    }
+  },
+  {
+    "id": "U2-FP-011",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 10 x^{2} + 25 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x - 5\\right)^{2}\\\\\\text{Raíces reales: }0;\\quad 5\\;(2\\text{ veces})\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -10 & 25 & 0\\\\0 & & 0 & 0 & 0\\\\\\hline & 1 & -10 & 25 & 0\\end{array}\\)",
+        "\\(x^{3} - 10 x^{2} + 25 x=\\left(x\\right)\\left(x^{2} - 10 x + 25\\right)\\)",
+        "\\(x^{2} - 10 x + 25=0\\quad\\Longrightarrow\\quad\\Delta=100-4\\cdot(1)\\cdot(25)=0\\)",
+        "\\(x=\\frac{-(-10)\\pm\\sqrt{0}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{5\\right\\}\\)",
+        "\\(P(x)=x \\left(x - 5\\right)^{2}\\)",
+        "\\(\\text{Factores: }x;\\quad x - 5\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1d · variante propia",
+    "polynomial": "x**3 - 10*x**2 + 25*x",
+    "factorization": "x*(x - 5)**2",
+    "roots": {
+      "5": 2,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-012",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 4 x^{2} - 3 x + 18",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right)^{2} \\left(x + 2\\right)\\\\\\text{Raíces reales: }-2;\\quad 3\\;(2\\text{ veces})\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -4 & -3 & 18\\\\-2 & & -2 & 12 & -18\\\\\\hline & 1 & -6 & 9 & 0\\end{array}\\)",
+        "\\(x^{3} - 4 x^{2} - 3 x + 18=\\left(x + 2\\right)\\left(x^{2} - 6 x + 9\\right)\\)",
+        "\\(x^{2} - 6 x + 9=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(1)\\cdot(9)=0\\)",
+        "\\(x=\\frac{-(-6)\\pm\\sqrt{0}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{3\\right\\}\\)",
+        "\\(P(x)=\\left(x - 3\\right)^{2} \\left(x + 2\\right)\\)",
+        "\\(\\text{Factores: }x + 2;\\quad x - 3\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1d · variante propia",
+    "polynomial": "x**3 - 4*x**2 - 3*x + 18",
+    "factorization": "(x - 3)**2*(x + 2)",
+    "roots": {
+      "-2": 1,
+      "3": 2
+    }
+  },
+  {
+    "id": "U2-FP-013",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} + 2 x^{3} - 23 x^{2} - 60 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x - 5\\right) \\left(x + 3\\right) \\left(x + 4\\right)\\\\\\text{Raíces reales: }-4;\\quad -3;\\quad 0;\\quad 5\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & 2 & -23 & -60 & 0\\\\-4 & & -4 & 8 & 60 & 0\\\\\\hline & 1 & -2 & -15 & 0 & 0\\end{array}\\)",
+        "\\(x^{4} + 2 x^{3} - 23 x^{2} - 60 x=\\left(x + 4\\right)\\left(x^{3} - 2 x^{2} - 15 x\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & -2 & -15 & 0\\\\-3 & & -3 & 15 & 0\\\\\\hline & 1 & -5 & 0 & 0\\end{array}\\)",
+        "\\(x^{3} - 2 x^{2} - 15 x=\\left(x + 3\\right)\\left(x^{2} - 5 x\\right)\\)",
+        "\\(x^{2} - 5 x=0\\quad\\Longrightarrow\\quad\\Delta=25-4\\cdot(1)\\cdot(0)=25\\)",
+        "\\(x=\\frac{-(-5)\\pm\\sqrt{25}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0,5\\right\\}\\)",
+        "\\(P(x)=x \\left(x - 5\\right) \\left(x + 3\\right) \\left(x + 4\\right)\\)",
+        "\\(\\text{Factores: }x - 5;\\quad x;\\quad x + 3;\\quad x + 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1e",
+    "polynomial": "x**4 + 2*x**3 - 23*x**2 - 60*x",
+    "factorization": "x*(x - 5)*(x + 3)*(x + 4)",
+    "roots": {
+      "5": 1,
+      "-3": 1,
+      "-4": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-014",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} - 2 x^{3} - 23 x^{2} - 12 x + 36",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 6\\right) \\left(x - 1\\right) \\left(x + 2\\right) \\left(x + 3\\right)\\\\\\text{Raíces reales: }-3;\\quad -2;\\quad 1;\\quad 6\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & -2 & -23 & -12 & 36\\\\-3 & & -3 & 15 & 24 & -36\\\\\\hline & 1 & -5 & -8 & 12 & 0\\end{array}\\)",
+        "\\(x^{4} - 2 x^{3} - 23 x^{2} - 12 x + 36=\\left(x + 3\\right)\\left(x^{3} - 5 x^{2} - 8 x + 12\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & -5 & -8 & 12\\\\-2 & & -2 & 14 & -12\\\\\\hline & 1 & -7 & 6 & 0\\end{array}\\)",
+        "\\(x^{3} - 5 x^{2} - 8 x + 12=\\left(x + 2\\right)\\left(x^{2} - 7 x + 6\\right)\\)",
+        "\\(x^{2} - 7 x + 6=0\\quad\\Longrightarrow\\quad\\Delta=49-4\\cdot(1)\\cdot(6)=25\\)",
+        "\\(x=\\frac{-(-7)\\pm\\sqrt{25}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{1,6\\right\\}\\)",
+        "\\(P(x)=\\left(x - 6\\right) \\left(x - 1\\right) \\left(x + 2\\right) \\left(x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 6;\\quad x - 1;\\quad x + 2;\\quad x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1e · variante propia",
+    "polynomial": "x**4 - 2*x**3 - 23*x**2 - 12*x + 36",
+    "factorization": "(x - 6)*(x - 1)*(x + 2)*(x + 3)",
+    "roots": {
+      "6": 1,
+      "1": 1,
+      "-2": 1,
+      "-3": 1
+    }
+  },
+  {
+    "id": "U2-FP-015",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} + 6 x^{3} - 11 x^{2} - 96 x - 80",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 4\\right) \\left(x + 1\\right) \\left(x + 4\\right) \\left(x + 5\\right)\\\\\\text{Raíces reales: }-5;\\quad -4;\\quad -1;\\quad 4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & 6 & -11 & -96 & -80\\\\-5 & & -5 & -5 & 80 & 80\\\\\\hline & 1 & 1 & -16 & -16 & 0\\end{array}\\)",
+        "\\(x^{4} + 6 x^{3} - 11 x^{2} - 96 x - 80=\\left(x + 5\\right)\\left(x^{3} + x^{2} - 16 x - 16\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & 1 & -16 & -16\\\\-4 & & -4 & 12 & 16\\\\\\hline & 1 & -3 & -4 & 0\\end{array}\\)",
+        "\\(x^{3} + x^{2} - 16 x - 16=\\left(x + 4\\right)\\left(x^{2} - 3 x - 4\\right)\\)",
+        "\\(x^{2} - 3 x - 4=0\\quad\\Longrightarrow\\quad\\Delta=9-4\\cdot(1)\\cdot(-4)=25\\)",
+        "\\(x=\\frac{-(-3)\\pm\\sqrt{25}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-1,4\\right\\}\\)",
+        "\\(P(x)=\\left(x - 4\\right) \\left(x + 1\\right) \\left(x + 4\\right) \\left(x + 5\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad x + 1;\\quad x + 4;\\quad x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1e · variante propia",
+    "polynomial": "x**4 + 6*x**3 - 11*x**2 - 96*x - 80",
+    "factorization": "(x - 4)*(x + 1)*(x + 4)*(x + 5)",
+    "roots": {
+      "4": 1,
+      "-1": 1,
+      "-4": 1,
+      "-5": 1
+    }
+  },
+  {
+    "id": "U2-FP-016",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=9 x^{4} - 36 x^{3} + 26 x^{2} + 4 x - 3",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(x - 1\\right) \\left(3 x - 1\\right) \\left(3 x + 1\\right)\\\\\\text{Raíces reales: }- \\frac{1}{3};\\quad \\frac{1}{3};\\quad 1;\\quad 3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 9 & -36 & 26 & 4 & -3\\\\- \\frac{1}{3} & & -3 & 13 & -13 & 3\\\\\\hline & 9 & -39 & 39 & -9 & 0\\end{array}\\)",
+        "\\(9 x^{4} - 36 x^{3} + 26 x^{2} + 4 x - 3=\\left(x + \\frac{1}{3}\\right)\\left(9 x^{3} - 39 x^{2} + 39 x - 9\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 9 & -39 & 39 & -9\\\\\\frac{1}{3} & & 3 & -12 & 9\\\\\\hline & 9 & -36 & 27 & 0\\end{array}\\)",
+        "\\(9 x^{3} - 39 x^{2} + 39 x - 9=\\left(x - \\frac{1}{3}\\right)\\left(9 x^{2} - 36 x + 27\\right)\\)",
+        "\\(9 x^{2} - 36 x + 27=0\\quad\\Longrightarrow\\quad\\Delta=1296-4\\cdot(9)\\cdot(27)=324\\)",
+        "\\(x=\\frac{-(-36)\\pm\\sqrt{324}}{2\\cdot(9)}\\quad\\Longrightarrow\\quad x\\in\\left\\{1,3\\right\\}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(x - 1\\right) \\left(3 x - 1\\right) \\left(3 x + 1\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x - 1;\\quad 3 x - 1;\\quad 3 x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1f",
+    "polynomial": "9*x**4 - 36*x**3 + 26*x**2 + 4*x - 3",
+    "factorization": "(x - 3)*(x - 1)*(3*x - 1)*(3*x + 1)",
+    "roots": {
+      "3": 1,
+      "1": 1,
+      "1/3": 1,
+      "-1/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-017",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=9 x^{4} - 72 x^{3} + 188 x^{2} - 192 x + 64",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 4\\right) \\left(x - 2\\right) \\left(3 x - 4\\right) \\left(3 x - 2\\right)\\\\\\text{Raíces reales: }\\frac{2}{3};\\quad \\frac{4}{3};\\quad 2;\\quad 4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 9 & -72 & 188 & -192 & 64\\\\\\frac{2}{3} & & 6 & -44 & 96 & -64\\\\\\hline & 9 & -66 & 144 & -96 & 0\\end{array}\\)",
+        "\\(9 x^{4} - 72 x^{3} + 188 x^{2} - 192 x + 64=\\left(x - \\frac{2}{3}\\right)\\left(9 x^{3} - 66 x^{2} + 144 x - 96\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 9 & -66 & 144 & -96\\\\\\frac{4}{3} & & 12 & -72 & 96\\\\\\hline & 9 & -54 & 72 & 0\\end{array}\\)",
+        "\\(9 x^{3} - 66 x^{2} + 144 x - 96=\\left(x - \\frac{4}{3}\\right)\\left(9 x^{2} - 54 x + 72\\right)\\)",
+        "\\(9 x^{2} - 54 x + 72=0\\quad\\Longrightarrow\\quad\\Delta=2916-4\\cdot(9)\\cdot(72)=324\\)",
+        "\\(x=\\frac{-(-54)\\pm\\sqrt{324}}{2\\cdot(9)}\\quad\\Longrightarrow\\quad x\\in\\left\\{2,4\\right\\}\\)",
+        "\\(P(x)=\\left(x - 4\\right) \\left(x - 2\\right) \\left(3 x - 4\\right) \\left(3 x - 2\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad x - 2;\\quad 3 x - 4;\\quad 3 x - 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1f · variante propia",
+    "polynomial": "9*x**4 - 72*x**3 + 188*x**2 - 192*x + 64",
+    "factorization": "(x - 4)*(x - 2)*(3*x - 4)*(3*x - 2)",
+    "roots": {
+      "4": 1,
+      "2": 1,
+      "4/3": 1,
+      "2/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-018",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=9 x^{4} - 28 x^{2} - 16 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x - 2\\right) \\left(3 x + 2\\right) \\left(3 x + 4\\right)\\\\\\text{Raíces reales: }- \\frac{4}{3};\\quad - \\frac{2}{3};\\quad 0;\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 9 & 0 & -28 & -16 & 0\\\\- \\frac{4}{3} & & -12 & 16 & 16 & 0\\\\\\hline & 9 & -12 & -12 & 0 & 0\\end{array}\\)",
+        "\\(9 x^{4} - 28 x^{2} - 16 x=\\left(x + \\frac{4}{3}\\right)\\left(9 x^{3} - 12 x^{2} - 12 x\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 9 & -12 & -12 & 0\\\\- \\frac{2}{3} & & -6 & 12 & 0\\\\\\hline & 9 & -18 & 0 & 0\\end{array}\\)",
+        "\\(9 x^{3} - 12 x^{2} - 12 x=\\left(x + \\frac{2}{3}\\right)\\left(9 x^{2} - 18 x\\right)\\)",
+        "\\(9 x^{2} - 18 x=0\\quad\\Longrightarrow\\quad\\Delta=324-4\\cdot(9)\\cdot(0)=324\\)",
+        "\\(x=\\frac{-(-18)\\pm\\sqrt{324}}{2\\cdot(9)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0,2\\right\\}\\)",
+        "\\(P(x)=x \\left(x - 2\\right) \\left(3 x + 2\\right) \\left(3 x + 4\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x;\\quad 3 x + 2;\\quad 3 x + 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 69, 1f · variante propia",
+    "polynomial": "9*x**4 - 28*x**2 - 16*x",
+    "factorization": "x*(x - 2)*(3*x + 2)*(3*x + 4)",
+    "roots": {
+      "2": 1,
+      "-2/3": 1,
+      "-4/3": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-019",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{2} + 4 x - 5",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 1\\right) \\left(x + 5\\right)\\\\\\text{Raíces reales: }-5;\\quad 1\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(x^{2} + 4 x - 5=0\\quad\\Longrightarrow\\quad\\Delta=16-4\\cdot(1)\\cdot(-5)=36\\)",
+        "\\(x=\\frac{-(4)\\pm\\sqrt{36}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-5,1\\right\\}\\)",
+        "\\(P(x)=\\left(x - 1\\right) \\left(x + 5\\right)\\)",
+        "\\(\\text{Factores: }x - 1;\\quad x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16a",
+    "polynomial": "x**2 + 4*x - 5",
+    "factorization": "(x - 1)*(x + 5)",
+    "roots": {
+      "1": 1,
+      "-5": 1
+    }
+  },
+  {
+    "id": "U2-FP-020",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{2} + 2 x - 8",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 2\\right) \\left(x + 4\\right)\\\\\\text{Raíces reales: }-4;\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(x^{2} + 2 x - 8=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(1)\\cdot(-8)=36\\)",
+        "\\(x=\\frac{-(2)\\pm\\sqrt{36}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-4,2\\right\\}\\)",
+        "\\(P(x)=\\left(x - 2\\right) \\left(x + 4\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x + 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16a · variante propia",
+    "polynomial": "x**2 + 2*x - 8",
+    "factorization": "(x - 2)*(x + 4)",
+    "roots": {
+      "2": 1,
+      "-4": 1
+    }
+  },
+  {
+    "id": "U2-FP-021",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{2} + 6 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x + 6\\right)\\\\\\text{Raíces reales: }-6;\\quad 0\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(x^{2} + 6 x=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(1)\\cdot(0)=36\\)",
+        "\\(x=\\frac{-(6)\\pm\\sqrt{36}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-6,0\\right\\}\\)",
+        "\\(P(x)=x \\left(x + 6\\right)\\)",
+        "\\(\\text{Factores: }x;\\quad x + 6\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16a · variante propia",
+    "polynomial": "x**2 + 6*x",
+    "factorization": "x*(x + 6)",
+    "roots": {
+      "-6": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-022",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{2} + 8 x + 15",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 3\\right) \\left(x + 5\\right)\\\\\\text{Raíces reales: }-5;\\quad -3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(x^{2} + 8 x + 15=0\\quad\\Longrightarrow\\quad\\Delta=64-4\\cdot(1)\\cdot(15)=4\\)",
+        "\\(x=\\frac{-(8)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-5,-3\\right\\}\\)",
+        "\\(P(x)=\\left(x + 3\\right) \\left(x + 5\\right)\\)",
+        "\\(\\text{Factores: }x + 3;\\quad x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16b",
+    "polynomial": "x**2 + 8*x + 15",
+    "factorization": "(x + 3)*(x + 5)",
+    "roots": {
+      "-3": 1,
+      "-5": 1
+    }
+  },
+  {
+    "id": "U2-FP-023",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{2} + 6 x + 8",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 2\\right) \\left(x + 4\\right)\\\\\\text{Raíces reales: }-4;\\quad -2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(x^{2} + 6 x + 8=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(1)\\cdot(8)=4\\)",
+        "\\(x=\\frac{-(6)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-4,-2\\right\\}\\)",
+        "\\(P(x)=\\left(x + 2\\right) \\left(x + 4\\right)\\)",
+        "\\(\\text{Factores: }x + 2;\\quad x + 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16b · variante propia",
+    "polynomial": "x**2 + 6*x + 8",
+    "factorization": "(x + 2)*(x + 4)",
+    "roots": {
+      "-2": 1,
+      "-4": 1
+    }
+  },
+  {
+    "id": "U2-FP-024",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{2} + 10 x + 24",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 4\\right) \\left(x + 6\\right)\\\\\\text{Raíces reales: }-6;\\quad -4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(x^{2} + 10 x + 24=0\\quad\\Longrightarrow\\quad\\Delta=100-4\\cdot(1)\\cdot(24)=4\\)",
+        "\\(x=\\frac{-(10)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-6,-4\\right\\}\\)",
+        "\\(P(x)=\\left(x + 4\\right) \\left(x + 6\\right)\\)",
+        "\\(\\text{Factores: }x + 4;\\quad x + 6\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16b · variante propia",
+    "polynomial": "x**2 + 10*x + 24",
+    "factorization": "(x + 4)*(x + 6)",
+    "roots": {
+      "-4": 1,
+      "-6": 1
+    }
+  },
+  {
+    "id": "U2-FP-025",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=7 x^{2} - 21 x - 280",
+    "answerLatex": "\\begin{gathered}P(x)=7 \\left(x - 8\\right) \\left(x + 5\\right)\\\\\\text{Raíces reales: }-5;\\quad 8\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(7 x^{2} - 21 x - 280=0\\quad\\Longrightarrow\\quad\\Delta=441-4\\cdot(7)\\cdot(-280)=8281\\)",
+        "\\(x=\\frac{-(-21)\\pm\\sqrt{8281}}{2\\cdot(7)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-5,8\\right\\}\\)",
+        "\\(P(x)=7 \\left(x - 8\\right) \\left(x + 5\\right)\\)",
+        "\\(\\text{Factores: }x - 8;\\quad x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16c",
+    "polynomial": "7*x**2 - 21*x - 280",
+    "factorization": "7*(x - 8)*(x + 5)",
+    "roots": {
+      "8": 1,
+      "-5": 1
+    }
+  },
+  {
+    "id": "U2-FP-026",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=7 x^{2} - 35 x - 252",
+    "answerLatex": "\\begin{gathered}P(x)=7 \\left(x - 9\\right) \\left(x + 4\\right)\\\\\\text{Raíces reales: }-4;\\quad 9\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(7 x^{2} - 35 x - 252=0\\quad\\Longrightarrow\\quad\\Delta=1225-4\\cdot(7)\\cdot(-252)=8281\\)",
+        "\\(x=\\frac{-(-35)\\pm\\sqrt{8281}}{2\\cdot(7)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-4,9\\right\\}\\)",
+        "\\(P(x)=7 \\left(x - 9\\right) \\left(x + 4\\right)\\)",
+        "\\(\\text{Factores: }x - 9;\\quad x + 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16c · variante propia",
+    "polynomial": "7*x**2 - 35*x - 252",
+    "factorization": "7*(x - 9)*(x + 4)",
+    "roots": {
+      "9": 1,
+      "-4": 1
+    }
+  },
+  {
+    "id": "U2-FP-027",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=7 x^{2} - 7 x - 294",
+    "answerLatex": "\\begin{gathered}P(x)=7 \\left(x - 7\\right) \\left(x + 6\\right)\\\\\\text{Raíces reales: }-6;\\quad 7\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(7 x^{2} - 7 x - 294=0\\quad\\Longrightarrow\\quad\\Delta=49-4\\cdot(7)\\cdot(-294)=8281\\)",
+        "\\(x=\\frac{-(-7)\\pm\\sqrt{8281}}{2\\cdot(7)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-6,7\\right\\}\\)",
+        "\\(P(x)=7 \\left(x - 7\\right) \\left(x + 6\\right)\\)",
+        "\\(\\text{Factores: }x - 7;\\quad x + 6\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16c · variante propia",
+    "polynomial": "7*x**2 - 7*x - 294",
+    "factorization": "7*(x - 7)*(x + 6)",
+    "roots": {
+      "7": 1,
+      "-6": 1
+    }
+  },
+  {
+    "id": "U2-FP-028",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} + 9 x - 210",
+    "answerLatex": "\\begin{gathered}P(x)=3 \\left(x - 7\\right) \\left(x + 10\\right)\\\\\\text{Raíces reales: }-10;\\quad 7\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} + 9 x - 210=0\\quad\\Longrightarrow\\quad\\Delta=81-4\\cdot(3)\\cdot(-210)=2601\\)",
+        "\\(x=\\frac{-(9)\\pm\\sqrt{2601}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-10,7\\right\\}\\)",
+        "\\(P(x)=3 \\left(x - 7\\right) \\left(x + 10\\right)\\)",
+        "\\(\\text{Factores: }x - 7;\\quad x + 10\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16d",
+    "polynomial": "3*x**2 + 9*x - 210",
+    "factorization": "3*(x - 7)*(x + 10)",
+    "roots": {
+      "7": 1,
+      "-10": 1
+    }
+  },
+  {
+    "id": "U2-FP-029",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} + 3 x - 216",
+    "answerLatex": "\\begin{gathered}P(x)=3 \\left(x - 8\\right) \\left(x + 9\\right)\\\\\\text{Raíces reales: }-9;\\quad 8\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} + 3 x - 216=0\\quad\\Longrightarrow\\quad\\Delta=9-4\\cdot(3)\\cdot(-216)=2601\\)",
+        "\\(x=\\frac{-(3)\\pm\\sqrt{2601}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-9,8\\right\\}\\)",
+        "\\(P(x)=3 \\left(x - 8\\right) \\left(x + 9\\right)\\)",
+        "\\(\\text{Factores: }x - 8;\\quad x + 9\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16d · variante propia",
+    "polynomial": "3*x**2 + 3*x - 216",
+    "factorization": "3*(x - 8)*(x + 9)",
+    "roots": {
+      "8": 1,
+      "-9": 1
+    }
+  },
+  {
+    "id": "U2-FP-030",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} + 15 x - 198",
+    "answerLatex": "\\begin{gathered}P(x)=3 \\left(x - 6\\right) \\left(x + 11\\right)\\\\\\text{Raíces reales: }-11;\\quad 6\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} + 15 x - 198=0\\quad\\Longrightarrow\\quad\\Delta=225-4\\cdot(3)\\cdot(-198)=2601\\)",
+        "\\(x=\\frac{-(15)\\pm\\sqrt{2601}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-11,6\\right\\}\\)",
+        "\\(P(x)=3 \\left(x - 6\\right) \\left(x + 11\\right)\\)",
+        "\\(\\text{Factores: }x - 6;\\quad x + 11\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16d · variante propia",
+    "polynomial": "3*x**2 + 15*x - 198",
+    "factorization": "3*(x - 6)*(x + 11)",
+    "roots": {
+      "6": 1,
+      "-11": 1
+    }
+  },
+  {
+    "id": "U2-FP-031",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{2} - 9 x - 5",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 5\\right) \\left(2 x + 1\\right)\\\\\\text{Raíces reales: }- \\frac{1}{2};\\quad 5\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(2 x^{2} - 9 x - 5=0\\quad\\Longrightarrow\\quad\\Delta=81-4\\cdot(2)\\cdot(-5)=121\\)",
+        "\\(x=\\frac{-(-9)\\pm\\sqrt{121}}{2\\cdot(2)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{1}{2},5\\right\\}\\)",
+        "\\(P(x)=\\left(x - 5\\right) \\left(2 x + 1\\right)\\)",
+        "\\(\\text{Factores: }x - 5;\\quad 2 x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16e",
+    "polynomial": "2*x**2 - 9*x - 5",
+    "factorization": "(x - 5)*(2*x + 1)",
+    "roots": {
+      "5": 1,
+      "-1/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-032",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{2} - 13 x + 6",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 6\\right) \\left(2 x - 1\\right)\\\\\\text{Raíces reales: }\\frac{1}{2};\\quad 6\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(2 x^{2} - 13 x + 6=0\\quad\\Longrightarrow\\quad\\Delta=169-4\\cdot(2)\\cdot(6)=121\\)",
+        "\\(x=\\frac{-(-13)\\pm\\sqrt{121}}{2\\cdot(2)}\\quad\\Longrightarrow\\quad x\\in\\left\\{\\frac{1}{2},6\\right\\}\\)",
+        "\\(P(x)=\\left(x - 6\\right) \\left(2 x - 1\\right)\\)",
+        "\\(\\text{Factores: }x - 6;\\quad 2 x - 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16e · variante propia",
+    "polynomial": "2*x**2 - 13*x + 6",
+    "factorization": "(x - 6)*(2*x - 1)",
+    "roots": {
+      "6": 1,
+      "1/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-033",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{2} - 5 x - 12",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 4\\right) \\left(2 x + 3\\right)\\\\\\text{Raíces reales: }- \\frac{3}{2};\\quad 4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(2 x^{2} - 5 x - 12=0\\quad\\Longrightarrow\\quad\\Delta=25-4\\cdot(2)\\cdot(-12)=121\\)",
+        "\\(x=\\frac{-(-5)\\pm\\sqrt{121}}{2\\cdot(2)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{3}{2},4\\right\\}\\)",
+        "\\(P(x)=\\left(x - 4\\right) \\left(2 x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad 2 x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16e · variante propia",
+    "polynomial": "2*x**2 - 5*x - 12",
+    "factorization": "(x - 4)*(2*x + 3)",
+    "roots": {
+      "4": 1,
+      "-3/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-034",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} - 2 x - 5",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 1\\right) \\left(3 x - 5\\right)\\\\\\text{Raíces reales: }-1;\\quad \\frac{5}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} - 2 x - 5=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(3)\\cdot(-5)=64\\)",
+        "\\(x=\\frac{-(-2)\\pm\\sqrt{64}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-1,\\frac{5}{3}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 1\\right) \\left(3 x - 5\\right)\\)",
+        "\\(\\text{Factores: }x + 1;\\quad 3 x - 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16f",
+    "polynomial": "3*x**2 - 2*x - 5",
+    "factorization": "(x + 1)*(3*x - 5)",
+    "roots": {
+      "-1": 1,
+      "5/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-035",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} - 8 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(3 x - 8\\right)\\\\\\text{Raíces reales: }0;\\quad \\frac{8}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} - 8 x=0\\quad\\Longrightarrow\\quad\\Delta=64-4\\cdot(3)\\cdot(0)=64\\)",
+        "\\(x=\\frac{-(-8)\\pm\\sqrt{64}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0,\\frac{8}{3}\\right\\}\\)",
+        "\\(P(x)=x \\left(3 x - 8\\right)\\)",
+        "\\(\\text{Factores: }x;\\quad 3 x - 8\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16f · variante propia",
+    "polynomial": "3*x**2 - 8*x",
+    "factorization": "x*(3*x - 8)",
+    "roots": {
+      "8/3": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-036",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{2} + 4 x - 4",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 2\\right) \\left(3 x - 2\\right)\\\\\\text{Raíces reales: }-2;\\quad \\frac{2}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(3 x^{2} + 4 x - 4=0\\quad\\Longrightarrow\\quad\\Delta=16-4\\cdot(3)\\cdot(-4)=64\\)",
+        "\\(x=\\frac{-(4)\\pm\\sqrt{64}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-2,\\frac{2}{3}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 2\\right) \\left(3 x - 2\\right)\\)",
+        "\\(\\text{Factores: }x + 2;\\quad 3 x - 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16f · variante propia",
+    "polynomial": "3*x**2 + 4*x - 4",
+    "factorization": "(x + 2)*(3*x - 2)",
+    "roots": {
+      "-2": 1,
+      "2/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-037",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{2} + 17 x + 15",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 3\\right) \\left(4 x + 5\\right)\\\\\\text{Raíces reales: }-3;\\quad - \\frac{5}{4}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(4 x^{2} + 17 x + 15=0\\quad\\Longrightarrow\\quad\\Delta=289-4\\cdot(4)\\cdot(15)=49\\)",
+        "\\(x=\\frac{-(17)\\pm\\sqrt{49}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-3,- \\frac{5}{4}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 3\\right) \\left(4 x + 5\\right)\\)",
+        "\\(\\text{Factores: }x + 3;\\quad 4 x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16g",
+    "polynomial": "4*x**2 + 17*x + 15",
+    "factorization": "(x + 3)*(4*x + 5)",
+    "roots": {
+      "-3": 1,
+      "-5/4": 1
+    }
+  },
+  {
+    "id": "U2-FP-038",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{2} + 9 x + 2",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 2\\right) \\left(4 x + 1\\right)\\\\\\text{Raíces reales: }-2;\\quad - \\frac{1}{4}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(4 x^{2} + 9 x + 2=0\\quad\\Longrightarrow\\quad\\Delta=81-4\\cdot(4)\\cdot(2)=49\\)",
+        "\\(x=\\frac{-(9)\\pm\\sqrt{49}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-2,- \\frac{1}{4}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 2\\right) \\left(4 x + 1\\right)\\)",
+        "\\(\\text{Factores: }x + 2;\\quad 4 x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16g · variante propia",
+    "polynomial": "4*x**2 + 9*x + 2",
+    "factorization": "(x + 2)*(4*x + 1)",
+    "roots": {
+      "-2": 1,
+      "-1/4": 1
+    }
+  },
+  {
+    "id": "U2-FP-039",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{2} + 25 x + 36",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 4\\right) \\left(4 x + 9\\right)\\\\\\text{Raíces reales: }-4;\\quad - \\frac{9}{4}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(4 x^{2} + 25 x + 36=0\\quad\\Longrightarrow\\quad\\Delta=625-4\\cdot(4)\\cdot(36)=49\\)",
+        "\\(x=\\frac{-(25)\\pm\\sqrt{49}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-4,- \\frac{9}{4}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 4\\right) \\left(4 x + 9\\right)\\)",
+        "\\(\\text{Factores: }x + 4;\\quad 4 x + 9\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16g · variante propia",
+    "polynomial": "4*x**2 + 25*x + 36",
+    "factorization": "(x + 4)*(4*x + 9)",
+    "roots": {
+      "-4": 1,
+      "-9/4": 1
+    }
+  },
+  {
+    "id": "U2-FP-040",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=- x^{2} + 17 x - 72",
+    "answerLatex": "\\begin{gathered}P(x)=- \\left(x - 9\\right) \\left(x - 8\\right)\\\\\\text{Raíces reales: }8;\\quad 9\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(- x^{2} + 17 x - 72=0\\quad\\Longrightarrow\\quad\\Delta=289-4\\cdot(-1)\\cdot(-72)=1\\)",
+        "\\(x=\\frac{-(17)\\pm\\sqrt{1}}{2\\cdot(-1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{8,9\\right\\}\\)",
+        "\\(P(x)=- \\left(x - 9\\right) \\left(x - 8\\right)\\)",
+        "\\(\\text{Factores: }x - 9;\\quad x - 8\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16h",
+    "polynomial": "-x**2 + 17*x - 72",
+    "factorization": "-(x - 9)*(x - 8)",
+    "roots": {
+      "9": 1,
+      "8": 1
+    }
+  },
+  {
+    "id": "U2-FP-041",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=- x^{2} + 19 x - 90",
+    "answerLatex": "\\begin{gathered}P(x)=- \\left(x - 10\\right) \\left(x - 9\\right)\\\\\\text{Raíces reales: }9;\\quad 10\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(- x^{2} + 19 x - 90=0\\quad\\Longrightarrow\\quad\\Delta=361-4\\cdot(-1)\\cdot(-90)=1\\)",
+        "\\(x=\\frac{-(19)\\pm\\sqrt{1}}{2\\cdot(-1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{9,10\\right\\}\\)",
+        "\\(P(x)=- \\left(x - 10\\right) \\left(x - 9\\right)\\)",
+        "\\(\\text{Factores: }x - 10;\\quad x - 9\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16h · variante propia",
+    "polynomial": "-x**2 + 19*x - 90",
+    "factorization": "-(x - 10)*(x - 9)",
+    "roots": {
+      "10": 1,
+      "9": 1
+    }
+  },
+  {
+    "id": "U2-FP-042",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=- x^{2} + 15 x - 56",
+    "answerLatex": "\\begin{gathered}P(x)=- \\left(x - 8\\right) \\left(x - 7\\right)\\\\\\text{Raíces reales: }7;\\quad 8\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(- x^{2} + 15 x - 56=0\\quad\\Longrightarrow\\quad\\Delta=225-4\\cdot(-1)\\cdot(-56)=1\\)",
+        "\\(x=\\frac{-(15)\\pm\\sqrt{1}}{2\\cdot(-1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{7,8\\right\\}\\)",
+        "\\(P(x)=- \\left(x - 8\\right) \\left(x - 7\\right)\\)",
+        "\\(\\text{Factores: }x - 8;\\quad x - 7\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 16h · variante propia",
+    "polynomial": "-x**2 + 15*x - 56",
+    "factorization": "-(x - 8)*(x - 7)",
+    "roots": {
+      "8": 1,
+      "7": 1
+    }
+  },
+  {
+    "id": "U2-FP-043",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} + 2 x^{2} - x - 2",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 1\\right) \\left(x + 1\\right) \\left(x + 2\\right)\\\\\\text{Raíces reales: }-2;\\quad -1;\\quad 1\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & 2 & -1 & -2\\\\-2 & & -2 & 0 & 2\\\\\\hline & 1 & 0 & -1 & 0\\end{array}\\)",
+        "\\(x^{3} + 2 x^{2} - x - 2=\\left(x + 2\\right)\\left(x^{2} - 1\\right)\\)",
+        "\\(x^{2} - 1=0\\quad\\Longrightarrow\\quad\\Delta=0-4\\cdot(1)\\cdot(-1)=4\\)",
+        "\\(x=\\frac{-(0)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-1,1\\right\\}\\)",
+        "\\(P(x)=\\left(x - 1\\right) \\left(x + 1\\right) \\left(x + 2\\right)\\)",
+        "\\(\\text{Factores: }x - 1;\\quad x + 1;\\quad x + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17a",
+    "polynomial": "x**3 + 2*x**2 - x - 2",
+    "factorization": "(x - 1)*(x + 1)*(x + 2)",
+    "roots": {
+      "1": 1,
+      "-1": 1,
+      "-2": 1
+    }
+  },
+  {
+    "id": "U2-FP-044",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - x^{2} - 2 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x - 2\\right) \\left(x + 1\\right)\\\\\\text{Raíces reales: }-1;\\quad 0;\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -1 & -2 & 0\\\\-1 & & -1 & 2 & 0\\\\\\hline & 1 & -2 & 0 & 0\\end{array}\\)",
+        "\\(x^{3} - x^{2} - 2 x=\\left(x + 1\\right)\\left(x^{2} - 2 x\\right)\\)",
+        "\\(x^{2} - 2 x=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(1)\\cdot(0)=4\\)",
+        "\\(x=\\frac{-(-2)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0,2\\right\\}\\)",
+        "\\(P(x)=x \\left(x - 2\\right) \\left(x + 1\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x;\\quad x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17a · variante propia",
+    "polynomial": "x**3 - x**2 - 2*x",
+    "factorization": "x*(x - 2)*(x + 1)",
+    "roots": {
+      "2": 1,
+      "-1": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-045",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} + 5 x^{2} + 6 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x + 2\\right) \\left(x + 3\\right)\\\\\\text{Raíces reales: }-3;\\quad -2;\\quad 0\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & 5 & 6 & 0\\\\-3 & & -3 & -6 & 0\\\\\\hline & 1 & 2 & 0 & 0\\end{array}\\)",
+        "\\(x^{3} + 5 x^{2} + 6 x=\\left(x + 3\\right)\\left(x^{2} + 2 x\\right)\\)",
+        "\\(x^{2} + 2 x=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(1)\\cdot(0)=4\\)",
+        "\\(x=\\frac{-(2)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-2,0\\right\\}\\)",
+        "\\(P(x)=x \\left(x + 2\\right) \\left(x + 3\\right)\\)",
+        "\\(\\text{Factores: }x;\\quad x + 2;\\quad x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17a · variante propia",
+    "polynomial": "x**3 + 5*x**2 + 6*x",
+    "factorization": "x*(x + 2)*(x + 3)",
+    "roots": {
+      "-2": 1,
+      "-3": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-046",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{3} - 15 x^{2} + 12 x",
+    "answerLatex": "\\begin{gathered}P(x)=3 x \\left(x - 4\\right) \\left(x - 1\\right)\\\\\\text{Raíces reales: }0;\\quad 1;\\quad 4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 3 & -15 & 12 & 0\\\\0 & & 0 & 0 & 0\\\\\\hline & 3 & -15 & 12 & 0\\end{array}\\)",
+        "\\(3 x^{3} - 15 x^{2} + 12 x=\\left(x\\right)\\left(3 x^{2} - 15 x + 12\\right)\\)",
+        "\\(3 x^{2} - 15 x + 12=0\\quad\\Longrightarrow\\quad\\Delta=225-4\\cdot(3)\\cdot(12)=81\\)",
+        "\\(x=\\frac{-(-15)\\pm\\sqrt{81}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{1,4\\right\\}\\)",
+        "\\(P(x)=3 x \\left(x - 4\\right) \\left(x - 1\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad x - 1;\\quad x\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17b",
+    "polynomial": "3*x**3 - 15*x**2 + 12*x",
+    "factorization": "3*x*(x - 4)*(x - 1)",
+    "roots": {
+      "4": 1,
+      "1": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-047",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{3} - 24 x^{2} + 51 x - 30",
+    "answerLatex": "\\begin{gathered}P(x)=3 \\left(x - 5\\right) \\left(x - 2\\right) \\left(x - 1\\right)\\\\\\text{Raíces reales: }1;\\quad 2;\\quad 5\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 3 & -24 & 51 & -30\\\\1 & & 3 & -21 & 30\\\\\\hline & 3 & -21 & 30 & 0\\end{array}\\)",
+        "\\(3 x^{3} - 24 x^{2} + 51 x - 30=\\left(x - 1\\right)\\left(3 x^{2} - 21 x + 30\\right)\\)",
+        "\\(3 x^{2} - 21 x + 30=0\\quad\\Longrightarrow\\quad\\Delta=441-4\\cdot(3)\\cdot(30)=81\\)",
+        "\\(x=\\frac{-(-21)\\pm\\sqrt{81}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{2,5\\right\\}\\)",
+        "\\(P(x)=3 \\left(x - 5\\right) \\left(x - 2\\right) \\left(x - 1\\right)\\)",
+        "\\(\\text{Factores: }x - 5;\\quad x - 2;\\quad x - 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17b · variante propia",
+    "polynomial": "3*x**3 - 24*x**2 + 51*x - 30",
+    "factorization": "3*(x - 5)*(x - 2)*(x - 1)",
+    "roots": {
+      "5": 1,
+      "2": 1,
+      "1": 1
+    }
+  },
+  {
+    "id": "U2-FP-048",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{3} - 6 x^{2} - 9 x",
+    "answerLatex": "\\begin{gathered}P(x)=3 x \\left(x - 3\\right) \\left(x + 1\\right)\\\\\\text{Raíces reales: }-1;\\quad 0;\\quad 3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 3 & -6 & -9 & 0\\\\-1 & & -3 & 9 & 0\\\\\\hline & 3 & -9 & 0 & 0\\end{array}\\)",
+        "\\(3 x^{3} - 6 x^{2} - 9 x=\\left(x + 1\\right)\\left(3 x^{2} - 9 x\\right)\\)",
+        "\\(3 x^{2} - 9 x=0\\quad\\Longrightarrow\\quad\\Delta=81-4\\cdot(3)\\cdot(0)=81\\)",
+        "\\(x=\\frac{-(-9)\\pm\\sqrt{81}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0,3\\right\\}\\)",
+        "\\(P(x)=3 x \\left(x - 3\\right) \\left(x + 1\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x;\\quad x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17b · variante propia",
+    "polynomial": "3*x**3 - 6*x**2 - 9*x",
+    "factorization": "3*x*(x - 3)*(x + 1)",
+    "roots": {
+      "3": 1,
+      "-1": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-049",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 9 x^{2} + 15 x - 7",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 7\\right) \\left(x - 1\\right)^{2}\\\\\\text{Raíces reales: }1\\;(2\\text{ veces});\\quad 7\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -9 & 15 & -7\\\\1 & & 1 & -8 & 7\\\\\\hline & 1 & -8 & 7 & 0\\end{array}\\)",
+        "\\(x^{3} - 9 x^{2} + 15 x - 7=\\left(x - 1\\right)\\left(x^{2} - 8 x + 7\\right)\\)",
+        "\\(x^{2} - 8 x + 7=0\\quad\\Longrightarrow\\quad\\Delta=64-4\\cdot(1)\\cdot(7)=36\\)",
+        "\\(x=\\frac{-(-8)\\pm\\sqrt{36}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{1,7\\right\\}\\)",
+        "\\(P(x)=\\left(x - 7\\right) \\left(x - 1\\right)^{2}\\)",
+        "\\(\\text{Factores: }x - 7;\\quad x - 1\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17c",
+    "polynomial": "x**3 - 9*x**2 + 15*x - 7",
+    "factorization": "(x - 7)*(x - 1)**2",
+    "roots": {
+      "7": 1,
+      "1": 2
+    }
+  },
+  {
+    "id": "U2-FP-050",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 12 x^{2} + 36 x - 32",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 8\\right) \\left(x - 2\\right)^{2}\\\\\\text{Raíces reales: }2\\;(2\\text{ veces});\\quad 8\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -12 & 36 & -32\\\\2 & & 2 & -20 & 32\\\\\\hline & 1 & -10 & 16 & 0\\end{array}\\)",
+        "\\(x^{3} - 12 x^{2} + 36 x - 32=\\left(x - 2\\right)\\left(x^{2} - 10 x + 16\\right)\\)",
+        "\\(x^{2} - 10 x + 16=0\\quad\\Longrightarrow\\quad\\Delta=100-4\\cdot(1)\\cdot(16)=36\\)",
+        "\\(x=\\frac{-(-10)\\pm\\sqrt{36}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{2,8\\right\\}\\)",
+        "\\(P(x)=\\left(x - 8\\right) \\left(x - 2\\right)^{2}\\)",
+        "\\(\\text{Factores: }x - 8;\\quad x - 2\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17c · variante propia",
+    "polynomial": "x**3 - 12*x**2 + 36*x - 32",
+    "factorization": "(x - 8)*(x - 2)**2",
+    "roots": {
+      "8": 1,
+      "2": 2
+    }
+  },
+  {
+    "id": "U2-FP-051",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 6 x^{2}",
+    "answerLatex": "\\begin{gathered}P(x)=x^{2} \\left(x - 6\\right)\\\\\\text{Raíces reales: }0\\;(2\\text{ veces});\\quad 6\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -6 & 0 & 0\\\\0 & & 0 & 0 & 0\\\\\\hline & 1 & -6 & 0 & 0\\end{array}\\)",
+        "\\(x^{3} - 6 x^{2}=\\left(x\\right)\\left(x^{2} - 6 x\\right)\\)",
+        "\\(x^{2} - 6 x=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(1)\\cdot(0)=36\\)",
+        "\\(x=\\frac{-(-6)\\pm\\sqrt{36}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0,6\\right\\}\\)",
+        "\\(P(x)=x^{2} \\left(x - 6\\right)\\)",
+        "\\(\\text{Factores: }x - 6;\\quad x\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17c · variante propia",
+    "polynomial": "x**3 - 6*x**2",
+    "factorization": "x**2*(x - 6)",
+    "roots": {
+      "6": 1,
+      "0": 2
+    }
+  },
+  {
+    "id": "U2-FP-052",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} - 13 x^{2} + 36",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(x - 2\\right) \\left(x + 2\\right) \\left(x + 3\\right)\\\\\\text{Raíces reales: }-3;\\quad -2;\\quad 2;\\quad 3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & 0 & -13 & 0 & 36\\\\-3 & & -3 & 9 & 12 & -36\\\\\\hline & 1 & -3 & -4 & 12 & 0\\end{array}\\)",
+        "\\(x^{4} - 13 x^{2} + 36=\\left(x + 3\\right)\\left(x^{3} - 3 x^{2} - 4 x + 12\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & -3 & -4 & 12\\\\-2 & & -2 & 10 & -12\\\\\\hline & 1 & -5 & 6 & 0\\end{array}\\)",
+        "\\(x^{3} - 3 x^{2} - 4 x + 12=\\left(x + 2\\right)\\left(x^{2} - 5 x + 6\\right)\\)",
+        "\\(x^{2} - 5 x + 6=0\\quad\\Longrightarrow\\quad\\Delta=25-4\\cdot(1)\\cdot(6)=1\\)",
+        "\\(x=\\frac{-(-5)\\pm\\sqrt{1}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{2,3\\right\\}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(x - 2\\right) \\left(x + 2\\right) \\left(x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x - 2;\\quad x + 2;\\quad x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17d",
+    "polynomial": "x**4 - 13*x**2 + 36",
+    "factorization": "(x - 3)*(x - 2)*(x + 2)*(x + 3)",
+    "roots": {
+      "3": 1,
+      "2": 1,
+      "-2": 1,
+      "-3": 1
+    }
+  },
+  {
+    "id": "U2-FP-053",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} - 4 x^{3} - 7 x^{2} + 22 x + 24",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 4\\right) \\left(x - 3\\right) \\left(x + 1\\right) \\left(x + 2\\right)\\\\\\text{Raíces reales: }-2;\\quad -1;\\quad 3;\\quad 4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & -4 & -7 & 22 & 24\\\\-2 & & -2 & 12 & -10 & -24\\\\\\hline & 1 & -6 & 5 & 12 & 0\\end{array}\\)",
+        "\\(x^{4} - 4 x^{3} - 7 x^{2} + 22 x + 24=\\left(x + 2\\right)\\left(x^{3} - 6 x^{2} + 5 x + 12\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & -6 & 5 & 12\\\\-1 & & -1 & 7 & -12\\\\\\hline & 1 & -7 & 12 & 0\\end{array}\\)",
+        "\\(x^{3} - 6 x^{2} + 5 x + 12=\\left(x + 1\\right)\\left(x^{2} - 7 x + 12\\right)\\)",
+        "\\(x^{2} - 7 x + 12=0\\quad\\Longrightarrow\\quad\\Delta=49-4\\cdot(1)\\cdot(12)=1\\)",
+        "\\(x=\\frac{-(-7)\\pm\\sqrt{1}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{3,4\\right\\}\\)",
+        "\\(P(x)=\\left(x - 4\\right) \\left(x - 3\\right) \\left(x + 1\\right) \\left(x + 2\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad x - 3;\\quad x + 1;\\quad x + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17d · variante propia",
+    "polynomial": "x**4 - 4*x**3 - 7*x**2 + 22*x + 24",
+    "factorization": "(x - 4)*(x - 3)*(x + 1)*(x + 2)",
+    "roots": {
+      "4": 1,
+      "3": 1,
+      "-1": 1,
+      "-2": 1
+    }
+  },
+  {
+    "id": "U2-FP-054",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} + 4 x^{3} - 7 x^{2} - 22 x + 24",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 2\\right) \\left(x - 1\\right) \\left(x + 3\\right) \\left(x + 4\\right)\\\\\\text{Raíces reales: }-4;\\quad -3;\\quad 1;\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & 4 & -7 & -22 & 24\\\\-4 & & -4 & 0 & 28 & -24\\\\\\hline & 1 & 0 & -7 & 6 & 0\\end{array}\\)",
+        "\\(x^{4} + 4 x^{3} - 7 x^{2} - 22 x + 24=\\left(x + 4\\right)\\left(x^{3} - 7 x + 6\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & 0 & -7 & 6\\\\-3 & & -3 & 9 & -6\\\\\\hline & 1 & -3 & 2 & 0\\end{array}\\)",
+        "\\(x^{3} - 7 x + 6=\\left(x + 3\\right)\\left(x^{2} - 3 x + 2\\right)\\)",
+        "\\(x^{2} - 3 x + 2=0\\quad\\Longrightarrow\\quad\\Delta=9-4\\cdot(1)\\cdot(2)=1\\)",
+        "\\(x=\\frac{-(-3)\\pm\\sqrt{1}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{1,2\\right\\}\\)",
+        "\\(P(x)=\\left(x - 2\\right) \\left(x - 1\\right) \\left(x + 3\\right) \\left(x + 4\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x - 1;\\quad x + 3;\\quad x + 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 17d · variante propia",
+    "polynomial": "x**4 + 4*x**3 - 7*x**2 - 22*x + 24",
+    "factorization": "(x - 2)*(x - 1)*(x + 3)*(x + 4)",
+    "roots": {
+      "2": 1,
+      "1": 1,
+      "-3": 1,
+      "-4": 1
+    }
+  },
+  {
+    "id": "U2-FP-055",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 2 x^{2} - 2 x - 3",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(x^{2} + x + 1\\right)\\\\\\text{Raíces reales: }3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -2 & -2 & -3\\\\3 & & 3 & 3 & 3\\\\\\hline & 1 & 1 & 1 & 0\\end{array}\\)",
+        "\\(x^{3} - 2 x^{2} - 2 x - 3=\\left(x - 3\\right)\\left(x^{2} + x + 1\\right)\\)",
+        "\\(x^{2} + x + 1=0\\quad\\Longrightarrow\\quad\\Delta=1-4\\cdot(1)\\cdot(1)=-3\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(x^{2} + x + 1\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x^{2} + x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29a",
+    "polynomial": "x**3 - 2*x**2 - 2*x - 3",
+    "factorization": "(x - 3)*(x**2 + x + 1)",
+    "roots": {
+      "3": 1
+    }
+  },
+  {
+    "id": "U2-FP-056",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 5 x^{2} + 5 x - 4",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 4\\right) \\left(x^{2} - x + 1\\right)\\\\\\text{Raíces reales: }4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -5 & 5 & -4\\\\4 & & 4 & -4 & 4\\\\\\hline & 1 & -1 & 1 & 0\\end{array}\\)",
+        "\\(x^{3} - 5 x^{2} + 5 x - 4=\\left(x - 4\\right)\\left(x^{2} - x + 1\\right)\\)",
+        "\\(x^{2} - x + 1=0\\quad\\Longrightarrow\\quad\\Delta=1-4\\cdot(1)\\cdot(1)=-3\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 4\\right) \\left(x^{2} - x + 1\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad x^{2} - x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29a · variante propia",
+    "polynomial": "x**3 - 5*x**2 + 5*x - 4",
+    "factorization": "(x - 4)*(x**2 - x + 1)",
+    "roots": {
+      "4": 1
+    }
+  },
+  {
+    "id": "U2-FP-057",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} + x^{2} - 3 x - 6",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 2\\right) \\left(x^{2} + 3 x + 3\\right)\\\\\\text{Raíces reales: }2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & 1 & -3 & -6\\\\2 & & 2 & 6 & 6\\\\\\hline & 1 & 3 & 3 & 0\\end{array}\\)",
+        "\\(x^{3} + x^{2} - 3 x - 6=\\left(x - 2\\right)\\left(x^{2} + 3 x + 3\\right)\\)",
+        "\\(x^{2} + 3 x + 3=0\\quad\\Longrightarrow\\quad\\Delta=9-4\\cdot(1)\\cdot(3)=-3\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 2\\right) \\left(x^{2} + 3 x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x^{2} + 3 x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29a · variante propia",
+    "polynomial": "x**3 + x**2 - 3*x - 6",
+    "factorization": "(x - 2)*(x**2 + 3*x + 3)",
+    "roots": {
+      "2": 1
+    }
+  },
+  {
+    "id": "U2-FP-058",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{3} - 7 x^{2} - 19 x + 60",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 4\\right) \\left(x + 3\\right) \\left(2 x - 5\\right)\\\\\\text{Raíces reales: }-3;\\quad \\frac{5}{2};\\quad 4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 2 & -7 & -19 & 60\\\\-3 & & -6 & 39 & -60\\\\\\hline & 2 & -13 & 20 & 0\\end{array}\\)",
+        "\\(2 x^{3} - 7 x^{2} - 19 x + 60=\\left(x + 3\\right)\\left(2 x^{2} - 13 x + 20\\right)\\)",
+        "\\(2 x^{2} - 13 x + 20=0\\quad\\Longrightarrow\\quad\\Delta=169-4\\cdot(2)\\cdot(20)=9\\)",
+        "\\(x=\\frac{-(-13)\\pm\\sqrt{9}}{2\\cdot(2)}\\quad\\Longrightarrow\\quad x\\in\\left\\{\\frac{5}{2},4\\right\\}\\)",
+        "\\(P(x)=\\left(x - 4\\right) \\left(x + 3\\right) \\left(2 x - 5\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad x + 3;\\quad 2 x - 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29b",
+    "polynomial": "2*x**3 - 7*x**2 - 19*x + 60",
+    "factorization": "(x - 4)*(x + 3)*(2*x - 5)",
+    "roots": {
+      "4": 1,
+      "-3": 1,
+      "5/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-059",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{3} - 13 x^{2} + x + 70",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 5\\right) \\left(x + 2\\right) \\left(2 x - 7\\right)\\\\\\text{Raíces reales: }-2;\\quad \\frac{7}{2};\\quad 5\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 2 & -13 & 1 & 70\\\\-2 & & -4 & 34 & -70\\\\\\hline & 2 & -17 & 35 & 0\\end{array}\\)",
+        "\\(2 x^{3} - 13 x^{2} + x + 70=\\left(x + 2\\right)\\left(2 x^{2} - 17 x + 35\\right)\\)",
+        "\\(2 x^{2} - 17 x + 35=0\\quad\\Longrightarrow\\quad\\Delta=289-4\\cdot(2)\\cdot(35)=9\\)",
+        "\\(x=\\frac{-(-17)\\pm\\sqrt{9}}{2\\cdot(2)}\\quad\\Longrightarrow\\quad x\\in\\left\\{\\frac{7}{2},5\\right\\}\\)",
+        "\\(P(x)=\\left(x - 5\\right) \\left(x + 2\\right) \\left(2 x - 7\\right)\\)",
+        "\\(\\text{Factores: }x - 5;\\quad x + 2;\\quad 2 x - 7\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29b · variante propia",
+    "polynomial": "2*x**3 - 13*x**2 + x + 70",
+    "factorization": "(x - 5)*(x + 2)*(2*x - 7)",
+    "roots": {
+      "5": 1,
+      "-2": 1,
+      "7/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-060",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=2 x^{3} - x^{2} - 27 x + 36",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(x + 4\\right) \\left(2 x - 3\\right)\\\\\\text{Raíces reales: }-4;\\quad \\frac{3}{2};\\quad 3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 2 & -1 & -27 & 36\\\\-4 & & -8 & 36 & -36\\\\\\hline & 2 & -9 & 9 & 0\\end{array}\\)",
+        "\\(2 x^{3} - x^{2} - 27 x + 36=\\left(x + 4\\right)\\left(2 x^{2} - 9 x + 9\\right)\\)",
+        "\\(2 x^{2} - 9 x + 9=0\\quad\\Longrightarrow\\quad\\Delta=81-4\\cdot(2)\\cdot(9)=9\\)",
+        "\\(x=\\frac{-(-9)\\pm\\sqrt{9}}{2\\cdot(2)}\\quad\\Longrightarrow\\quad x\\in\\left\\{\\frac{3}{2},3\\right\\}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(x + 4\\right) \\left(2 x - 3\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x + 4;\\quad 2 x - 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29b · variante propia",
+    "polynomial": "2*x**3 - x**2 - 27*x + 36",
+    "factorization": "(x - 3)*(x + 4)*(2*x - 3)",
+    "roots": {
+      "3": 1,
+      "-4": 1,
+      "3/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-061",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - x - 6",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 2\\right) \\left(x^{2} + 2 x + 3\\right)\\\\\\text{Raíces reales: }2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & 0 & -1 & -6\\\\2 & & 2 & 4 & 6\\\\\\hline & 1 & 2 & 3 & 0\\end{array}\\)",
+        "\\(x^{3} - x - 6=\\left(x - 2\\right)\\left(x^{2} + 2 x + 3\\right)\\)",
+        "\\(x^{2} + 2 x + 3=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(1)\\cdot(3)=-8\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 2\\right) \\left(x^{2} + 2 x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x^{2} + 2 x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29c",
+    "polynomial": "x**3 - x - 6",
+    "factorization": "(x - 2)*(x**2 + 2*x + 3)",
+    "roots": {
+      "2": 1
+    }
+  },
+  {
+    "id": "U2-FP-062",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 3 x^{2} + 2 x - 6",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(x^{2} + 2\\right)\\\\\\text{Raíces reales: }3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -3 & 2 & -6\\\\3 & & 3 & 0 & 6\\\\\\hline & 1 & 0 & 2 & 0\\end{array}\\)",
+        "\\(x^{3} - 3 x^{2} + 2 x - 6=\\left(x - 3\\right)\\left(x^{2} + 2\\right)\\)",
+        "\\(x^{2} + 2=0\\quad\\Longrightarrow\\quad\\Delta=0-4\\cdot(1)\\cdot(2)=-8\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(x^{2} + 2\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x^{2} + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29c · variante propia",
+    "polynomial": "x**3 - 3*x**2 + 2*x - 6",
+    "factorization": "(x - 3)*(x**2 + 2)",
+    "roots": {
+      "3": 1
+    }
+  },
+  {
+    "id": "U2-FP-063",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} + 3 x^{2} + 2 x - 6",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 1\\right) \\left(x^{2} + 4 x + 6\\right)\\\\\\text{Raíces reales: }1\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & 3 & 2 & -6\\\\1 & & 1 & 4 & 6\\\\\\hline & 1 & 4 & 6 & 0\\end{array}\\)",
+        "\\(x^{3} + 3 x^{2} + 2 x - 6=\\left(x - 1\\right)\\left(x^{2} + 4 x + 6\\right)\\)",
+        "\\(x^{2} + 4 x + 6=0\\quad\\Longrightarrow\\quad\\Delta=16-4\\cdot(1)\\cdot(6)=-8\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 1\\right) \\left(x^{2} + 4 x + 6\\right)\\)",
+        "\\(\\text{Factores: }x - 1;\\quad x^{2} + 4 x + 6\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29c · variante propia",
+    "polynomial": "x**3 + 3*x**2 + 2*x - 6",
+    "factorization": "(x - 1)*(x**2 + 4*x + 6)",
+    "roots": {
+      "1": 1
+    }
+  },
+  {
+    "id": "U2-FP-064",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{4} + 4 x^{3} - 3 x^{2} - 4 x - 1",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 1\\right) \\left(x + 1\\right) \\left(2 x + 1\\right)^{2}\\\\\\text{Raíces reales: }-1;\\quad - \\frac{1}{2}\\;(2\\text{ veces});\\quad 1\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 4 & 4 & -3 & -4 & -1\\\\-1 & & -4 & 0 & 3 & 1\\\\\\hline & 4 & 0 & -3 & -1 & 0\\end{array}\\)",
+        "\\(4 x^{4} + 4 x^{3} - 3 x^{2} - 4 x - 1=\\left(x + 1\\right)\\left(4 x^{3} - 3 x - 1\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 4 & 0 & -3 & -1\\\\- \\frac{1}{2} & & -2 & 1 & 1\\\\\\hline & 4 & -2 & -2 & 0\\end{array}\\)",
+        "\\(4 x^{3} - 3 x - 1=\\left(x + \\frac{1}{2}\\right)\\left(4 x^{2} - 2 x - 2\\right)\\)",
+        "\\(4 x^{2} - 2 x - 2=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(4)\\cdot(-2)=36\\)",
+        "\\(x=\\frac{-(-2)\\pm\\sqrt{36}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{1}{2},1\\right\\}\\)",
+        "\\(P(x)=\\left(x - 1\\right) \\left(x + 1\\right) \\left(2 x + 1\\right)^{2}\\)",
+        "\\(\\text{Factores: }x - 1;\\quad x + 1;\\quad 2 x + 1\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29d",
+    "polynomial": "4*x**4 + 4*x**3 - 3*x**2 - 4*x - 1",
+    "factorization": "(x - 1)*(x + 1)*(2*x + 1)**2",
+    "roots": {
+      "1": 1,
+      "-1": 1,
+      "-1/2": 2
+    }
+  },
+  {
+    "id": "U2-FP-065",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{4} - 12 x^{3} + 9 x^{2} - 2 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x - 2\\right) \\left(2 x - 1\\right)^{2}\\\\\\text{Raíces reales: }0;\\quad \\frac{1}{2}\\;(2\\text{ veces});\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 4 & -12 & 9 & -2 & 0\\\\0 & & 0 & 0 & 0 & 0\\\\\\hline & 4 & -12 & 9 & -2 & 0\\end{array}\\)",
+        "\\(4 x^{4} - 12 x^{3} + 9 x^{2} - 2 x=\\left(x\\right)\\left(4 x^{3} - 12 x^{2} + 9 x - 2\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 4 & -12 & 9 & -2\\\\\\frac{1}{2} & & 2 & -5 & 2\\\\\\hline & 4 & -10 & 4 & 0\\end{array}\\)",
+        "\\(4 x^{3} - 12 x^{2} + 9 x - 2=\\left(x - \\frac{1}{2}\\right)\\left(4 x^{2} - 10 x + 4\\right)\\)",
+        "\\(4 x^{2} - 10 x + 4=0\\quad\\Longrightarrow\\quad\\Delta=100-4\\cdot(4)\\cdot(4)=36\\)",
+        "\\(x=\\frac{-(-10)\\pm\\sqrt{36}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{\\frac{1}{2},2\\right\\}\\)",
+        "\\(P(x)=x \\left(x - 2\\right) \\left(2 x - 1\\right)^{2}\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x;\\quad 2 x - 1\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29d · variante propia",
+    "polynomial": "4*x**4 - 12*x**3 + 9*x**2 - 2*x",
+    "factorization": "x*(x - 2)*(2*x - 1)**2",
+    "roots": {
+      "2": 1,
+      "1/2": 2,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-066",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{4} + 20 x^{3} + 33 x^{2} + 18 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x + 2\\right) \\left(2 x + 3\\right)^{2}\\\\\\text{Raíces reales: }-2;\\quad - \\frac{3}{2}\\;(2\\text{ veces});\\quad 0\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 4 & 20 & 33 & 18 & 0\\\\-2 & & -8 & -24 & -18 & 0\\\\\\hline & 4 & 12 & 9 & 0 & 0\\end{array}\\)",
+        "\\(4 x^{4} + 20 x^{3} + 33 x^{2} + 18 x=\\left(x + 2\\right)\\left(4 x^{3} + 12 x^{2} + 9 x\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 4 & 12 & 9 & 0\\\\- \\frac{3}{2} & & -6 & -9 & 0\\\\\\hline & 4 & 6 & 0 & 0\\end{array}\\)",
+        "\\(4 x^{3} + 12 x^{2} + 9 x=\\left(x + \\frac{3}{2}\\right)\\left(4 x^{2} + 6 x\\right)\\)",
+        "\\(4 x^{2} + 6 x=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(4)\\cdot(0)=36\\)",
+        "\\(x=\\frac{-(6)\\pm\\sqrt{36}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{3}{2},0\\right\\}\\)",
+        "\\(P(x)=x \\left(x + 2\\right) \\left(2 x + 3\\right)^{2}\\)",
+        "\\(\\text{Factores: }x;\\quad x + 2;\\quad 2 x + 3\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29d · variante propia",
+    "polynomial": "4*x**4 + 20*x**3 + 33*x**2 + 18*x",
+    "factorization": "x*(x + 2)*(2*x + 3)**2",
+    "roots": {
+      "-2": 1,
+      "-3/2": 2,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-067",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=6 x^{3} + 13 x^{2} - 4",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 2\\right) \\left(2 x - 1\\right) \\left(3 x + 2\\right)\\\\\\text{Raíces reales: }-2;\\quad - \\frac{2}{3};\\quad \\frac{1}{2}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 6 & 13 & 0 & -4\\\\-2 & & -12 & -2 & 4\\\\\\hline & 6 & 1 & -2 & 0\\end{array}\\)",
+        "\\(6 x^{3} + 13 x^{2} - 4=\\left(x + 2\\right)\\left(6 x^{2} + x - 2\\right)\\)",
+        "\\(6 x^{2} + x - 2=0\\quad\\Longrightarrow\\quad\\Delta=1-4\\cdot(6)\\cdot(-2)=49\\)",
+        "\\(x=\\frac{-(1)\\pm\\sqrt{49}}{2\\cdot(6)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{2}{3},\\frac{1}{2}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 2\\right) \\left(2 x - 1\\right) \\left(3 x + 2\\right)\\)",
+        "\\(\\text{Factores: }x + 2;\\quad 2 x - 1;\\quad 3 x + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29e",
+    "polynomial": "6*x**3 + 13*x**2 - 4",
+    "factorization": "(x + 2)*(2*x - 1)*(3*x + 2)",
+    "roots": {
+      "-2": 1,
+      "1/2": 1,
+      "-2/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-068",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=6 x^{3} - 5 x^{2} - 8 x + 3",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 1\\right) \\left(2 x - 3\\right) \\left(3 x - 1\\right)\\\\\\text{Raíces reales: }-1;\\quad \\frac{1}{3};\\quad \\frac{3}{2}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 6 & -5 & -8 & 3\\\\-1 & & -6 & 11 & -3\\\\\\hline & 6 & -11 & 3 & 0\\end{array}\\)",
+        "\\(6 x^{3} - 5 x^{2} - 8 x + 3=\\left(x + 1\\right)\\left(6 x^{2} - 11 x + 3\\right)\\)",
+        "\\(6 x^{2} - 11 x + 3=0\\quad\\Longrightarrow\\quad\\Delta=121-4\\cdot(6)\\cdot(3)=49\\)",
+        "\\(x=\\frac{-(-11)\\pm\\sqrt{49}}{2\\cdot(6)}\\quad\\Longrightarrow\\quad x\\in\\left\\{\\frac{1}{3},\\frac{3}{2}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 1\\right) \\left(2 x - 3\\right) \\left(3 x - 1\\right)\\)",
+        "\\(\\text{Factores: }x + 1;\\quad 2 x - 3;\\quad 3 x - 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29e · variante propia",
+    "polynomial": "6*x**3 - 5*x**2 - 8*x + 3",
+    "factorization": "(x + 1)*(2*x - 3)*(3*x - 1)",
+    "roots": {
+      "-1": 1,
+      "3/2": 1,
+      "1/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-069",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=6 x^{3} + 31 x^{2} + 44 x + 15",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 3\\right) \\left(2 x + 1\\right) \\left(3 x + 5\\right)\\\\\\text{Raíces reales: }-3;\\quad - \\frac{5}{3};\\quad - \\frac{1}{2}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 6 & 31 & 44 & 15\\\\-3 & & -18 & -39 & -15\\\\\\hline & 6 & 13 & 5 & 0\\end{array}\\)",
+        "\\(6 x^{3} + 31 x^{2} + 44 x + 15=\\left(x + 3\\right)\\left(6 x^{2} + 13 x + 5\\right)\\)",
+        "\\(6 x^{2} + 13 x + 5=0\\quad\\Longrightarrow\\quad\\Delta=169-4\\cdot(6)\\cdot(5)=49\\)",
+        "\\(x=\\frac{-(13)\\pm\\sqrt{49}}{2\\cdot(6)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{5}{3},- \\frac{1}{2}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 3\\right) \\left(2 x + 1\\right) \\left(3 x + 5\\right)\\)",
+        "\\(\\text{Factores: }x + 3;\\quad 2 x + 1;\\quad 3 x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29e · variante propia",
+    "polynomial": "6*x**3 + 31*x**2 + 44*x + 15",
+    "factorization": "(x + 3)*(2*x + 1)*(3*x + 5)",
+    "roots": {
+      "-3": 1,
+      "-1/2": 1,
+      "-5/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-070",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{3} + 12 x^{2} - 25 x - 75",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 3\\right) \\left(2 x - 5\\right) \\left(2 x + 5\\right)\\\\\\text{Raíces reales: }-3;\\quad - \\frac{5}{2};\\quad \\frac{5}{2}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 4 & 12 & -25 & -75\\\\-3 & & -12 & 0 & 75\\\\\\hline & 4 & 0 & -25 & 0\\end{array}\\)",
+        "\\(4 x^{3} + 12 x^{2} - 25 x - 75=\\left(x + 3\\right)\\left(4 x^{2} - 25\\right)\\)",
+        "\\(4 x^{2} - 25=0\\quad\\Longrightarrow\\quad\\Delta=0-4\\cdot(4)\\cdot(-25)=400\\)",
+        "\\(x=\\frac{-(0)\\pm\\sqrt{400}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{5}{2},\\frac{5}{2}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 3\\right) \\left(2 x - 5\\right) \\left(2 x + 5\\right)\\)",
+        "\\(\\text{Factores: }x + 3;\\quad 2 x - 5;\\quad 2 x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29f",
+    "polynomial": "4*x**3 + 12*x**2 - 25*x - 75",
+    "factorization": "(x + 3)*(2*x - 5)*(2*x + 5)",
+    "roots": {
+      "-3": 1,
+      "5/2": 1,
+      "-5/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-071",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{3} - 37 x - 42",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 2\\right) \\left(2 x - 7\\right) \\left(2 x + 3\\right)\\\\\\text{Raíces reales: }-2;\\quad - \\frac{3}{2};\\quad \\frac{7}{2}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 4 & 0 & -37 & -42\\\\-2 & & -8 & 16 & 42\\\\\\hline & 4 & -8 & -21 & 0\\end{array}\\)",
+        "\\(4 x^{3} - 37 x - 42=\\left(x + 2\\right)\\left(4 x^{2} - 8 x - 21\\right)\\)",
+        "\\(4 x^{2} - 8 x - 21=0\\quad\\Longrightarrow\\quad\\Delta=64-4\\cdot(4)\\cdot(-21)=400\\)",
+        "\\(x=\\frac{-(-8)\\pm\\sqrt{400}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{3}{2},\\frac{7}{2}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 2\\right) \\left(2 x - 7\\right) \\left(2 x + 3\\right)\\)",
+        "\\(\\text{Factores: }x + 2;\\quad 2 x - 7;\\quad 2 x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29f · variante propia",
+    "polynomial": "4*x**3 - 37*x - 42",
+    "factorization": "(x + 2)*(2*x - 7)*(2*x + 3)",
+    "roots": {
+      "-2": 1,
+      "7/2": 1,
+      "-3/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-072",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=4 x^{3} + 24 x^{2} + 11 x - 84",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 4\\right) \\left(2 x - 3\\right) \\left(2 x + 7\\right)\\\\\\text{Raíces reales: }-4;\\quad - \\frac{7}{2};\\quad \\frac{3}{2}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 4 & 24 & 11 & -84\\\\-4 & & -16 & -32 & 84\\\\\\hline & 4 & 8 & -21 & 0\\end{array}\\)",
+        "\\(4 x^{3} + 24 x^{2} + 11 x - 84=\\left(x + 4\\right)\\left(4 x^{2} + 8 x - 21\\right)\\)",
+        "\\(4 x^{2} + 8 x - 21=0\\quad\\Longrightarrow\\quad\\Delta=64-4\\cdot(4)\\cdot(-21)=400\\)",
+        "\\(x=\\frac{-(8)\\pm\\sqrt{400}}{2\\cdot(4)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{7}{2},\\frac{3}{2}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 4\\right) \\left(2 x - 3\\right) \\left(2 x + 7\\right)\\)",
+        "\\(\\text{Factores: }x + 4;\\quad 2 x - 3;\\quad 2 x + 7\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 29f · variante propia",
+    "polynomial": "4*x**3 + 24*x**2 + 11*x - 84",
+    "factorization": "(x + 4)*(2*x - 3)*(2*x + 7)",
+    "roots": {
+      "-4": 1,
+      "3/2": 1,
+      "-7/2": 1
+    }
+  },
+  {
+    "id": "U2-FP-073",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} - 2 x^{2} + 1",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 1\\right)^{2} \\left(x + 1\\right)^{2}\\\\\\text{Raíces reales: }-1\\;(2\\text{ veces});\\quad 1\\;(2\\text{ veces})\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & 0 & -2 & 0 & 1\\\\-1 & & -1 & 1 & 1 & -1\\\\\\hline & 1 & -1 & -1 & 1 & 0\\end{array}\\)",
+        "\\(x^{4} - 2 x^{2} + 1=\\left(x + 1\\right)\\left(x^{3} - x^{2} - x + 1\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & -1 & -1 & 1\\\\-1 & & -1 & 2 & -1\\\\\\hline & 1 & -2 & 1 & 0\\end{array}\\)",
+        "\\(x^{3} - x^{2} - x + 1=\\left(x + 1\\right)\\left(x^{2} - 2 x + 1\\right)\\)",
+        "\\(x^{2} - 2 x + 1=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(1)\\cdot(1)=0\\)",
+        "\\(x=\\frac{-(-2)\\pm\\sqrt{0}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{1\\right\\}\\)",
+        "\\(P(x)=\\left(x - 1\\right)^{2} \\left(x + 1\\right)^{2}\\)",
+        "\\(\\text{Factores: }x - 1\\;(2\\text{ veces});\\quad x + 1\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30a",
+    "polynomial": "x**4 - 2*x**2 + 1",
+    "factorization": "(x - 1)**2*(x + 1)**2",
+    "roots": {
+      "1": 2,
+      "-1": 2
+    }
+  },
+  {
+    "id": "U2-FP-074",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} - 4 x^{3} + 4 x^{2}",
+    "answerLatex": "\\begin{gathered}P(x)=x^{2} \\left(x - 2\\right)^{2}\\\\\\text{Raíces reales: }0\\;(2\\text{ veces});\\quad 2\\;(2\\text{ veces})\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & -4 & 4 & 0 & 0\\\\0 & & 0 & 0 & 0 & 0\\\\\\hline & 1 & -4 & 4 & 0 & 0\\end{array}\\)",
+        "\\(x^{4} - 4 x^{3} + 4 x^{2}=\\left(x\\right)\\left(x^{3} - 4 x^{2} + 4 x\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & -4 & 4 & 0\\\\0 & & 0 & 0 & 0\\\\\\hline & 1 & -4 & 4 & 0\\end{array}\\)",
+        "\\(x^{3} - 4 x^{2} + 4 x=\\left(x\\right)\\left(x^{2} - 4 x + 4\\right)\\)",
+        "\\(x^{2} - 4 x + 4=0\\quad\\Longrightarrow\\quad\\Delta=16-4\\cdot(1)\\cdot(4)=0\\)",
+        "\\(x=\\frac{-(-4)\\pm\\sqrt{0}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{2\\right\\}\\)",
+        "\\(P(x)=x^{2} \\left(x - 2\\right)^{2}\\)",
+        "\\(\\text{Factores: }x - 2\\;(2\\text{ veces});\\quad x\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30a · variante propia",
+    "polynomial": "x**4 - 4*x**3 + 4*x**2",
+    "factorization": "x**2*(x - 2)**2",
+    "roots": {
+      "2": 2,
+      "0": 2
+    }
+  },
+  {
+    "id": "U2-FP-075",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} + 4 x^{3} + 4 x^{2}",
+    "answerLatex": "\\begin{gathered}P(x)=x^{2} \\left(x + 2\\right)^{2}\\\\\\text{Raíces reales: }-2\\;(2\\text{ veces});\\quad 0\\;(2\\text{ veces})\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & 4 & 4 & 0 & 0\\\\-2 & & -2 & -4 & 0 & 0\\\\\\hline & 1 & 2 & 0 & 0 & 0\\end{array}\\)",
+        "\\(x^{4} + 4 x^{3} + 4 x^{2}=\\left(x + 2\\right)\\left(x^{3} + 2 x^{2}\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & 2 & 0 & 0\\\\-2 & & -2 & 0 & 0\\\\\\hline & 1 & 0 & 0 & 0\\end{array}\\)",
+        "\\(x^{3} + 2 x^{2}=\\left(x + 2\\right)\\left(x^{2}\\right)\\)",
+        "\\(x^{2}=0\\quad\\Longrightarrow\\quad\\Delta=0-4\\cdot(1)\\cdot(0)=0\\)",
+        "\\(x=\\frac{-(0)\\pm\\sqrt{0}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0\\right\\}\\)",
+        "\\(P(x)=x^{2} \\left(x + 2\\right)^{2}\\)",
+        "\\(\\text{Factores: }x\\;(2\\text{ veces});\\quad x + 2\\;(2\\text{ veces})\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30a · variante propia",
+    "polynomial": "x**4 + 4*x**3 + 4*x**2",
+    "factorization": "x**2*(x + 2)**2",
+    "roots": {
+      "-2": 2,
+      "0": 2
+    }
+  },
+  {
+    "id": "U2-FP-076",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 2 x^{2} - 9 x + 18",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(x - 2\\right) \\left(x + 3\\right)\\\\\\text{Raíces reales: }-3;\\quad 2;\\quad 3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -2 & -9 & 18\\\\-3 & & -3 & 15 & -18\\\\\\hline & 1 & -5 & 6 & 0\\end{array}\\)",
+        "\\(x^{3} - 2 x^{2} - 9 x + 18=\\left(x + 3\\right)\\left(x^{2} - 5 x + 6\\right)\\)",
+        "\\(x^{2} - 5 x + 6=0\\quad\\Longrightarrow\\quad\\Delta=25-4\\cdot(1)\\cdot(6)=1\\)",
+        "\\(x=\\frac{-(-5)\\pm\\sqrt{1}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{2,3\\right\\}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(x - 2\\right) \\left(x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x - 2;\\quad x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30b",
+    "polynomial": "x**3 - 2*x**2 - 9*x + 18",
+    "factorization": "(x - 3)*(x - 2)*(x + 3)",
+    "roots": {
+      "3": 1,
+      "2": 1,
+      "-3": 1
+    }
+  },
+  {
+    "id": "U2-FP-077",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 5 x^{2} - 2 x + 24",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 4\\right) \\left(x - 3\\right) \\left(x + 2\\right)\\\\\\text{Raíces reales: }-2;\\quad 3;\\quad 4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -5 & -2 & 24\\\\-2 & & -2 & 14 & -24\\\\\\hline & 1 & -7 & 12 & 0\\end{array}\\)",
+        "\\(x^{3} - 5 x^{2} - 2 x + 24=\\left(x + 2\\right)\\left(x^{2} - 7 x + 12\\right)\\)",
+        "\\(x^{2} - 7 x + 12=0\\quad\\Longrightarrow\\quad\\Delta=49-4\\cdot(1)\\cdot(12)=1\\)",
+        "\\(x=\\frac{-(-7)\\pm\\sqrt{1}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{3,4\\right\\}\\)",
+        "\\(P(x)=\\left(x - 4\\right) \\left(x - 3\\right) \\left(x + 2\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad x - 3;\\quad x + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30b · variante propia",
+    "polynomial": "x**3 - 5*x**2 - 2*x + 24",
+    "factorization": "(x - 4)*(x - 3)*(x + 2)",
+    "roots": {
+      "4": 1,
+      "3": 1,
+      "-2": 1
+    }
+  },
+  {
+    "id": "U2-FP-078",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} + x^{2} - 10 x + 8",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 2\\right) \\left(x - 1\\right) \\left(x + 4\\right)\\\\\\text{Raíces reales: }-4;\\quad 1;\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & 1 & -10 & 8\\\\-4 & & -4 & 12 & -8\\\\\\hline & 1 & -3 & 2 & 0\\end{array}\\)",
+        "\\(x^{3} + x^{2} - 10 x + 8=\\left(x + 4\\right)\\left(x^{2} - 3 x + 2\\right)\\)",
+        "\\(x^{2} - 3 x + 2=0\\quad\\Longrightarrow\\quad\\Delta=9-4\\cdot(1)\\cdot(2)=1\\)",
+        "\\(x=\\frac{-(-3)\\pm\\sqrt{1}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{1,2\\right\\}\\)",
+        "\\(P(x)=\\left(x - 2\\right) \\left(x - 1\\right) \\left(x + 4\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x - 1;\\quad x + 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30b · variante propia",
+    "polynomial": "x**3 + x**2 - 10*x + 8",
+    "factorization": "(x - 2)*(x - 1)*(x + 4)",
+    "roots": {
+      "2": 1,
+      "1": 1,
+      "-4": 1
+    }
+  },
+  {
+    "id": "U2-FP-079",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} - x^{3} - 7 x^{2} + x + 6",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(x - 1\\right) \\left(x + 1\\right) \\left(x + 2\\right)\\\\\\text{Raíces reales: }-2;\\quad -1;\\quad 1;\\quad 3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & -1 & -7 & 1 & 6\\\\-2 & & -2 & 6 & 2 & -6\\\\\\hline & 1 & -3 & -1 & 3 & 0\\end{array}\\)",
+        "\\(x^{4} - x^{3} - 7 x^{2} + x + 6=\\left(x + 2\\right)\\left(x^{3} - 3 x^{2} - x + 3\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & -3 & -1 & 3\\\\-1 & & -1 & 4 & -3\\\\\\hline & 1 & -4 & 3 & 0\\end{array}\\)",
+        "\\(x^{3} - 3 x^{2} - x + 3=\\left(x + 1\\right)\\left(x^{2} - 4 x + 3\\right)\\)",
+        "\\(x^{2} - 4 x + 3=0\\quad\\Longrightarrow\\quad\\Delta=16-4\\cdot(1)\\cdot(3)=4\\)",
+        "\\(x=\\frac{-(-4)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{1,3\\right\\}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(x - 1\\right) \\left(x + 1\\right) \\left(x + 2\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x - 1;\\quad x + 1;\\quad x + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30c",
+    "polynomial": "x**4 - x**3 - 7*x**2 + x + 6",
+    "factorization": "(x - 3)*(x - 1)*(x + 1)*(x + 2)",
+    "roots": {
+      "3": 1,
+      "1": 1,
+      "-1": 1,
+      "-2": 1
+    }
+  },
+  {
+    "id": "U2-FP-080",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} - 5 x^{3} + 2 x^{2} + 8 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x - 4\\right) \\left(x - 2\\right) \\left(x + 1\\right)\\\\\\text{Raíces reales: }-1;\\quad 0;\\quad 2;\\quad 4\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & -5 & 2 & 8 & 0\\\\-1 & & -1 & 6 & -8 & 0\\\\\\hline & 1 & -6 & 8 & 0 & 0\\end{array}\\)",
+        "\\(x^{4} - 5 x^{3} + 2 x^{2} + 8 x=\\left(x + 1\\right)\\left(x^{3} - 6 x^{2} + 8 x\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & -6 & 8 & 0\\\\0 & & 0 & 0 & 0\\\\\\hline & 1 & -6 & 8 & 0\\end{array}\\)",
+        "\\(x^{3} - 6 x^{2} + 8 x=\\left(x\\right)\\left(x^{2} - 6 x + 8\\right)\\)",
+        "\\(x^{2} - 6 x + 8=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(1)\\cdot(8)=4\\)",
+        "\\(x=\\frac{-(-6)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{2,4\\right\\}\\)",
+        "\\(P(x)=x \\left(x - 4\\right) \\left(x - 2\\right) \\left(x + 1\\right)\\)",
+        "\\(\\text{Factores: }x - 4;\\quad x - 2;\\quad x;\\quad x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30c · variante propia",
+    "polynomial": "x**4 - 5*x**3 + 2*x**2 + 8*x",
+    "factorization": "x*(x - 4)*(x - 2)*(x + 1)",
+    "roots": {
+      "4": 1,
+      "2": 1,
+      "-1": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-081",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{4} + 3 x^{3} - 4 x^{2} - 12 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x - 2\\right) \\left(x + 2\\right) \\left(x + 3\\right)\\\\\\text{Raíces reales: }-3;\\quad -2;\\quad 0;\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 1 & 3 & -4 & -12 & 0\\\\-3 & & -3 & 0 & 12 & 0\\\\\\hline & 1 & 0 & -4 & 0 & 0\\end{array}\\)",
+        "\\(x^{4} + 3 x^{3} - 4 x^{2} - 12 x=\\left(x + 3\\right)\\left(x^{3} - 4 x\\right)\\)",
+        "\\(\\begin{array}{r|rrrr} & 1 & 0 & -4 & 0\\\\-2 & & -2 & 4 & 0\\\\\\hline & 1 & -2 & 0 & 0\\end{array}\\)",
+        "\\(x^{3} - 4 x=\\left(x + 2\\right)\\left(x^{2} - 2 x\\right)\\)",
+        "\\(x^{2} - 2 x=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(1)\\cdot(0)=4\\)",
+        "\\(x=\\frac{-(-2)\\pm\\sqrt{4}}{2\\cdot(1)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0,2\\right\\}\\)",
+        "\\(P(x)=x \\left(x - 2\\right) \\left(x + 2\\right) \\left(x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x;\\quad x + 2;\\quad x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30c · variante propia",
+    "polynomial": "x**4 + 3*x**3 - 4*x**2 - 12*x",
+    "factorization": "x*(x - 2)*(x + 2)*(x + 3)",
+    "roots": {
+      "2": 1,
+      "-2": 1,
+      "-3": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-082",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=8 x^{3} + 6 x^{2} - 11 x - 3",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 1\\right) \\left(2 x + 3\\right) \\left(4 x + 1\\right)\\\\\\text{Raíces reales: }- \\frac{3}{2};\\quad - \\frac{1}{4};\\quad 1\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 8 & 6 & -11 & -3\\\\- \\frac{3}{2} & & -12 & 9 & 3\\\\\\hline & 8 & -6 & -2 & 0\\end{array}\\)",
+        "\\(8 x^{3} + 6 x^{2} - 11 x - 3=\\left(x + \\frac{3}{2}\\right)\\left(8 x^{2} - 6 x - 2\\right)\\)",
+        "\\(8 x^{2} - 6 x - 2=0\\quad\\Longrightarrow\\quad\\Delta=36-4\\cdot(8)\\cdot(-2)=100\\)",
+        "\\(x=\\frac{-(-6)\\pm\\sqrt{100}}{2\\cdot(8)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{1}{4},1\\right\\}\\)",
+        "\\(P(x)=\\left(x - 1\\right) \\left(2 x + 3\\right) \\left(4 x + 1\\right)\\)",
+        "\\(\\text{Factores: }x - 1;\\quad 2 x + 3;\\quad 4 x + 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30d",
+    "polynomial": "8*x**3 + 6*x**2 - 11*x - 3",
+    "factorization": "(x - 1)*(2*x + 3)*(4*x + 1)",
+    "roots": {
+      "1": 1,
+      "-3/2": 1,
+      "-1/4": 1
+    }
+  },
+  {
+    "id": "U2-FP-083",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=8 x^{3} - 18 x^{2} + x + 6",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 2\\right) \\left(2 x + 1\\right) \\left(4 x - 3\\right)\\\\\\text{Raíces reales: }- \\frac{1}{2};\\quad \\frac{3}{4};\\quad 2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 8 & -18 & 1 & 6\\\\- \\frac{1}{2} & & -4 & 11 & -6\\\\\\hline & 8 & -22 & 12 & 0\\end{array}\\)",
+        "\\(8 x^{3} - 18 x^{2} + x + 6=\\left(x + \\frac{1}{2}\\right)\\left(8 x^{2} - 22 x + 12\\right)\\)",
+        "\\(8 x^{2} - 22 x + 12=0\\quad\\Longrightarrow\\quad\\Delta=484-4\\cdot(8)\\cdot(12)=100\\)",
+        "\\(x=\\frac{-(-22)\\pm\\sqrt{100}}{2\\cdot(8)}\\quad\\Longrightarrow\\quad x\\in\\left\\{\\frac{3}{4},2\\right\\}\\)",
+        "\\(P(x)=\\left(x - 2\\right) \\left(2 x + 1\\right) \\left(4 x - 3\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad 2 x + 1;\\quad 4 x - 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30d · variante propia",
+    "polynomial": "8*x**3 - 18*x**2 + x + 6",
+    "factorization": "(x - 2)*(2*x + 1)*(4*x - 3)",
+    "roots": {
+      "2": 1,
+      "-1/2": 1,
+      "3/4": 1
+    }
+  },
+  {
+    "id": "U2-FP-084",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=8 x^{3} + 30 x^{2} + 25 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(2 x + 5\\right) \\left(4 x + 5\\right)\\\\\\text{Raíces reales: }- \\frac{5}{2};\\quad - \\frac{5}{4};\\quad 0\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 8 & 30 & 25 & 0\\\\- \\frac{5}{2} & & -20 & -25 & 0\\\\\\hline & 8 & 10 & 0 & 0\\end{array}\\)",
+        "\\(8 x^{3} + 30 x^{2} + 25 x=\\left(x + \\frac{5}{2}\\right)\\left(8 x^{2} + 10 x\\right)\\)",
+        "\\(8 x^{2} + 10 x=0\\quad\\Longrightarrow\\quad\\Delta=100-4\\cdot(8)\\cdot(0)=100\\)",
+        "\\(x=\\frac{-(10)\\pm\\sqrt{100}}{2\\cdot(8)}\\quad\\Longrightarrow\\quad x\\in\\left\\{- \\frac{5}{4},0\\right\\}\\)",
+        "\\(P(x)=x \\left(2 x + 5\\right) \\left(4 x + 5\\right)\\)",
+        "\\(\\text{Factores: }x;\\quad 2 x + 5;\\quad 4 x + 5\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30d · variante propia",
+    "polynomial": "8*x**3 + 30*x**2 + 25*x",
+    "factorization": "x*(2*x + 5)*(4*x + 5)",
+    "roots": {
+      "-5/2": 1,
+      "-5/4": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-085",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{3} + 8 x^{2} + 3 x - 2",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 1\\right) \\left(x + 2\\right) \\left(3 x - 1\\right)\\\\\\text{Raíces reales: }-2;\\quad -1;\\quad \\frac{1}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 3 & 8 & 3 & -2\\\\-2 & & -6 & -4 & 2\\\\\\hline & 3 & 2 & -1 & 0\\end{array}\\)",
+        "\\(3 x^{3} + 8 x^{2} + 3 x - 2=\\left(x + 2\\right)\\left(3 x^{2} + 2 x - 1\\right)\\)",
+        "\\(3 x^{2} + 2 x - 1=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(3)\\cdot(-1)=16\\)",
+        "\\(x=\\frac{-(2)\\pm\\sqrt{16}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-1,\\frac{1}{3}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 1\\right) \\left(x + 2\\right) \\left(3 x - 1\\right)\\)",
+        "\\(\\text{Factores: }x + 1;\\quad x + 2;\\quad 3 x - 1\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30e",
+    "polynomial": "3*x**3 + 8*x**2 + 3*x - 2",
+    "factorization": "(x + 1)*(x + 2)*(3*x - 1)",
+    "roots": {
+      "-1": 1,
+      "-2": 1,
+      "1/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-086",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{3} - x^{2} - 4 x",
+    "answerLatex": "\\begin{gathered}P(x)=x \\left(x + 1\\right) \\left(3 x - 4\\right)\\\\\\text{Raíces reales: }-1;\\quad 0;\\quad \\frac{4}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 3 & -1 & -4 & 0\\\\-1 & & -3 & 4 & 0\\\\\\hline & 3 & -4 & 0 & 0\\end{array}\\)",
+        "\\(3 x^{3} - x^{2} - 4 x=\\left(x + 1\\right)\\left(3 x^{2} - 4 x\\right)\\)",
+        "\\(3 x^{2} - 4 x=0\\quad\\Longrightarrow\\quad\\Delta=16-4\\cdot(3)\\cdot(0)=16\\)",
+        "\\(x=\\frac{-(-4)\\pm\\sqrt{16}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{0,\\frac{4}{3}\\right\\}\\)",
+        "\\(P(x)=x \\left(x + 1\\right) \\left(3 x - 4\\right)\\)",
+        "\\(\\text{Factores: }x;\\quad x + 1;\\quad 3 x - 4\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30e · variante propia",
+    "polynomial": "3*x**3 - x**2 - 4*x",
+    "factorization": "x*(x + 1)*(3*x - 4)",
+    "roots": {
+      "-1": 1,
+      "4/3": 1,
+      "0": 1
+    }
+  },
+  {
+    "id": "U2-FP-087",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=3 x^{3} + 17 x^{2} + 28 x + 12",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x + 2\\right) \\left(x + 3\\right) \\left(3 x + 2\\right)\\\\\\text{Raíces reales: }-3;\\quad -2;\\quad - \\frac{2}{3}\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 3 & 17 & 28 & 12\\\\-3 & & -9 & -24 & -12\\\\\\hline & 3 & 8 & 4 & 0\\end{array}\\)",
+        "\\(3 x^{3} + 17 x^{2} + 28 x + 12=\\left(x + 3\\right)\\left(3 x^{2} + 8 x + 4\\right)\\)",
+        "\\(3 x^{2} + 8 x + 4=0\\quad\\Longrightarrow\\quad\\Delta=64-4\\cdot(3)\\cdot(4)=16\\)",
+        "\\(x=\\frac{-(8)\\pm\\sqrt{16}}{2\\cdot(3)}\\quad\\Longrightarrow\\quad x\\in\\left\\{-2,- \\frac{2}{3}\\right\\}\\)",
+        "\\(P(x)=\\left(x + 2\\right) \\left(x + 3\\right) \\left(3 x + 2\\right)\\)",
+        "\\(\\text{Factores: }x + 2;\\quad x + 3;\\quad 3 x + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30e · variante propia",
+    "polynomial": "3*x**3 + 17*x**2 + 28*x + 12",
+    "factorization": "(x + 2)*(x + 3)*(3*x + 2)",
+    "roots": {
+      "-2": 1,
+      "-3": 1,
+      "-2/3": 1
+    }
+  },
+  {
+    "id": "U2-FP-088",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 2 x^{2} + 2 x - 4",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 2\\right) \\left(x^{2} + 2\\right)\\\\\\text{Raíces reales: }2\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -2 & 2 & -4\\\\2 & & 2 & 0 & 4\\\\\\hline & 1 & 0 & 2 & 0\\end{array}\\)",
+        "\\(x^{3} - 2 x^{2} + 2 x - 4=\\left(x - 2\\right)\\left(x^{2} + 2\\right)\\)",
+        "\\(x^{2} + 2=0\\quad\\Longrightarrow\\quad\\Delta=0-4\\cdot(1)\\cdot(2)=-8\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 2\\right) \\left(x^{2} + 2\\right)\\)",
+        "\\(\\text{Factores: }x - 2;\\quad x^{2} + 2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30f",
+    "polynomial": "x**3 - 2*x**2 + 2*x - 4",
+    "factorization": "(x - 2)*(x**2 + 2)",
+    "roots": {
+      "2": 1
+    }
+  },
+  {
+    "id": "U2-FP-089",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} - 5 x^{2} + 9 x - 9",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 3\\right) \\left(x^{2} - 2 x + 3\\right)\\\\\\text{Raíces reales: }3\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & -5 & 9 & -9\\\\3 & & 3 & -6 & 9\\\\\\hline & 1 & -2 & 3 & 0\\end{array}\\)",
+        "\\(x^{3} - 5 x^{2} + 9 x - 9=\\left(x - 3\\right)\\left(x^{2} - 2 x + 3\\right)\\)",
+        "\\(x^{2} - 2 x + 3=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(1)\\cdot(3)=-8\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 3\\right) \\left(x^{2} - 2 x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 3;\\quad x^{2} - 2 x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30f · variante propia",
+    "polynomial": "x**3 - 5*x**2 + 9*x - 9",
+    "factorization": "(x - 3)*(x**2 - 2*x + 3)",
+    "roots": {
+      "3": 1
+    }
+  },
+  {
+    "id": "U2-FP-090",
+    "block": "16 Factorización, raíces y factores",
+    "level": "Examen",
+    "prompt": "Factoriza el polinomio e indica sus raíces reales y sus factores. Señala las raíces repetidas.",
+    "latex": "P(x)=x^{3} + x^{2} + x - 3",
+    "answerLatex": "\\begin{gathered}P(x)=\\left(x - 1\\right) \\left(x^{2} + 2 x + 3\\right)\\\\\\text{Raíces reales: }1\\end{gathered}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 1 & 1 & 1 & -3\\\\1 & & 1 & 2 & 3\\\\\\hline & 1 & 2 & 3 & 0\\end{array}\\)",
+        "\\(x^{3} + x^{2} + x - 3=\\left(x - 1\\right)\\left(x^{2} + 2 x + 3\\right)\\)",
+        "\\(x^{2} + 2 x + 3=0\\quad\\Longrightarrow\\quad\\Delta=4-4\\cdot(1)\\cdot(3)=-8\\)",
+        "\\(\\Delta<0\\quad\\Longrightarrow\\quad\\text{este factor no tiene raíces reales}\\)",
+        "\\(P(x)=\\left(x - 1\\right) \\left(x^{2} + 2 x + 3\\right)\\)",
+        "\\(\\text{Factores: }x - 1;\\quad x^{2} + 2 x + 3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 30f · variante propia",
+    "polynomial": "x**3 + x**2 + x - 3",
+    "factorization": "(x - 1)*(x**2 + 2*x + 3)",
+    "roots": {
+      "1": 1
+    }
+  },
+  {
+    "id": "U2-TR-001",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}+a x-15\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "a=-4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(3)=0\\)",
+        "\\(a \\left(3\\right) + \\left(3\\right)^{4} - 2 \\left(3\\right)^{3} - 15=0\\)",
+        "\\(3 a + 12=0\\)",
+        "\\(3 a=-12\\)",
+        "\\(a=-4\\)",
+        "\\(P(3)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4a",
+    "polynomial": "a*x + x**4 - 2*x**3 - 15",
+    "conditions": [
+      [
+        "3",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "a": "-4"
+    }
+  },
+  {
+    "id": "U2-TR-002",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}-2 x^{2}+a x-15\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "a=\\frac{4}{3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(3)=-2\\)",
+        "\\(a \\left(3\\right) + \\left(3\\right)^{4} - 2 \\left(3\\right)^{3} - 2 \\left(3\\right)^{2} - 15=-2\\)",
+        "\\(3 a - 6=-2\\)",
+        "\\(3 a=4\\)",
+        "\\(a=\\frac{4}{3}\\)",
+        "\\(P(3)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4a · variante propia",
+    "polynomial": "a*x + x**4 - 2*x**3 - 2*x**2 - 15",
+    "conditions": [
+      [
+        "3",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "a": "4/3"
+    }
+  },
+  {
+    "id": "U2-TR-003",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}+3 x^{2}+a x-15\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }3\\end{gathered}",
+    "answerLatex": "a=-12",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(3)=3\\)",
+        "\\(a \\left(3\\right) + \\left(3\\right)^{4} - 2 \\left(3\\right)^{3} + 3 \\left(3\\right)^{2} - 15=3\\)",
+        "\\(3 a + 39=3\\)",
+        "\\(3 a=-36\\)",
+        "\\(a=-12\\)",
+        "\\(P(3)=3\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4a · variante propia",
+    "polynomial": "a*x + x**4 - 2*x**3 + 3*x**2 - 15",
+    "conditions": [
+      [
+        "3",
+        "3"
+      ]
+    ],
+    "parameters": {
+      "a": "-12"
+    }
+  },
+  {
+    "id": "U2-TR-004",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=3 x^{3}+4 x^{2}-3 x+a\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }4\\end{gathered}",
+    "answerLatex": "a=6",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=4\\)",
+        "\\(a + 3 \\left(-2\\right)^{3} + 4 \\left(-2\\right)^{2} - 3 \\left(-2\\right)=4\\)",
+        "\\(a - 2=4\\)",
+        "\\(a=6\\)",
+        "\\(a=6\\)",
+        "\\(P(-2)=4\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4b",
+    "polynomial": "a + 3*x**3 + 4*x**2 - 3*x",
+    "conditions": [
+      [
+        "-2",
+        "4"
+      ]
+    ],
+    "parameters": {
+      "a": "6"
+    }
+  },
+  {
+    "id": "U2-TR-005",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=3 x^{3}+2 x^{2}-3 x+a\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }2\\end{gathered}",
+    "answerLatex": "a=12",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=2\\)",
+        "\\(a + 3 \\left(-2\\right)^{3} + 2 \\left(-2\\right)^{2} - 3 \\left(-2\\right)=2\\)",
+        "\\(a - 10=2\\)",
+        "\\(a=12\\)",
+        "\\(a=12\\)",
+        "\\(P(-2)=2\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4b · variante propia",
+    "polynomial": "a + 3*x**3 + 2*x**2 - 3*x",
+    "conditions": [
+      [
+        "-2",
+        "2"
+      ]
+    ],
+    "parameters": {
+      "a": "12"
+    }
+  },
+  {
+    "id": "U2-TR-006",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=3 x^{3}+7 x^{2}-3 x+a\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }7\\end{gathered}",
+    "answerLatex": "a=-3",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=7\\)",
+        "\\(a + 3 \\left(-2\\right)^{3} + 7 \\left(-2\\right)^{2} - 3 \\left(-2\\right)=7\\)",
+        "\\(a + 10=7\\)",
+        "\\(a=-3\\)",
+        "\\(a=-3\\)",
+        "\\(P(-2)=7\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4b · variante propia",
+    "polynomial": "a + 3*x**3 + 7*x**2 - 3*x",
+    "conditions": [
+      [
+        "-2",
+        "7"
+      ]
+    ],
+    "parameters": {
+      "a": "-3"
+    }
+  },
+  {
+    "id": "U2-TR-007",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{5}-8 x^{2}+a x-a\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-3\\end{gathered}",
+    "answerLatex": "a=-3",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=-3\\)",
+        "\\(a \\left(2\\right) - a + \\left(2\\right)^{5} - 8 \\left(2\\right)^{2}=-3\\)",
+        "\\(a=-3\\)",
+        "\\(a=-3\\)",
+        "\\(a=-3\\)",
+        "\\(P(2)=-3\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4c",
+    "polynomial": "a*x - a + x**5 - 8*x**2",
+    "conditions": [
+      [
+        "2",
+        "-3"
+      ]
+    ],
+    "parameters": {
+      "a": "-3"
+    }
+  },
+  {
+    "id": "U2-TR-008",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{5}-10 x^{2}+a x-a\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-5\\end{gathered}",
+    "answerLatex": "a=3",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=-5\\)",
+        "\\(a \\left(2\\right) - a + \\left(2\\right)^{5} - 10 \\left(2\\right)^{2}=-5\\)",
+        "\\(a - 8=-5\\)",
+        "\\(a=3\\)",
+        "\\(a=3\\)",
+        "\\(P(2)=-5\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4c · variante propia",
+    "polynomial": "a*x - a + x**5 - 10*x**2",
+    "conditions": [
+      [
+        "2",
+        "-5"
+      ]
+    ],
+    "parameters": {
+      "a": "3"
+    }
+  },
+  {
+    "id": "U2-TR-009",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{5}-5 x^{2}+a x-a\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "a=-12",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=0\\)",
+        "\\(a \\left(2\\right) - a + \\left(2\\right)^{5} - 5 \\left(2\\right)^{2}=0\\)",
+        "\\(a + 12=0\\)",
+        "\\(a=-12\\)",
+        "\\(a=-12\\)",
+        "\\(P(2)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 4c · variante propia",
+    "polynomial": "a*x - a + x**5 - 5*x**2",
+    "conditions": [
+      [
+        "2",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "a": "-12"
+    }
+  },
+  {
+    "id": "U2-TR-010",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{2}-15 x+m\\\\\\text{Divisor: }x + 1\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "m=-16",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)=0\\)",
+        "\\(m + \\left(-1\\right)^{2} - 15 \\left(-1\\right)=0\\)",
+        "\\(m + 16=0\\)",
+        "\\(m=-16\\)",
+        "\\(m=-16\\)",
+        "\\(P(-1)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31a",
+    "polynomial": "m + x**2 - 15*x",
+    "conditions": [
+      [
+        "-1",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "m": "-16"
+    }
+  },
+  {
+    "id": "U2-TR-011",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=-x^{2}-15 x+m\\\\\\text{Divisor: }x + 1\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "m=-16",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)=-2\\)",
+        "\\(m - \\left(-1\\right)^{2} - 15 \\left(-1\\right)=-2\\)",
+        "\\(m + 14=-2\\)",
+        "\\(m=-16\\)",
+        "\\(m=-16\\)",
+        "\\(P(-1)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31a · variante propia",
+    "polynomial": "m - x**2 - 15*x",
+    "conditions": [
+      [
+        "-1",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "m": "-16"
+    }
+  },
+  {
+    "id": "U2-TR-012",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=4 x^{2}-15 x+m\\\\\\text{Divisor: }x + 1\\qquad\\text{Resto: }3\\end{gathered}",
+    "answerLatex": "m=-16",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)=3\\)",
+        "\\(m + 4 \\left(-1\\right)^{2} - 15 \\left(-1\\right)=3\\)",
+        "\\(m + 19=3\\)",
+        "\\(m=-16\\)",
+        "\\(m=-16\\)",
+        "\\(P(-1)=3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31a · variante propia",
+    "polynomial": "m + 4*x**2 - 15*x",
+    "conditions": [
+      [
+        "-1",
+        "3"
+      ]
+    ],
+    "parameters": {
+      "m": "-16"
+    }
+  },
+  {
+    "id": "U2-TR-013",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-x^{2}+m x+2\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "m=-5",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=0\\)",
+        "\\(m \\left(-2\\right) + \\left(-2\\right)^{3} - \\left(-2\\right)^{2} + 2=0\\)",
+        "\\(- 2 m - 10=0\\)",
+        "\\(- 2 m=10\\)",
+        "\\(m=-5\\)",
+        "\\(P(-2)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31b",
+    "polynomial": "m*x + x**3 - x**2 + 2",
+    "conditions": [
+      [
+        "-2",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "m": "-5"
+    }
+  },
+  {
+    "id": "U2-TR-014",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-3 x^{2}+m x+2\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "m=-8",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=-2\\)",
+        "\\(m \\left(-2\\right) + \\left(-2\\right)^{3} - 3 \\left(-2\\right)^{2} + 2=-2\\)",
+        "\\(- 2 m - 18=-2\\)",
+        "\\(- 2 m=16\\)",
+        "\\(m=-8\\)",
+        "\\(P(-2)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31b · variante propia",
+    "polynomial": "m*x + x**3 - 3*x**2 + 2",
+    "conditions": [
+      [
+        "-2",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "m": "-8"
+    }
+  },
+  {
+    "id": "U2-TR-015",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}+2 x^{2}+m x+2\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }3\\end{gathered}",
+    "answerLatex": "m=- \\frac{1}{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=3\\)",
+        "\\(m \\left(-2\\right) + \\left(-2\\right)^{3} + 2 \\left(-2\\right)^{2} + 2=3\\)",
+        "\\(2 - 2 m=3\\)",
+        "\\(- 2 m=1\\)",
+        "\\(m=- \\frac{1}{2}\\)",
+        "\\(P(-2)=3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31b · variante propia",
+    "polynomial": "m*x + x**3 + 2*x**2 + 2",
+    "conditions": [
+      [
+        "-2",
+        "3"
+      ]
+    ],
+    "parameters": {
+      "m": "-1/2"
+    }
+  },
+  {
+    "id": "U2-TR-016",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-m x^{2}-6 x+2 m\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "m=-2",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=0\\)",
+        "\\(- m \\left(2\\right)^{2} + 2 m + \\left(2\\right)^{3} - 6 \\left(2\\right)=0\\)",
+        "\\(- 2 m - 4=0\\)",
+        "\\(- 2 m=4\\)",
+        "\\(m=-2\\)",
+        "\\(P(2)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31c",
+    "polynomial": "-m*x**2 + 2*m + x**3 - 6*x",
+    "conditions": [
+      [
+        "2",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "m": "-2"
+    }
+  },
+  {
+    "id": "U2-TR-017",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-\\left(m + 2\\right) x^{2}-6 x+2 m\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "m=-5",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=-2\\)",
+        "\\(- m \\left(2\\right)^{2} + 2 m + \\left(2\\right)^{3} - 2 \\left(2\\right)^{2} - 6 \\left(2\\right)=-2\\)",
+        "\\(- 2 m - 12=-2\\)",
+        "\\(- 2 m=10\\)",
+        "\\(m=-5\\)",
+        "\\(P(2)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31c · variante propia",
+    "polynomial": "-m*x**2 + 2*m + x**3 - 2*x**2 - 6*x",
+    "conditions": [
+      [
+        "2",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "m": "-5"
+    }
+  },
+  {
+    "id": "U2-TR-018",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-\\left(m - 3\\right) x^{2}-6 x+2 m\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }3\\end{gathered}",
+    "answerLatex": "m=\\frac{5}{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=3\\)",
+        "\\(- m \\left(2\\right)^{2} + 2 m + \\left(2\\right)^{3} + 3 \\left(2\\right)^{2} - 6 \\left(2\\right)=3\\)",
+        "\\(8 - 2 m=3\\)",
+        "\\(- 2 m=-5\\)",
+        "\\(m=\\frac{5}{2}\\)",
+        "\\(P(2)=3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 31c · variante propia",
+    "polynomial": "-m*x**2 + 2*m + x**3 + 3*x**2 - 6*x",
+    "conditions": [
+      [
+        "2",
+        "3"
+      ]
+    ],
+    "parameters": {
+      "m": "5/2"
+    }
+  },
+  {
+    "id": "U2-TR-019",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}+5 x^{2}+2 m x+m\\\\\\text{Divisor: }x - 1\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "m=-2",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(1)=0\\)",
+        "\\(2 m \\left(1\\right) + m + \\left(1\\right)^{3} + 5 \\left(1\\right)^{2}=0\\)",
+        "\\(3 m + 6=0\\)",
+        "\\(3 m=-6\\)",
+        "\\(m=-2\\)",
+        "\\(P(1)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 32",
+    "polynomial": "2*m*x + m + x**3 + 5*x**2",
+    "conditions": [
+      [
+        "1",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "m": "-2"
+    }
+  },
+  {
+    "id": "U2-TR-020",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}+3 x^{2}+2 m x+m\\\\\\text{Divisor: }x - 1\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "m=-2",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(1)=-2\\)",
+        "\\(2 m \\left(1\\right) + m + \\left(1\\right)^{3} + 3 \\left(1\\right)^{2}=-2\\)",
+        "\\(3 m + 4=-2\\)",
+        "\\(3 m=-6\\)",
+        "\\(m=-2\\)",
+        "\\(P(1)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 32 · variante propia",
+    "polynomial": "2*m*x + m + x**3 + 3*x**2",
+    "conditions": [
+      [
+        "1",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "m": "-2"
+    }
+  },
+  {
+    "id": "U2-TR-021",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}+8 x^{2}+2 m x+m\\\\\\text{Divisor: }x - 1\\qquad\\text{Resto: }3\\end{gathered}",
+    "answerLatex": "m=-2",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(1)=3\\)",
+        "\\(2 m \\left(1\\right) + m + \\left(1\\right)^{3} + 8 \\left(1\\right)^{2}=3\\)",
+        "\\(3 m + 9=3\\)",
+        "\\(3 m=-6\\)",
+        "\\(m=-2\\)",
+        "\\(P(1)=3\\)"
+      ]
+    },
+    "reference": "Modelo p. 76, 32 · variante propia",
+    "polynomial": "2*m*x + m + x**3 + 8*x**2",
+    "conditions": [
+      [
+        "1",
+        "3"
+      ]
+    ],
+    "parameters": {
+      "m": "-2"
+    }
+  },
+  {
+    "id": "U2-TR-022",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=m x^{3}-3 x^{2}+5 x+9 m\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "m=22",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=0\\)",
+        "\\(m \\left(-2\\right)^{3} + 9 m - 3 \\left(-2\\right)^{2} + 5 \\left(-2\\right)=0\\)",
+        "\\(m - 22=0\\)",
+        "\\(m=22\\)",
+        "\\(m=22\\)",
+        "\\(P(-2)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 45",
+    "polynomial": "m*x**3 + 9*m - 3*x**2 + 5*x",
+    "conditions": [
+      [
+        "-2",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "m": "22"
+    }
+  },
+  {
+    "id": "U2-TR-023",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=m x^{3}-5 x^{2}+5 x+9 m\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "m=28",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=-2\\)",
+        "\\(m \\left(-2\\right)^{3} + 9 m - 5 \\left(-2\\right)^{2} + 5 \\left(-2\\right)=-2\\)",
+        "\\(m - 30=-2\\)",
+        "\\(m=28\\)",
+        "\\(m=28\\)",
+        "\\(P(-2)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 45 · variante propia",
+    "polynomial": "m*x**3 + 9*m - 5*x**2 + 5*x",
+    "conditions": [
+      [
+        "-2",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "m": "28"
+    }
+  },
+  {
+    "id": "U2-TR-024",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=m x^{3}+5 x+9 m\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }3\\end{gathered}",
+    "answerLatex": "m=13",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-2)=3\\)",
+        "\\(m \\left(-2\\right)^{3} + 9 m + 5 \\left(-2\\right)=3\\)",
+        "\\(m - 10=3\\)",
+        "\\(m=13\\)",
+        "\\(m=13\\)",
+        "\\(P(-2)=3\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 45 · variante propia",
+    "polynomial": "m*x**3 + 9*m + 5*x",
+    "conditions": [
+      [
+        "-2",
+        "3"
+      ]
+    ],
+    "parameters": {
+      "m": "13"
+    }
+  },
+  {
+    "id": "U2-TR-025",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla los valores de m y n para que se cumplan las dos condiciones indicadas.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-m x^{2}+n x+4\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }0\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "m=1,\\quad n=-4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=0\\)",
+        "\\(- m \\left(2\\right)^{2} + n \\left(2\\right) + \\left(2\\right)^{3} + 4=0\\)",
+        "\\(- 4 m + 2 n + 12=0\\)",
+        "\\(R=P(-2)=0\\)",
+        "\\(- m \\left(-2\\right)^{2} + n \\left(-2\\right) + \\left(-2\\right)^{3} + 4=0\\)",
+        "\\(- 4 m - 2 n - 4=0\\)",
+        "\\(\\begin{cases}- 4 m + 2 n + 12=0\\\\- 4 m - 2 n - 4=0\\end{cases}\\)",
+        "\\(16 m - 16=0\\quad\\Longrightarrow\\quad m=1\\)",
+        "\\(2 n + 8=0\\quad\\Longrightarrow\\quad n=-4\\)",
+        "\\(P(2)=0\\)",
+        "\\(P(-2)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 46",
+    "polynomial": "-m*x**2 + n*x + x**3 + 4",
+    "conditions": [
+      [
+        "2",
+        "0"
+      ],
+      [
+        "-2",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "m": "1",
+      "n": "-4"
+    }
+  },
+  {
+    "id": "U2-TR-026",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla los valores de m y n para que se cumplan las dos condiciones indicadas.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-\\left(m + 2\\right) x^{2}+n x+4\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-2\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "m=- \\frac{1}{2},\\quad n=-4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=-2\\)",
+        "\\(- m \\left(2\\right)^{2} + n \\left(2\\right) + \\left(2\\right)^{3} - 2 \\left(2\\right)^{2} + 4=-2\\)",
+        "\\(- 4 m + 2 n + 4=-2\\)",
+        "\\(R=P(-2)=-2\\)",
+        "\\(- m \\left(-2\\right)^{2} + n \\left(-2\\right) + \\left(-2\\right)^{3} - 2 \\left(-2\\right)^{2} + 4=-2\\)",
+        "\\(- 4 m - 2 n - 12=-2\\)",
+        "\\(\\begin{cases}- 4 m + 2 n + 6=0\\\\- 4 m - 2 n - 10=0\\end{cases}\\)",
+        "\\(16 m + 8=0\\quad\\Longrightarrow\\quad m=- \\frac{1}{2}\\)",
+        "\\(2 n + 8=0\\quad\\Longrightarrow\\quad n=-4\\)",
+        "\\(P(2)=-2\\)",
+        "\\(P(-2)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 46 · variante propia",
+    "polynomial": "-m*x**2 + n*x + x**3 - 2*x**2 + 4",
+    "conditions": [
+      [
+        "2",
+        "-2"
+      ],
+      [
+        "-2",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "m": "-1/2",
+      "n": "-4"
+    }
+  },
+  {
+    "id": "U2-TR-027",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla los valores de m y n para que se cumplan las dos condiciones indicadas.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-\\left(m - 3\\right) x^{2}+n x+4\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }3\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }3\\end{gathered}",
+    "answerLatex": "m=\\frac{13}{4},\\quad n=-4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=3\\)",
+        "\\(- m \\left(2\\right)^{2} + n \\left(2\\right) + \\left(2\\right)^{3} + 3 \\left(2\\right)^{2} + 4=3\\)",
+        "\\(- 4 m + 2 n + 24=3\\)",
+        "\\(R=P(-2)=3\\)",
+        "\\(- m \\left(-2\\right)^{2} + n \\left(-2\\right) + \\left(-2\\right)^{3} + 3 \\left(-2\\right)^{2} + 4=3\\)",
+        "\\(- 4 m - 2 n + 8=3\\)",
+        "\\(\\begin{cases}- 4 m + 2 n + 21=0\\\\- 4 m - 2 n + 5=0\\end{cases}\\)",
+        "\\(16 m - 52=0\\quad\\Longrightarrow\\quad m=\\frac{13}{4}\\)",
+        "\\(2 n + 8=0\\quad\\Longrightarrow\\quad n=-4\\)",
+        "\\(P(2)=3\\)",
+        "\\(P(-2)=3\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 46 · variante propia",
+    "polynomial": "-m*x**2 + n*x + x**3 + 3*x**2 + 4",
+    "conditions": [
+      [
+        "2",
+        "3"
+      ],
+      [
+        "-2",
+        "3"
+      ]
+    ],
+    "parameters": {
+      "m": "13/4",
+      "n": "-4"
+    }
+  },
+  {
+    "id": "U2-TR-028",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla los valores de a y b para que se cumplan las dos condiciones indicadas.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}+a x^{2}+b x+15\\\\\\text{Divisor: }x + 3\\qquad\\text{Resto: }0\\\\\\text{Divisor: }x - 5\\qquad\\text{Resto: }0\\end{gathered}",
+    "answerLatex": "a=-16,\\quad b=2",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-3)=0\\)",
+        "\\(a \\left(-3\\right)^{2} + b \\left(-3\\right) + \\left(-3\\right)^{4} - 2 \\left(-3\\right)^{3} + 15=0\\)",
+        "\\(9 a - 3 b + 150=0\\)",
+        "\\(R=P(5)=0\\)",
+        "\\(a \\left(5\\right)^{2} + b \\left(5\\right) + \\left(5\\right)^{4} - 2 \\left(5\\right)^{3} + 15=0\\)",
+        "\\(25 a + 5 b + 390=0\\)",
+        "\\(\\begin{cases}9 a - 3 b + 150=0\\\\25 a + 5 b + 390=0\\end{cases}\\)",
+        "\\(120 a + 1920=0\\quad\\Longrightarrow\\quad a=-16\\)",
+        "\\(6 - 3 b=0\\quad\\Longrightarrow\\quad b=2\\)",
+        "\\(P(-3)=0\\)",
+        "\\(P(5)=0\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 47",
+    "polynomial": "a*x**2 + b*x + x**4 - 2*x**3 + 15",
+    "conditions": [
+      [
+        "-3",
+        "0"
+      ],
+      [
+        "5",
+        "0"
+      ]
+    ],
+    "parameters": {
+      "a": "-16",
+      "b": "2"
+    }
+  },
+  {
+    "id": "U2-TR-029",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla los valores de a y b para que se cumplan las dos condiciones indicadas.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}+\\left(a - 2\\right) x^{2}+b x+15\\\\\\text{Divisor: }x + 3\\qquad\\text{Resto: }-2\\\\\\text{Divisor: }x - 5\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "a=- \\frac{212}{15},\\quad b=\\frac{34}{15}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-3)=-2\\)",
+        "\\(a \\left(-3\\right)^{2} + b \\left(-3\\right) + \\left(-3\\right)^{4} - 2 \\left(-3\\right)^{3} - 2 \\left(-3\\right)^{2} + 15=-2\\)",
+        "\\(9 a - 3 b + 132=-2\\)",
+        "\\(R=P(5)=-2\\)",
+        "\\(a \\left(5\\right)^{2} + b \\left(5\\right) + \\left(5\\right)^{4} - 2 \\left(5\\right)^{3} - 2 \\left(5\\right)^{2} + 15=-2\\)",
+        "\\(25 a + 5 b + 340=-2\\)",
+        "\\(\\begin{cases}9 a - 3 b + 134=0\\\\25 a + 5 b + 342=0\\end{cases}\\)",
+        "\\(120 a + 1696=0\\quad\\Longrightarrow\\quad a=- \\frac{212}{15}\\)",
+        "\\(\\frac{34}{5} - 3 b=0\\quad\\Longrightarrow\\quad b=\\frac{34}{15}\\)",
+        "\\(P(-3)=-2\\)",
+        "\\(P(5)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 47 · variante propia",
+    "polynomial": "a*x**2 + b*x + x**4 - 2*x**3 - 2*x**2 + 15",
+    "conditions": [
+      [
+        "-3",
+        "-2"
+      ],
+      [
+        "5",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "a": "-212/15",
+      "b": "34/15"
+    }
+  },
+  {
+    "id": "U2-TR-030",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla los valores de a y b para que se cumplan las dos condiciones indicadas.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}+\\left(a + 3\\right) x^{2}+b x+15\\\\\\text{Divisor: }x + 3\\qquad\\text{Resto: }3\\\\\\text{Divisor: }x - 5\\qquad\\text{Resto: }3\\end{gathered}",
+    "answerLatex": "a=- \\frac{94}{5},\\quad b=\\frac{8}{5}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-3)=3\\)",
+        "\\(a \\left(-3\\right)^{2} + b \\left(-3\\right) + \\left(-3\\right)^{4} - 2 \\left(-3\\right)^{3} + 3 \\left(-3\\right)^{2} + 15=3\\)",
+        "\\(9 a - 3 b + 177=3\\)",
+        "\\(R=P(5)=3\\)",
+        "\\(a \\left(5\\right)^{2} + b \\left(5\\right) + \\left(5\\right)^{4} - 2 \\left(5\\right)^{3} + 3 \\left(5\\right)^{2} + 15=3\\)",
+        "\\(25 a + 5 b + 465=3\\)",
+        "\\(\\begin{cases}9 a - 3 b + 174=0\\\\25 a + 5 b + 462=0\\end{cases}\\)",
+        "\\(120 a + 2256=0\\quad\\Longrightarrow\\quad a=- \\frac{94}{5}\\)",
+        "\\(\\frac{24}{5} - 3 b=0\\quad\\Longrightarrow\\quad b=\\frac{8}{5}\\)",
+        "\\(P(-3)=3\\)",
+        "\\(P(5)=3\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 47 · variante propia",
+    "polynomial": "a*x**2 + b*x + x**4 - 2*x**3 + 3*x**2 + 15",
+    "conditions": [
+      [
+        "-3",
+        "3"
+      ],
+      [
+        "5",
+        "3"
+      ]
+    ],
+    "parameters": {
+      "a": "-94/5",
+      "b": "8/5"
+    }
+  },
+  {
+    "id": "U2-TR-031",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-2 x^{2}-x+m\\\\\\text{Divisor: }x + 1\\qquad\\text{Resto: }-1\\end{gathered}",
+    "answerLatex": "m=1",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)=-1\\)",
+        "\\(m + \\left(-1\\right)^{3} - 2 \\left(-1\\right)^{2} - \\left(-1\\right)=-1\\)",
+        "\\(m - 2=-1\\)",
+        "\\(m=1\\)",
+        "\\(m=1\\)",
+        "\\(P(-1)=-1\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 48a",
+    "polynomial": "m + x**3 - 2*x**2 - x",
+    "conditions": [
+      [
+        "-1",
+        "-1"
+      ]
+    ],
+    "parameters": {
+      "m": "1"
+    }
+  },
+  {
+    "id": "U2-TR-032",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-4 x^{2}-x+m\\\\\\text{Divisor: }x + 1\\qquad\\text{Resto: }-3\\end{gathered}",
+    "answerLatex": "m=1",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)=-3\\)",
+        "\\(m + \\left(-1\\right)^{3} - 4 \\left(-1\\right)^{2} - \\left(-1\\right)=-3\\)",
+        "\\(m - 4=-3\\)",
+        "\\(m=1\\)",
+        "\\(m=1\\)",
+        "\\(P(-1)=-3\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 48a · variante propia",
+    "polynomial": "m + x**3 - 4*x**2 - x",
+    "conditions": [
+      [
+        "-1",
+        "-3"
+      ]
+    ],
+    "parameters": {
+      "m": "1"
+    }
+  },
+  {
+    "id": "U2-TR-033",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=x^{3}+x^{2}-x+m\\\\\\text{Divisor: }x + 1\\qquad\\text{Resto: }2\\end{gathered}",
+    "answerLatex": "m=1",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)=2\\)",
+        "\\(m + \\left(-1\\right)^{3} + \\left(-1\\right)^{2} - \\left(-1\\right)=2\\)",
+        "\\(m + 1=2\\)",
+        "\\(m=1\\)",
+        "\\(m=1\\)",
+        "\\(P(-1)=2\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 48a · variante propia",
+    "polynomial": "m + x**3 + x**2 - x",
+    "conditions": [
+      [
+        "-1",
+        "2"
+      ]
+    ],
+    "parameters": {
+      "m": "1"
+    }
+  },
+  {
+    "id": "U2-TR-034",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=2 x^{3}-12 x+2 m\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }-5\\end{gathered}",
+    "answerLatex": "m=- \\frac{23}{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(3)=-5\\)",
+        "\\(2 m + 2 \\left(3\\right)^{3} - 12 \\left(3\\right)=-5\\)",
+        "\\(2 m + 18=-5\\)",
+        "\\(2 m=-23\\)",
+        "\\(m=- \\frac{23}{2}\\)",
+        "\\(P(3)=-5\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 48b",
+    "polynomial": "2*m + 2*x**3 - 12*x",
+    "conditions": [
+      [
+        "3",
+        "-5"
+      ]
+    ],
+    "parameters": {
+      "m": "-23/2"
+    }
+  },
+  {
+    "id": "U2-TR-035",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=2 x^{3}-2 x^{2}-12 x+2 m\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }-7\\end{gathered}",
+    "answerLatex": "m=- \\frac{7}{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(3)=-7\\)",
+        "\\(2 m + 2 \\left(3\\right)^{3} - 2 \\left(3\\right)^{2} - 12 \\left(3\\right)=-7\\)",
+        "\\(2 m=-7\\)",
+        "\\(2 m=-7\\)",
+        "\\(m=- \\frac{7}{2}\\)",
+        "\\(P(3)=-7\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 48b · variante propia",
+    "polynomial": "2*m + 2*x**3 - 2*x**2 - 12*x",
+    "conditions": [
+      [
+        "3",
+        "-7"
+      ]
+    ],
+    "parameters": {
+      "m": "-7/2"
+    }
+  },
+  {
+    "id": "U2-TR-036",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=2 x^{3}+3 x^{2}-12 x+2 m\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }-2\\end{gathered}",
+    "answerLatex": "m=- \\frac{47}{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(3)=-2\\)",
+        "\\(2 m + 2 \\left(3\\right)^{3} + 3 \\left(3\\right)^{2} - 12 \\left(3\\right)=-2\\)",
+        "\\(2 m + 45=-2\\)",
+        "\\(2 m=-47\\)",
+        "\\(m=- \\frac{47}{2}\\)",
+        "\\(P(3)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 48b · variante propia",
+    "polynomial": "2*m + 2*x**3 + 3*x**2 - 12*x",
+    "conditions": [
+      [
+        "3",
+        "-2"
+      ]
+    ],
+    "parameters": {
+      "m": "-47/2"
+    }
+  },
+  {
+    "id": "U2-TR-037",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de k para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=2 x^{4}+k x^{3}-7 x+6\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-8\\end{gathered}",
+    "answerLatex": "k=-4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=-8\\)",
+        "\\(k \\left(2\\right)^{3} + 2 \\left(2\\right)^{4} - 7 \\left(2\\right) + 6=-8\\)",
+        "\\(8 k + 24=-8\\)",
+        "\\(8 k=-32\\)",
+        "\\(k=-4\\)",
+        "\\(P(2)=-8\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 49",
+    "polynomial": "k*x**3 + 2*x**4 - 7*x + 6",
+    "conditions": [
+      [
+        "2",
+        "-8"
+      ]
+    ],
+    "parameters": {
+      "k": "-4"
+    }
+  },
+  {
+    "id": "U2-TR-038",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de k para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=2 x^{4}+k x^{3}-2 x^{2}-7 x+6\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-10\\end{gathered}",
+    "answerLatex": "k=- \\frac{13}{4}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=-10\\)",
+        "\\(k \\left(2\\right)^{3} + 2 \\left(2\\right)^{4} - 2 \\left(2\\right)^{2} - 7 \\left(2\\right) + 6=-10\\)",
+        "\\(8 k + 16=-10\\)",
+        "\\(8 k=-26\\)",
+        "\\(k=- \\frac{13}{4}\\)",
+        "\\(P(2)=-10\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 49 · variante propia",
+    "polynomial": "k*x**3 + 2*x**4 - 2*x**2 - 7*x + 6",
+    "conditions": [
+      [
+        "2",
+        "-10"
+      ]
+    ],
+    "parameters": {
+      "k": "-13/4"
+    }
+  },
+  {
+    "id": "U2-TR-039",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de k para que se cumpla la condición indicada.",
+    "latex": "\\begin{gathered}P(x)=2 x^{4}+k x^{3}+3 x^{2}-7 x+6\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-5\\end{gathered}",
+    "answerLatex": "k=- \\frac{41}{8}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(2)=-5\\)",
+        "\\(k \\left(2\\right)^{3} + 2 \\left(2\\right)^{4} + 3 \\left(2\\right)^{2} - 7 \\left(2\\right) + 6=-5\\)",
+        "\\(8 k + 36=-5\\)",
+        "\\(8 k=-41\\)",
+        "\\(k=- \\frac{41}{8}\\)",
+        "\\(P(2)=-5\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 49 · variante propia",
+    "polynomial": "k*x**3 + 2*x**4 + 3*x**2 - 7*x + 6",
+    "conditions": [
+      [
+        "2",
+        "-5"
+      ]
+    ],
+    "parameters": {
+      "k": "-41/8"
+    }
+  },
+  {
+    "id": "U2-TR-040",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Utiliza Ruffini y el teorema del resto para calcular el valor numérico indicado.",
+    "latex": "P(x)=4 x^{4} - 5 x^{2} + 2 x - 24\\qquad P(2)=?",
+    "answerLatex": "P(2)=24",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrrr} & 4 & 0 & -5 & 2 & -24\\\\2 & & 8 & 16 & 22 & 48\\\\\\hline & 4 & 8 & 11 & 24 & 24\\end{array}\\)",
+        "\\(P(2)=24\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 3a"
+  },
+  {
+    "id": "U2-TR-041",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Utiliza Ruffini y el teorema del resto para calcular el valor numérico indicado.",
+    "latex": "P(x)=3 x^{3} - 8 x^{2} + 3 x\\qquad P(1)=?",
+    "answerLatex": "P(1)=-2",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\begin{array}{r|rrrr} & 3 & -8 & 3 & 0\\\\1 & & 3 & -5 & -2\\\\\\hline & 3 & -5 & -2 & -2\\end{array}\\)",
+        "\\(P(1)=-2\\)"
+      ]
+    },
+    "reference": "Modelo p. 65, 3b"
+  },
+  {
+    "id": "U2-TR-042",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el resto de la división sin efectuarla, utilizando el teorema del resto.",
+    "latex": "\\left(x^{101} + 100\\right):\\left(x + 1\\right)",
+    "answerLatex": "R=99",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)\\)",
+        "\\(P(-1)=(-1)^{101}+100\\)",
+        "\\(R=-1+100=99\\)"
+      ]
+    },
+    "reference": "Modelo de los exámenes aportados · variante propia",
+    "polynomial": "x**101 + 100",
+    "conditions": [
+      [
+        "-1",
+        "99"
+      ]
+    ]
+  },
+  {
+    "id": "U2-TR-043",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el resto de la división sin efectuarla, utilizando el teorema del resto.",
+    "latex": "\\left(x^{201} + 25\\right):\\left(x + 1\\right)",
+    "answerLatex": "R=24",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)\\)",
+        "\\(P(-1)=(-1)^{201}+25\\)",
+        "\\(R=-1+25=24\\)"
+      ]
+    },
+    "reference": "Modelo de los exámenes aportados · variante propia",
+    "polynomial": "x**201 + 25",
+    "conditions": [
+      [
+        "-1",
+        "24"
+      ]
+    ]
+  },
+  {
+    "id": "U2-TR-044",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el resto de la división sin efectuarla, utilizando el teorema del resto.",
+    "latex": "\\left(x^{301} + 50\\right):\\left(x - 1\\right)",
+    "answerLatex": "R=51",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(1)\\)",
+        "\\(P(1)=(1)^{301}+50\\)",
+        "\\(R=1+50=51\\)"
+      ]
+    },
+    "reference": "Modelo de los exámenes aportados · variante propia",
+    "polynomial": "x**301 + 50",
+    "conditions": [
+      [
+        "1",
+        "51"
+      ]
+    ]
+  },
+  {
+    "id": "U2-TR-045",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el resto de la división sin efectuarla, utilizando el teorema del resto.",
+    "latex": "\\left(x^{401} + 200\\right):\\left(x + 1\\right)",
+    "answerLatex": "R=199",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)\\)",
+        "\\(P(-1)=(-1)^{401}+200\\)",
+        "\\(R=-1+200=199\\)"
+      ]
+    },
+    "reference": "Modelo de los exámenes aportados · variante propia",
+    "polynomial": "x**401 + 200",
+    "conditions": [
+      [
+        "-1",
+        "199"
+      ]
+    ]
+  },
+  {
+    "id": "U2-TR-046",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el resto de la división sin efectuarla, utilizando el teorema del resto.",
+    "latex": "\\left(x^{202} + 30\\right):\\left(x + 1\\right)",
+    "answerLatex": "R=31",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)\\)",
+        "\\(P(-1)=(-1)^{202}+30\\)",
+        "\\(R=1+30=31\\)"
+      ]
+    },
+    "reference": "Modelo de los exámenes aportados · variante propia",
+    "polynomial": "x**202 + 30",
+    "conditions": [
+      [
+        "-1",
+        "31"
+      ]
+    ]
+  },
+  {
+    "id": "U2-TR-047",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el resto de la división sin efectuarla, utilizando el teorema del resto.",
+    "latex": "\\left(x^{302} - 10\\right):\\left(x - 1\\right)",
+    "answerLatex": "R=-9",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(1)\\)",
+        "\\(P(1)=(1)^{302}-10\\)",
+        "\\(R=1-10=-9\\)"
+      ]
+    },
+    "reference": "Modelo de los exámenes aportados · variante propia",
+    "polynomial": "x**302 - 10",
+    "conditions": [
+      [
+        "1",
+        "-9"
+      ]
+    ]
+  },
+  {
+    "id": "U2-TR-048",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el resto de la división sin efectuarla, utilizando el teorema del resto.",
+    "latex": "\\left(x^{502} + 40\\right):\\left(x + 1\\right)",
+    "answerLatex": "R=41",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)\\)",
+        "\\(P(-1)=(-1)^{502}+40\\)",
+        "\\(R=1+40=41\\)"
+      ]
+    },
+    "reference": "Modelo de los exámenes aportados · variante propia",
+    "polynomial": "x**502 + 40",
+    "conditions": [
+      [
+        "-1",
+        "41"
+      ]
+    ]
+  },
+  {
+    "id": "U2-TR-049",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el resto de la división sin efectuarla, utilizando el teorema del resto.",
+    "latex": "\\left(x^{501} + 500\\right):\\left(x + 1\\right)",
+    "answerLatex": "R=499",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(R=P(-1)\\)",
+        "\\(P(-1)=(-1)^{501}+500\\)",
+        "\\(R=-1+500=499\\)"
+      ]
+    },
+    "reference": "Modelo de los exámenes aportados · variante propia",
+    "polynomial": "x**501 + 500",
+    "conditions": [
+      [
+        "-1",
+        "499"
+      ]
+    ]
+  },
+  {
+    "id": "U2-FA-001",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{2 x + 1}{x + 3}-\\frac{x^{2} + 5}{x^{2} + 3 x}",
+    "answerLatex": "\\frac{x^{2} + x - 5}{x \\left(x + 3\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{2 x + 1}{x + 3}-\\frac{x^{2} + 5}{x \\left(x + 3\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x + 3\\right)\\)",
+        "\\(\\frac{\\left(2 x^{2} + x\\right) + \\left(- x^{2} - 5\\right)}{x \\left(x + 3\\right)}\\)",
+        "\\(\\frac{x^{2} + x - 5}{x \\left(x + 3\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3a",
+    "expression": "-(x**2 + 5)/(x**2 + 3*x) + (2*x + 1)/(x + 3)",
+    "result": "(x**2 + x - 5)/(x*(x + 3))",
+    "restrictions": "x\\notin\\left\\{-3,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-002",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3}{x}\\cdot \\left(\\frac{x}{x + 1}-\\frac{x^{2}}{x^{2} - 1}\\right)",
+    "answerLatex": "- \\frac{3}{\\left(x - 1\\right) \\left(x + 1\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3}{x}\\cdot \\left(\\frac{x}{x + 1}-\\frac{x^{2}}{\\left(x - 1\\right) \\left(x + 1\\right)}\\right)\\)",
+        "\\(\\frac{- 3 x - 3}{\\left(x - 1\\right) \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{- 3 \\left(x + 1\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)^{2}}\\)",
+        "\\(- \\frac{3}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,0,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3b",
+    "expression": "3*(-x**2/(x**2 - 1) + x/(x + 1))/x",
+    "result": "-3/((x - 1)*(x + 1))",
+    "restrictions": "x\\notin\\left\\{-1,0,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-003",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3}{x - 1}\\cdot \\left(\\frac{x - 1}{x}-\\frac{x^{2} - 2 x + 1}{x^{2} - 2 x}\\right)",
+    "answerLatex": "- \\frac{3}{x \\left(x - 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3}{x - 1}\\cdot \\left(\\frac{x - 1}{x}-\\frac{\\left(x - 1\\right)^{2}}{x \\left(x - 2\\right)}\\right)\\)",
+        "\\(\\frac{3 - 3 x}{x \\left(x - 2\\right) \\left(x - 1\\right)}\\)",
+        "\\(\\frac{- 3 \\left(x - 1\\right)}{x \\left(x - 2\\right) \\left(x - 1\\right)}\\)",
+        "\\(- \\frac{3}{x \\left(x - 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,1,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3b · variante propia",
+    "expression": "3*(-(x**2 - 2*x + 1)/(x**2 - 2*x) + (x - 1)/x)/(x - 1)",
+    "result": "-3/(x*(x - 2))",
+    "restrictions": "x\\notin\\left\\{0,1,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-004",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3}{x + 1}\\cdot \\left(\\frac{x + 1}{x + 2}-\\frac{x^{2} + 2 x + 1}{x^{2} + 2 x}\\right)",
+    "answerLatex": "- \\frac{3}{x \\left(x + 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3}{x + 1}\\cdot \\left(\\frac{x + 1}{x + 2}-\\frac{\\left(x + 1\\right)^{2}}{x \\left(x + 2\\right)}\\right)\\)",
+        "\\(\\frac{- 3 x - 3}{x \\left(x + 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{- 3 \\left(x + 1\\right)}{x \\left(x + 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(- \\frac{3}{x \\left(x + 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,-1,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3b · variante propia",
+    "expression": "3*((x + 1)/(x + 2) - (x**2 + 2*x + 1)/(x**2 + 2*x))/(x + 1)",
+    "result": "-3/(x*(x + 2))",
+    "restrictions": "x\\notin\\left\\{-2,-1,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-005",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x - 10}{x + 3}\\cdot \\frac{x^{2} - 9}{x - 2}",
+    "answerLatex": "5 \\left(x - 3\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 \\left(x - 2\\right)}{x + 3}\\cdot \\frac{\\left(x - 3\\right) \\left(x + 3\\right)}{x - 2}\\)",
+        "\\(\\frac{5 x^{2} - 45}{x + 3}\\)",
+        "\\(\\frac{5 \\left(x - 3\\right) \\left(x + 3\\right)}{x + 3}\\)",
+        "\\(5 \\left(x - 3\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3c",
+    "expression": "(5*x - 10)*(x**2 - 9)/((x - 2)*(x + 3))",
+    "result": "5*(x - 3)",
+    "restrictions": "x\\notin\\left\\{-3,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-006",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x - 20}{x + 1}\\cdot \\frac{x^{2} - 4 x - 5}{x - 4}",
+    "answerLatex": "5 \\left(x - 5\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 \\left(x - 4\\right)}{x + 1}\\cdot \\frac{\\left(x - 5\\right) \\left(x + 1\\right)}{x - 4}\\)",
+        "\\(\\frac{5 x^{2} - 20 x - 25}{x + 1}\\)",
+        "\\(\\frac{5 \\left(x - 5\\right) \\left(x + 1\\right)}{x + 1}\\)",
+        "\\(5 \\left(x - 5\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,4\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3c · variante propia",
+    "expression": "(5*x - 20)*(x**2 - 4*x - 5)/((x - 4)*(x + 1))",
+    "result": "5*(x - 5)",
+    "restrictions": "x\\notin\\left\\{-1,4\\right\\}"
+  },
+  {
+    "id": "U2-FA-007",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x - 15}{x + 2}\\cdot \\frac{x^{2} - 2 x - 8}{x - 3}",
+    "answerLatex": "5 \\left(x - 4\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 \\left(x - 3\\right)}{x + 2}\\cdot \\frac{\\left(x - 4\\right) \\left(x + 2\\right)}{x - 3}\\)",
+        "\\(\\frac{5 x^{2} - 10 x - 40}{x + 2}\\)",
+        "\\(\\frac{5 \\left(x - 4\\right) \\left(x + 2\\right)}{x + 2}\\)",
+        "\\(5 \\left(x - 4\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3c · variante propia",
+    "expression": "(5*x - 15)*(x**2 - 2*x - 8)/((x - 3)*(x + 2))",
+    "result": "5*(x - 4)",
+    "restrictions": "x\\notin\\left\\{-2,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-008",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x - 5}{x + 4}\\cdot \\frac{x^{2} + 2 x - 8}{x - 1}",
+    "answerLatex": "5 \\left(x - 2\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 \\left(x - 1\\right)}{x + 4}\\cdot \\frac{\\left(x - 2\\right) \\left(x + 4\\right)}{x - 1}\\)",
+        "\\(\\frac{5 x^{2} + 10 x - 40}{x + 4}\\)",
+        "\\(\\frac{5 \\left(x - 2\\right) \\left(x + 4\\right)}{x + 4}\\)",
+        "\\(5 \\left(x - 2\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-4,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3c · variante propia",
+    "expression": "(5*x - 5)*(x**2 + 2*x - 8)/((x - 1)*(x + 4))",
+    "result": "5*(x - 2)",
+    "restrictions": "x\\notin\\left\\{-4,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-009",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x}{x + 5}\\cdot \\frac{x^{2} + 4 x - 5}{x}",
+    "answerLatex": "5 \\left(x - 1\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 x}{x + 5}\\cdot \\frac{\\left(x - 1\\right) \\left(x + 5\\right)}{x}\\)",
+        "\\(\\frac{5 x^{2} + 20 x - 25}{x + 5}\\)",
+        "\\(\\frac{5 \\left(x - 1\\right) \\left(x + 5\\right)}{x + 5}\\)",
+        "\\(5 \\left(x - 1\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-5,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3c · variante propia",
+    "expression": "5*(x**2 + 4*x - 5)/(x + 5)",
+    "result": "5*(x - 1)",
+    "restrictions": "x\\notin\\left\\{-5,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-010",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x - 1}{x}-\\frac{x + 3}{x^{2} - 2 x}+\\frac{2 x + 5}{x - 2}",
+    "answerLatex": "\\frac{5 x^{2} - 3 x - 1}{x \\left(x - 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 x - 1}{x}-\\frac{x + 3}{x \\left(x - 2\\right)}+\\frac{2 x + 5}{x - 2}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 2\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} - 7 x + 2\\right) + \\left(- x - 3\\right) + \\left(2 x^{2} + 5 x\\right)}{x \\left(x - 2\\right)}\\)",
+        "\\(\\frac{5 x^{2} - 3 x - 1}{x \\left(x - 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3d",
+    "expression": "-(x + 3)/(x**2 - 2*x) + (2*x + 5)/(x - 2) + (3*x - 1)/x",
+    "result": "(5*x**2 - 3*x - 1)/(x*(x - 2))",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-011",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x + 2}{x + 1}-\\frac{x + 4}{x^{2} - 1}+\\frac{2 x + 7}{x - 1}",
+    "answerLatex": "\\frac{5 x^{2} + 7 x + 1}{\\left(x - 1\\right) \\left(x + 1\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 x + 2}{x + 1}-\\frac{x + 4}{\\left(x - 1\\right) \\left(x + 1\\right)}+\\frac{2 x + 7}{x - 1}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right) \\left(x + 1\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} - x - 2\\right) + \\left(- x - 4\\right) + \\left(2 x^{2} + 9 x + 7\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{5 x^{4} + 7 x^{3} - 4 x^{2} - 7 x - 1}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 1\\right) \\left(x + 1\\right) \\left(5 x^{2} + 7 x + 1\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{5 x^{2} + 7 x + 1}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3d · variante propia",
+    "expression": "-(x + 4)/(x**2 - 1) + (3*x + 2)/(x + 1) + (2*x + 7)/(x - 1)",
+    "result": "(5*x**2 + 7*x + 1)/((x - 1)*(x + 1))",
+    "restrictions": "x\\notin\\left\\{-1,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-012",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x + 5}{x + 2}-\\frac{x + 5}{x^{2} + 2 x}+\\frac{2 x + 9}{x}",
+    "answerLatex": "\\frac{5 x^{2} + 17 x + 13}{x \\left(x + 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 x + 5}{x + 2}-\\frac{x + 5}{x \\left(x + 2\\right)}+\\frac{2 x + 9}{x}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x + 2\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} + 5 x\\right) + \\left(- x - 5\\right) + \\left(2 x^{2} + 13 x + 18\\right)}{x \\left(x + 2\\right)}\\)",
+        "\\(\\frac{5 x^{2} + 17 x + 13}{x \\left(x + 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3d · variante propia",
+    "expression": "-(x + 5)/(x**2 + 2*x) + (3*x + 5)/(x + 2) + (2*x + 9)/x",
+    "result": "(5*x**2 + 17*x + 13)/(x*(x + 2))",
+    "restrictions": "x\\notin\\left\\{-2,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-013",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x + 1}{2 x - 1}\\right):\\left(\\frac{x^{2}}{4 x - 2}\\right)",
+    "answerLatex": "\\frac{2 \\left(2 x + 1\\right)}{x^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 x + 1}{2 x - 1}\\right):\\left(\\frac{x^{2}}{2 \\left(2 x - 1\\right)}\\right)\\)",
+        "\\(\\frac{2 x + 1}{2 x - 1}\\cdot\\frac{2 \\left(2 x - 1\\right)}{x^{2}}\\)",
+        "\\(\\frac{4 x + 2}{x^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x + 1\\right)}{x^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,\\frac{1}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3e",
+    "expression": "(2*x + 1)*(4*x - 2)/(x**2*(2*x - 1))",
+    "result": "2*(2*x + 1)/x**2",
+    "restrictions": "x\\notin\\left\\{0,\\frac{1}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-014",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x - 3}{2 x - 5}\\right):\\left(\\frac{x^{2} - 4 x + 4}{4 x - 10}\\right)",
+    "answerLatex": "\\frac{2 \\left(2 x - 3\\right)}{\\left(x - 2\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 x - 3}{2 x - 5}\\right):\\left(\\frac{\\left(x - 2\\right)^{2}}{2 \\left(2 x - 5\\right)}\\right)\\)",
+        "\\(\\frac{2 x - 3}{2 x - 5}\\cdot\\frac{2 \\left(2 x - 5\\right)}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\frac{4 x - 6}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x - 3\\right)}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{2,\\frac{5}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3e · variante propia",
+    "expression": "(2*x - 3)*(4*x - 10)/((2*x - 5)*(x**2 - 4*x + 4))",
+    "result": "2*(2*x - 3)/(x - 2)**2",
+    "restrictions": "x\\notin\\left\\{2,\\frac{5}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-015",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x - 1}{2 x - 3}\\right):\\left(\\frac{x^{2} - 2 x + 1}{4 x - 6}\\right)",
+    "answerLatex": "\\frac{2 \\left(2 x - 1\\right)}{\\left(x - 1\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 x - 1}{2 x - 3}\\right):\\left(\\frac{\\left(x - 1\\right)^{2}}{2 \\left(2 x - 3\\right)}\\right)\\)",
+        "\\(\\frac{2 x - 1}{2 x - 3}\\cdot\\frac{2 \\left(2 x - 3\\right)}{\\left(x - 1\\right)^{2}}\\)",
+        "\\(\\frac{4 x - 2}{\\left(x - 1\\right)^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x - 1\\right)}{\\left(x - 1\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{1,\\frac{3}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3e · variante propia",
+    "expression": "(2*x - 1)*(4*x - 6)/((2*x - 3)*(x**2 - 2*x + 1))",
+    "result": "2*(2*x - 1)/(x - 1)**2",
+    "restrictions": "x\\notin\\left\\{1,\\frac{3}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-016",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x + 3}{2 x + 1}\\right):\\left(\\frac{x^{2} + 2 x + 1}{4 x + 2}\\right)",
+    "answerLatex": "\\frac{2 \\left(2 x + 3\\right)}{\\left(x + 1\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 x + 3}{2 x + 1}\\right):\\left(\\frac{\\left(x + 1\\right)^{2}}{2 \\left(2 x + 1\\right)}\\right)\\)",
+        "\\(\\frac{2 x + 3}{2 x + 1}\\cdot\\frac{2 \\left(2 x + 1\\right)}{\\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{4 x + 6}{\\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x + 3\\right)}{\\left(x + 1\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,- \\frac{1}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3e · variante propia",
+    "expression": "(2*x + 3)*(4*x + 2)/((2*x + 1)*(x**2 + 2*x + 1))",
+    "result": "2*(2*x + 3)/(x + 1)**2",
+    "restrictions": "x\\notin\\left\\{-1,- \\frac{1}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-017",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x + 5}{2 x + 3}\\right):\\left(\\frac{x^{2} + 4 x + 4}{4 x + 6}\\right)",
+    "answerLatex": "\\frac{2 \\left(2 x + 5\\right)}{\\left(x + 2\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 x + 5}{2 x + 3}\\right):\\left(\\frac{\\left(x + 2\\right)^{2}}{2 \\left(2 x + 3\\right)}\\right)\\)",
+        "\\(\\frac{2 x + 5}{2 x + 3}\\cdot\\frac{2 \\left(2 x + 3\\right)}{\\left(x + 2\\right)^{2}}\\)",
+        "\\(\\frac{4 x + 10}{\\left(x + 2\\right)^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x + 5\\right)}{\\left(x + 2\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,- \\frac{3}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3e · variante propia",
+    "expression": "(2*x + 5)*(4*x + 6)/((2*x + 3)*(x**2 + 4*x + 4))",
+    "result": "2*(2*x + 5)/(x + 2)**2",
+    "restrictions": "x\\notin\\left\\{-2,- \\frac{3}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-018",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2}}{x - 1}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 1}\\right)",
+    "answerLatex": "- x^{3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{x^{2}}{x - 1}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 1}\\right)\\)",
+        "\\(\\frac{x^{2}}{x - 1}\\cdot\\frac{x \\left(x - 1\\right)}{-1}\\)",
+        "\\(\\frac{- x^{3}}{1}\\)",
+        "\\(- x^{3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3f",
+    "expression": "x**2/((x - 1)*(-1/(x - 1) + 1/x))",
+    "result": "-x**3",
+    "restrictions": "x\\notin\\left\\{0,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-019",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2} - 4 x + 4}{x - 3}\\right):\\left(\\frac{1}{x - 2}-\\frac{1}{x - 3}\\right)",
+    "answerLatex": "- \\left(x - 2\\right)^{3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{\\left(x - 2\\right)^{2}}{x - 3}\\right):\\left(\\frac{1}{x - 2}-\\frac{1}{x - 3}\\right)\\)",
+        "\\(\\frac{\\left(x - 2\\right)^{2}}{x - 3}\\cdot\\frac{\\left(x - 3\\right) \\left(x - 2\\right)}{-1}\\)",
+        "\\(\\frac{- x^{3} + 6 x^{2} - 12 x + 8}{1}\\)",
+        "\\(\\frac{- \\left(x - 2\\right)^{3}}{1}\\)",
+        "\\(- \\left(x - 2\\right)^{3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{2,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3f · variante propia",
+    "expression": "(x**2 - 4*x + 4)/((x - 3)*(1/(x - 2) - 1/(x - 3)))",
+    "result": "-(x - 2)**3",
+    "restrictions": "x\\notin\\left\\{2,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-020",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2} - 2 x + 1}{x - 2}\\right):\\left(\\frac{1}{x - 1}-\\frac{1}{x - 2}\\right)",
+    "answerLatex": "- \\left(x - 1\\right)^{3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{\\left(x - 1\\right)^{2}}{x - 2}\\right):\\left(\\frac{1}{x - 1}-\\frac{1}{x - 2}\\right)\\)",
+        "\\(\\frac{\\left(x - 1\\right)^{2}}{x - 2}\\cdot\\frac{\\left(x - 2\\right) \\left(x - 1\\right)}{-1}\\)",
+        "\\(\\frac{- x^{3} + 3 x^{2} - 3 x + 1}{1}\\)",
+        "\\(\\frac{- \\left(x - 1\\right)^{3}}{1}\\)",
+        "\\(- \\left(x - 1\\right)^{3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{1,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3f · variante propia",
+    "expression": "(x**2 - 2*x + 1)/((x - 2)*(1/(x - 1) - 1/(x - 2)))",
+    "result": "-(x - 1)**3",
+    "restrictions": "x\\notin\\left\\{1,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-021",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2} + 2 x + 1}{x}\\right):\\left(\\frac{1}{x + 1}-\\frac{1}{x}\\right)",
+    "answerLatex": "- \\left(x + 1\\right)^{3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{\\left(x + 1\\right)^{2}}{x}\\right):\\left(\\frac{1}{x + 1}-\\frac{1}{x}\\right)\\)",
+        "\\(\\frac{\\left(x + 1\\right)^{2}}{x}\\cdot\\frac{x \\left(x + 1\\right)}{-1}\\)",
+        "\\(\\frac{- x^{3} - 3 x^{2} - 3 x - 1}{1}\\)",
+        "\\(\\frac{- \\left(x + 1\\right)^{3}}{1}\\)",
+        "\\(- \\left(x + 1\\right)^{3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3f · variante propia",
+    "expression": "(x**2 + 2*x + 1)/(x*(1/(x + 1) - 1/x))",
+    "result": "-(x + 1)**3",
+    "restrictions": "x\\notin\\left\\{-1,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-022",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2} + 4 x + 4}{x + 1}\\right):\\left(\\frac{1}{x + 2}-\\frac{1}{x + 1}\\right)",
+    "answerLatex": "- \\left(x + 2\\right)^{3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{\\left(x + 2\\right)^{2}}{x + 1}\\right):\\left(\\frac{1}{x + 2}-\\frac{1}{x + 1}\\right)\\)",
+        "\\(\\frac{\\left(x + 2\\right)^{2}}{x + 1}\\cdot\\frac{\\left(x + 1\\right) \\left(x + 2\\right)}{-1}\\)",
+        "\\(\\frac{- x^{3} - 6 x^{2} - 12 x - 8}{1}\\)",
+        "\\(\\frac{- \\left(x + 2\\right)^{3}}{1}\\)",
+        "\\(- \\left(x + 2\\right)^{3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,-1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 73, 3f · variante propia",
+    "expression": "(x**2 + 4*x + 4)/((x + 1)*(1/(x + 2) - 1/(x + 1)))",
+    "result": "-(x + 2)**3",
+    "restrictions": "x\\notin\\left\\{-2,-1\\right\\}"
+  },
+  {
+    "id": "U2-FA-023",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x - 1}{x + 3}-\\frac{2}{x - 3}+\\frac{x}{x^{2} - 9}",
+    "answerLatex": "\\frac{x^{2} - 5 x - 3}{\\left(x - 3\\right) \\left(x + 3\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x - 1}{x + 3}-\\frac{2}{x - 3}+\\frac{x}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 3\\right) \\left(x + 3\\right)\\)",
+        "\\(\\frac{\\left(x^{2} - 4 x + 3\\right) + \\left(- 2 x - 6\\right) + \\left(x\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\frac{x^{4} - 5 x^{3} - 12 x^{2} + 45 x + 27}{\\left(x - 3\\right)^{2} \\left(x + 3\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 3\\right) \\left(x + 3\\right) \\left(x^{2} - 5 x - 3\\right)}{\\left(x - 3\\right)^{2} \\left(x + 3\\right)^{2}}\\)",
+        "\\(\\frac{x^{2} - 5 x - 3}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 35a",
+    "expression": "x/(x**2 - 9) + (x - 1)/(x + 3) - 2/(x - 3)",
+    "result": "(x**2 - 5*x - 3)/((x - 3)*(x + 3))",
+    "restrictions": "x\\notin\\left\\{-3,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-024",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{2}{x - 2}-\\frac{x + 1}{x^{2} - 2 x}-\\frac{3}{x^{2} - 4}",
+    "answerLatex": "\\frac{x^{2} - 2 x - 2}{x \\left(x - 2\\right) \\left(x + 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{2}{x - 2}-\\frac{x + 1}{x \\left(x - 2\\right)}-\\frac{3}{\\left(x - 2\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 2\\right) \\left(x + 2\\right)\\)",
+        "\\(\\frac{\\left(2 x^{2} + 4 x\\right) + \\left(- x^{2} - 3 x - 2\\right) + \\left(- 3 x\\right)}{x \\left(x - 2\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{x^{3} - 4 x^{2} + 2 x + 4}{x \\left(x - 2\\right)^{2} \\left(x + 2\\right)}\\)",
+        "\\(\\frac{\\left(x - 2\\right) \\left(x^{2} - 2 x - 2\\right)}{x \\left(x - 2\\right)^{2} \\left(x + 2\\right)}\\)",
+        "\\(\\frac{x^{2} - 2 x - 2}{x \\left(x - 2\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 35b",
+    "expression": "-(x + 1)/(x**2 - 2*x) - 3/(x**2 - 4) + 2/(x - 2)",
+    "result": "(x**2 - 2*x - 2)/(x*(x - 2)*(x + 2))",
+    "restrictions": "x\\notin\\left\\{-2,0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-025",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{2}{x}-\\frac{x + 3}{x^{2} + 2 x}-\\frac{3}{x^{2} + 4 x}",
+    "answerLatex": "\\frac{x^{2} + 2 x - 2}{x \\left(x + 2\\right) \\left(x + 4\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{2}{x}-\\frac{x + 3}{x \\left(x + 2\\right)}-\\frac{3}{x \\left(x + 4\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x + 2\\right) \\left(x + 4\\right)\\)",
+        "\\(\\frac{\\left(2 x^{2} + 12 x + 16\\right) + \\left(- x^{2} - 7 x - 12\\right) + \\left(- 3 x - 6\\right)}{x \\left(x + 2\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\frac{x^{2} + 2 x - 2}{x \\left(x + 2\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-4,-2,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 35b · variante propia",
+    "expression": "-(x + 3)/(x**2 + 2*x) - 3/(x**2 + 4*x) + 2/x",
+    "result": "(x**2 + 2*x - 2)/(x*(x + 2)*(x + 4))",
+    "restrictions": "x\\notin\\left\\{-4,-2,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-026",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{1}{2 x}+\\frac{3 x - 6}{x^{2} - 3 x}-\\frac{x - 1}{x - 3}",
+    "answerLatex": "- \\frac{2 x^{2} - 9 x + 15}{2 x \\left(x - 3\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{1}{2 x}+\\frac{3 \\left(x - 2\\right)}{x \\left(x - 3\\right)}-\\frac{x - 1}{x - 3}\\)",
+        "\\(\\operatorname{mcm}=2 x \\left(x - 3\\right)\\)",
+        "\\(\\frac{\\left(x - 3\\right) + \\left(6 x - 12\\right) + \\left(- 2 x^{2} + 2 x\\right)}{2 x \\left(x - 3\\right)}\\)",
+        "\\(\\frac{- 2 x^{2} + 9 x - 15}{2 x \\left(x - 3\\right)}\\)",
+        "\\(- \\frac{2 x^{2} - 9 x + 15}{2 x \\left(x - 3\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 35c · variante propia",
+    "expression": "(3*x - 6)/(x**2 - 3*x) - (x - 1)/(x - 3) + 1/(2*x)",
+    "result": "-(2*x**2 - 9*x + 15)/(2*x*(x - 3))",
+    "restrictions": "x\\notin\\left\\{0,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-027",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{1}{2 x + 6}+\\frac{3 x + 3}{x^{2} + 3 x}-\\frac{x + 2}{x}",
+    "answerLatex": "- \\frac{2 x^{2} + 3 x + 6}{2 x \\left(x + 3\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{1}{2 \\left(x + 3\\right)}+\\frac{3 \\left(x + 1\\right)}{x \\left(x + 3\\right)}-\\frac{x + 2}{x}\\)",
+        "\\(\\operatorname{mcm}=2 x \\left(x + 3\\right)\\)",
+        "\\(\\frac{\\left(x\\right) + \\left(6 x + 6\\right) + \\left(- 2 x^{2} - 10 x - 12\\right)}{2 x \\left(x + 3\\right)}\\)",
+        "\\(\\frac{- 2 x^{2} - 3 x - 6}{2 x \\left(x + 3\\right)}\\)",
+        "\\(- \\frac{2 x^{2} + 3 x + 6}{2 x \\left(x + 3\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 35c · variante propia",
+    "expression": "(3*x + 3)/(x**2 + 3*x) + 1/(2*x + 6) - (x + 2)/x",
+    "result": "-(2*x**2 + 3*x + 6)/(2*x*(x + 3))",
+    "restrictions": "x\\notin\\left\\{-3,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-028",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x + 1}{x - 1}+\\frac{3}{x + 1}-\\frac{x - 2}{x^{2} - 1}",
+    "answerLatex": "\\frac{x \\left(x + 4\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x + 1}{x - 1}+\\frac{3}{x + 1}-\\frac{x - 2}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right) \\left(x + 1\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 2 x + 1\\right) + \\left(3 x - 3\\right) + \\left(2 - x\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{x^{4} + 4 x^{3} - x^{2} - 4 x}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{x \\left(x - 1\\right) \\left(x + 1\\right) \\left(x + 4\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{x \\left(x + 4\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36a",
+    "expression": "-(x - 2)/(x**2 - 1) + 3/(x + 1) + (x + 1)/(x - 1)",
+    "result": "x*(x + 4)/((x - 1)*(x + 1))",
+    "restrictions": "x\\notin\\left\\{-1,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-029",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x}{x - 2}+\\frac{3}{x}-\\frac{x - 3}{x^{2} - 2 x}",
+    "answerLatex": "\\frac{\\left(x - 1\\right) \\left(x + 3\\right)}{x \\left(x - 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x}{x - 2}+\\frac{3}{x}-\\frac{x - 3}{x \\left(x - 2\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 2\\right)\\)",
+        "\\(\\frac{\\left(x^{2}\\right) + \\left(3 x - 6\\right) + \\left(3 - x\\right)}{x \\left(x - 2\\right)}\\)",
+        "\\(\\frac{x^{2} + 2 x - 3}{x \\left(x - 2\\right)}\\)",
+        "\\(\\frac{\\left(x - 1\\right) \\left(x + 3\\right)}{x \\left(x - 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36a · variante propia",
+    "expression": "x/(x - 2) - (x - 3)/(x**2 - 2*x) + 3/x",
+    "result": "(x - 1)*(x + 3)/(x*(x - 2))",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-030",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x + 2}{x}+\\frac{3}{x + 2}-\\frac{x - 1}{x^{2} + 2 x}",
+    "answerLatex": "\\frac{\\left(x + 1\\right) \\left(x + 5\\right)}{x \\left(x + 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x + 2}{x}+\\frac{3}{x + 2}-\\frac{x - 1}{x \\left(x + 2\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x + 2\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 4 x + 4\\right) + \\left(3 x\\right) + \\left(1 - x\\right)}{x \\left(x + 2\\right)}\\)",
+        "\\(\\frac{x^{2} + 6 x + 5}{x \\left(x + 2\\right)}\\)",
+        "\\(\\frac{\\left(x + 1\\right) \\left(x + 5\\right)}{x \\left(x + 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36a · variante propia",
+    "expression": "-(x - 1)/(x**2 + 2*x) + 3/(x + 2) + (x + 2)/x",
+    "result": "(x + 1)*(x + 5)/(x*(x + 2))",
+    "restrictions": "x\\notin\\left\\{-2,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-031",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2}}{x^{2} - 2 x + 1}+\\frac{2 x + 3}{x - 1}-3",
+    "answerLatex": "\\frac{7 x - 6}{\\left(x - 1\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x^{2}}{\\left(x - 1\\right)^{2}}+\\frac{2 x + 3}{x - 1}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2}\\right) + \\left(2 x^{2} + x - 3\\right) + \\left(- 3 x^{2} + 6 x - 3\\right)}{\\left(x - 1\\right)^{2}}\\)",
+        "\\(\\frac{7 x^{2} - 13 x + 6}{\\left(x - 1\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 1\\right) \\left(7 x - 6\\right)}{\\left(x - 1\\right)^{3}}\\)",
+        "\\(\\frac{7 x - 6}{\\left(x - 1\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36b",
+    "expression": "x**2/(x**2 - 2*x + 1) - 3 + (2*x + 3)/(x - 1)",
+    "result": "(7*x - 6)/(x - 1)**2",
+    "restrictions": "x\\notin\\left\\{1\\right\\}"
+  },
+  {
+    "id": "U2-FA-032",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2} - 4 x + 4}{x^{2} - 6 x + 9}+\\frac{2 x - 1}{x - 3}-3",
+    "answerLatex": "\\frac{7 x - 20}{\\left(x - 3\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{\\left(x - 2\\right)^{2}}{\\left(x - 3\\right)^{2}}+\\frac{2 x - 1}{x - 3}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 3\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2} - 4 x + 4\\right) + \\left(2 x^{2} - 7 x + 3\\right) + \\left(- 3 x^{2} + 18 x - 27\\right)}{\\left(x - 3\\right)^{2}}\\)",
+        "\\(\\frac{7 x^{2} - 41 x + 60}{\\left(x - 3\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 3\\right) \\left(7 x - 20\\right)}{\\left(x - 3\\right)^{3}}\\)",
+        "\\(\\frac{7 x - 20}{\\left(x - 3\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36b · variante propia",
+    "expression": "-3 + (x**2 - 4*x + 4)/(x**2 - 6*x + 9) + (2*x - 1)/(x - 3)",
+    "result": "(7*x - 20)/(x - 3)**2",
+    "restrictions": "x\\notin\\left\\{3\\right\\}"
+  },
+  {
+    "id": "U2-FA-033",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2} - 2 x + 1}{x^{2} - 4 x + 4}+\\frac{2 x + 1}{x - 2}-3",
+    "answerLatex": "\\frac{7 x - 13}{\\left(x - 2\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{\\left(x - 1\\right)^{2}}{\\left(x - 2\\right)^{2}}+\\frac{2 x + 1}{x - 2}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 2\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2} - 2 x + 1\\right) + \\left(2 x^{2} - 3 x - 2\\right) + \\left(- 3 x^{2} + 12 x - 12\\right)}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\frac{7 x^{2} - 27 x + 26}{\\left(x - 2\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 2\\right) \\left(7 x - 13\\right)}{\\left(x - 2\\right)^{3}}\\)",
+        "\\(\\frac{7 x - 13}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36b · variante propia",
+    "expression": "-3 + (x**2 - 2*x + 1)/(x**2 - 4*x + 4) + (2*x + 1)/(x - 2)",
+    "result": "(7*x - 13)/(x - 2)**2",
+    "restrictions": "x\\notin\\left\\{2\\right\\}"
+  },
+  {
+    "id": "U2-FA-034",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2} + 2 x + 1}{x^{2}}+\\frac{2 x + 5}{x}-3",
+    "answerLatex": "\\frac{7 x + 1}{x^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{\\left(x + 1\\right)^{2}}{x^{2}}+\\frac{2 x + 5}{x}-3\\)",
+        "\\(\\operatorname{mcm}=x^{2}\\)",
+        "\\(\\frac{\\left(x^{2} + 2 x + 1\\right) + \\left(2 x^{2} + 5 x\\right) + \\left(- 3 x^{2}\\right)}{x^{2}}\\)",
+        "\\(\\frac{7 x + 1}{x^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36b · variante propia",
+    "expression": "-3 + (2*x + 5)/x + (x**2 + 2*x + 1)/x**2",
+    "result": "(7*x + 1)/x**2",
+    "restrictions": "x\\notin\\left\\{0\\right\\}"
+  },
+  {
+    "id": "U2-FA-035",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2} + 4 x + 4}{x^{2} + 2 x + 1}+\\frac{2 x + 7}{x + 1}-3",
+    "answerLatex": "\\frac{7 x + 8}{\\left(x + 1\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{\\left(x + 2\\right)^{2}}{\\left(x + 1\\right)^{2}}+\\frac{2 x + 7}{x + 1}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x + 1\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2} + 4 x + 4\\right) + \\left(2 x^{2} + 9 x + 7\\right) + \\left(- 3 x^{2} - 6 x - 3\\right)}{\\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{7 x^{2} + 15 x + 8}{\\left(x + 1\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x + 1\\right) \\left(7 x + 8\\right)}{\\left(x + 1\\right)^{3}}\\)",
+        "\\(\\frac{7 x + 8}{\\left(x + 1\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36b · variante propia",
+    "expression": "-3 + (x**2 + 4*x + 4)/(x**2 + 2*x + 1) + (2*x + 7)/(x + 1)",
+    "result": "(7*x + 8)/(x + 1)**2",
+    "restrictions": "x\\notin\\left\\{-1\\right\\}"
+  },
+  {
+    "id": "U2-FA-036",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{2 x - 3}{x^{2} - 9}-\\frac{x + 1}{x - 3}-\\frac{x + 2}{x + 3}",
+    "answerLatex": "- \\frac{x \\left(2 x + 1\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{2 x - 3}{\\left(x - 3\\right) \\left(x + 3\\right)}-\\frac{x + 1}{x - 3}-\\frac{x + 2}{x + 3}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 3\\right) \\left(x + 3\\right)\\)",
+        "\\(\\frac{\\left(2 x - 3\\right) + \\left(- x^{2} - 4 x - 3\\right) + \\left(- x^{2} + x + 6\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\frac{- 2 x^{4} - x^{3} + 18 x^{2} + 9 x}{\\left(x - 3\\right)^{2} \\left(x + 3\\right)^{2}}\\)",
+        "\\(\\frac{- x \\left(x - 3\\right) \\left(x + 3\\right) \\left(2 x + 1\\right)}{\\left(x - 3\\right)^{2} \\left(x + 3\\right)^{2}}\\)",
+        "\\(- \\frac{x \\left(2 x + 1\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 36c",
+    "expression": "-(x + 2)/(x + 3) + (2*x - 3)/(x**2 - 9) - (x + 1)/(x - 3)",
+    "result": "-x*(2*x + 1)/((x - 3)*(x + 3))",
+    "restrictions": "x\\notin\\left\\{-3,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-037",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(1-\\frac{x - 1}{x}\\right)\\cdot \\frac{x^{2}}{x + 3}-1",
+    "answerLatex": "- \\frac{3}{x + 3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(1-\\frac{x - 1}{x}\\right)\\cdot \\frac{x^{2}}{x + 3}-1\\)",
+        "\\(\\operatorname{mcm}=x + 3\\)",
+        "\\(\\frac{\\left(x\\right) + \\left(- x - 3\\right)}{x + 3}\\)",
+        "\\(\\frac{-3}{x + 3}\\)",
+        "\\(- \\frac{3}{x + 3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38a",
+    "expression": "x**2*(1 - (x - 1)/x)/(x + 3) - 1",
+    "result": "-3/(x + 3)",
+    "restrictions": "x\\notin\\left\\{-3,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-038",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(1-\\frac{x - 3}{x - 2}\\right)\\cdot \\frac{x^{2} - 4 x + 4}{x + 1}-1",
+    "answerLatex": "- \\frac{3}{x + 1}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(1-\\frac{x - 3}{x - 2}\\right)\\cdot \\frac{\\left(x - 2\\right)^{2}}{x + 1}-1\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 2\\right) \\left(x + 1\\right)\\)",
+        "\\(\\frac{\\left(x^{2} - 4 x + 4\\right) + \\left(- x^{2} + x + 2\\right)}{\\left(x - 2\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{6 - 3 x}{\\left(x - 2\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{- 3 \\left(x - 2\\right)}{\\left(x - 2\\right) \\left(x + 1\\right)}\\)",
+        "\\(- \\frac{3}{x + 1}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38a · variante propia",
+    "expression": "-1 + (-(x - 3)/(x - 2) + 1)*(x**2 - 4*x + 4)/(x + 1)",
+    "result": "-3/(x + 1)",
+    "restrictions": "x\\notin\\left\\{-1,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-039",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(1-\\frac{x - 2}{x - 1}\\right)\\cdot \\frac{x^{2} - 2 x + 1}{x + 2}-1",
+    "answerLatex": "- \\frac{3}{x + 2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(1-\\frac{x - 2}{x - 1}\\right)\\cdot \\frac{\\left(x - 1\\right)^{2}}{x + 2}-1\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right) \\left(x + 2\\right)\\)",
+        "\\(\\frac{\\left(x^{2} - 2 x + 1\\right) + \\left(- x^{2} - x + 2\\right)}{\\left(x - 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{3 - 3 x}{\\left(x - 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{- 3 \\left(x - 1\\right)}{\\left(x - 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(- \\frac{3}{x + 2}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38a · variante propia",
+    "expression": "-1 + (-(x - 2)/(x - 1) + 1)*(x**2 - 2*x + 1)/(x + 2)",
+    "result": "-3/(x + 2)",
+    "restrictions": "x\\notin\\left\\{-2,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-040",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(1-\\frac{x}{x + 1}\\right)\\cdot \\frac{x^{2} + 2 x + 1}{x + 4}-1",
+    "answerLatex": "- \\frac{3}{x + 4}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(1-\\frac{x}{x + 1}\\right)\\cdot \\frac{\\left(x + 1\\right)^{2}}{x + 4}-1\\)",
+        "\\(\\operatorname{mcm}=\\left(x + 1\\right) \\left(x + 4\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 2 x + 1\\right) + \\left(- x^{2} - 5 x - 4\\right)}{\\left(x + 1\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\frac{- 3 x - 3}{\\left(x + 1\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\frac{- 3 \\left(x + 1\\right)}{\\left(x + 1\\right) \\left(x + 4\\right)}\\)",
+        "\\(- \\frac{3}{x + 4}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-4,-1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38a · variante propia",
+    "expression": "-1 + (-x/(x + 1) + 1)*(x**2 + 2*x + 1)/(x + 4)",
+    "result": "-3/(x + 4)",
+    "restrictions": "x\\notin\\left\\{-4,-1\\right\\}"
+  },
+  {
+    "id": "U2-FA-041",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(1-\\frac{x + 1}{x + 2}\\right)\\cdot \\frac{x^{2} + 4 x + 4}{x + 5}-1",
+    "answerLatex": "- \\frac{3}{x + 5}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(1-\\frac{x + 1}{x + 2}\\right)\\cdot \\frac{\\left(x + 2\\right)^{2}}{x + 5}-1\\)",
+        "\\(\\operatorname{mcm}=\\left(x + 2\\right) \\left(x + 5\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 4 x + 4\\right) + \\left(- x^{2} - 7 x - 10\\right)}{\\left(x + 2\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\frac{- 3 x - 6}{\\left(x + 2\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\frac{- 3 \\left(x + 2\\right)}{\\left(x + 2\\right) \\left(x + 5\\right)}\\)",
+        "\\(- \\frac{3}{x + 5}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-5,-2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38a · variante propia",
+    "expression": "-1 + (-(x + 1)/(x + 2) + 1)*(x**2 + 4*x + 4)/(x + 5)",
+    "result": "-3/(x + 5)",
+    "restrictions": "x\\notin\\left\\{-5,-2\\right\\}"
+  },
+  {
+    "id": "U2-FA-042",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{1}{x}-\\frac{1}{x + 3}\\right):\\left(\\frac{3}{x^{2}}\\right)",
+    "answerLatex": "\\frac{x}{x + 3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{1}{x}-\\frac{1}{x + 3}\\right):\\left(\\frac{3}{x^{2}}\\right)\\)",
+        "\\(\\frac{3}{x \\left(x + 3\\right)}\\cdot\\frac{x^{2}}{3}\\)",
+        "\\(\\frac{x}{x + 3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38b",
+    "expression": "x**2*(-1/(x + 3) + 1/x)/3",
+    "result": "x/(x + 3)",
+    "restrictions": "x\\notin\\left\\{-3,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-043",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{1}{x - 2}-\\frac{1}{x + 1}\\right):\\left(\\frac{3}{x^{2} - 4 x + 4}\\right)",
+    "answerLatex": "\\frac{x - 2}{x + 1}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{1}{x - 2}-\\frac{1}{x + 1}\\right):\\left(\\frac{3}{\\left(x - 2\\right)^{2}}\\right)\\)",
+        "\\(\\frac{3}{\\left(x - 2\\right) \\left(x + 1\\right)}\\cdot\\frac{\\left(x - 2\\right)^{2}}{3}\\)",
+        "\\(\\frac{x^{2} - 4 x + 4}{\\left(x - 2\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{\\left(x - 2\\right)^{2}}{\\left(x - 2\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{x - 2}{x + 1}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38b · variante propia",
+    "expression": "(-1/(x + 1) + 1/(x - 2))*(x**2/3 - 4*x/3 + 4/3)",
+    "result": "(x - 2)/(x + 1)",
+    "restrictions": "x\\notin\\left\\{-1,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-044",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{1}{x - 1}-\\frac{1}{x + 2}\\right):\\left(\\frac{3}{x^{2} - 2 x + 1}\\right)",
+    "answerLatex": "\\frac{x - 1}{x + 2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{1}{x - 1}-\\frac{1}{x + 2}\\right):\\left(\\frac{3}{\\left(x - 1\\right)^{2}}\\right)\\)",
+        "\\(\\frac{3}{\\left(x - 1\\right) \\left(x + 2\\right)}\\cdot\\frac{\\left(x - 1\\right)^{2}}{3}\\)",
+        "\\(\\frac{x^{2} - 2 x + 1}{\\left(x - 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{\\left(x - 1\\right)^{2}}{\\left(x - 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{x - 1}{x + 2}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38b · variante propia",
+    "expression": "(-1/(x + 2) + 1/(x - 1))*(x**2/3 - 2*x/3 + 1/3)",
+    "result": "(x - 1)/(x + 2)",
+    "restrictions": "x\\notin\\left\\{-2,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-045",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{1}{x + 1}-\\frac{1}{x + 4}\\right):\\left(\\frac{3}{x^{2} + 2 x + 1}\\right)",
+    "answerLatex": "\\frac{x + 1}{x + 4}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{1}{x + 1}-\\frac{1}{x + 4}\\right):\\left(\\frac{3}{\\left(x + 1\\right)^{2}}\\right)\\)",
+        "\\(\\frac{3}{\\left(x + 1\\right) \\left(x + 4\\right)}\\cdot\\frac{\\left(x + 1\\right)^{2}}{3}\\)",
+        "\\(\\frac{x^{2} + 2 x + 1}{\\left(x + 1\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\frac{\\left(x + 1\\right)^{2}}{\\left(x + 1\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\frac{x + 1}{x + 4}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-4,-1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38b · variante propia",
+    "expression": "(-1/(x + 4) + 1/(x + 1))*(x**2/3 + 2*x/3 + 1/3)",
+    "result": "(x + 1)/(x + 4)",
+    "restrictions": "x\\notin\\left\\{-4,-1\\right\\}"
+  },
+  {
+    "id": "U2-FA-046",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{1}{x + 2}-\\frac{1}{x + 5}\\right):\\left(\\frac{3}{x^{2} + 4 x + 4}\\right)",
+    "answerLatex": "\\frac{x + 2}{x + 5}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{1}{x + 2}-\\frac{1}{x + 5}\\right):\\left(\\frac{3}{\\left(x + 2\\right)^{2}}\\right)\\)",
+        "\\(\\frac{3}{\\left(x + 2\\right) \\left(x + 5\\right)}\\cdot\\frac{\\left(x + 2\\right)^{2}}{3}\\)",
+        "\\(\\frac{x^{2} + 4 x + 4}{\\left(x + 2\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\frac{\\left(x + 2\\right)^{2}}{\\left(x + 2\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\frac{x + 2}{x + 5}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-5,-2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38b · variante propia",
+    "expression": "(-1/(x + 5) + 1/(x + 2))*(x**2/3 + 4*x/3 + 4/3)",
+    "result": "(x + 2)/(x + 5)",
+    "restrictions": "x\\notin\\left\\{-5,-2\\right\\}"
+  },
+  {
+    "id": "U2-FA-047",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "4-\\frac{1}{2 x - 1}\\cdot \\left(\\frac{2}{x}-\\frac{1}{x^{2}}\\right)",
+    "answerLatex": "\\frac{\\left(2 x - 1\\right) \\left(2 x + 1\\right)}{x^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(4-\\frac{1}{2 x - 1}\\cdot \\left(\\frac{2}{x}-\\frac{1}{x^{2}}\\right)\\)",
+        "\\(\\operatorname{mcm}=x^{2}\\)",
+        "\\(\\frac{\\left(4 x^{2}\\right) + \\left(-1\\right)}{x^{2}}\\)",
+        "\\(\\frac{4 x^{2} - 1}{x^{2}}\\)",
+        "\\(\\frac{\\left(2 x - 1\\right) \\left(2 x + 1\\right)}{x^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,\\frac{1}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38c",
+    "expression": "-(2/x - 1/x**2)/(2*x - 1) + 4",
+    "result": "(2*x - 1)*(2*x + 1)/x**2",
+    "restrictions": "x\\notin\\left\\{0,\\frac{1}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-048",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "4-\\frac{1}{2 x - 5}\\cdot \\left(\\frac{2}{x - 2}-\\frac{1}{x^{2} - 4 x + 4}\\right)",
+    "answerLatex": "\\frac{\\left(2 x - 5\\right) \\left(2 x - 3\\right)}{\\left(x - 2\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(4-\\frac{1}{2 x - 5}\\cdot \\left(\\frac{2}{x - 2}-\\frac{1}{\\left(x - 2\\right)^{2}}\\right)\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 2\\right)^{3} \\left(2 x - 5\\right)\\)",
+        "\\(\\frac{\\left(8 x^{4} - 68 x^{3} + 216 x^{2} - 304 x + 160\\right) + \\left(- 2 x^{2} + 9 x - 10\\right)}{\\left(x - 2\\right)^{3} \\left(2 x - 5\\right)}\\)",
+        "\\(\\frac{8 x^{4} - 68 x^{3} + 214 x^{2} - 295 x + 150}{\\left(x - 2\\right)^{3} \\left(2 x - 5\\right)}\\)",
+        "\\(\\frac{\\left(x - 2\\right) \\left(2 x - 5\\right)^{2} \\left(2 x - 3\\right)}{\\left(x - 2\\right)^{3} \\left(2 x - 5\\right)}\\)",
+        "\\(\\frac{\\left(2 x - 5\\right) \\left(2 x - 3\\right)}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{2,\\frac{5}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38c · variante propia",
+    "expression": "4 - (-1/(x**2 - 4*x + 4) + 2/(x - 2))/(2*x - 5)",
+    "result": "(2*x - 5)*(2*x - 3)/(x - 2)**2",
+    "restrictions": "x\\notin\\left\\{2,\\frac{5}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-049",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "4-\\frac{1}{2 x - 3}\\cdot \\left(\\frac{2}{x - 1}-\\frac{1}{x^{2} - 2 x + 1}\\right)",
+    "answerLatex": "\\frac{\\left(2 x - 3\\right) \\left(2 x - 1\\right)}{\\left(x - 1\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(4-\\frac{1}{2 x - 3}\\cdot \\left(\\frac{2}{x - 1}-\\frac{1}{\\left(x - 1\\right)^{2}}\\right)\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right)^{3} \\left(2 x - 3\\right)\\)",
+        "\\(\\frac{\\left(8 x^{4} - 36 x^{3} + 60 x^{2} - 44 x + 12\\right) + \\left(- 2 x^{2} + 5 x - 3\\right)}{\\left(x - 1\\right)^{3} \\left(2 x - 3\\right)}\\)",
+        "\\(\\frac{8 x^{4} - 36 x^{3} + 58 x^{2} - 39 x + 9}{\\left(x - 1\\right)^{3} \\left(2 x - 3\\right)}\\)",
+        "\\(\\frac{\\left(x - 1\\right) \\left(2 x - 3\\right)^{2} \\left(2 x - 1\\right)}{\\left(x - 1\\right)^{3} \\left(2 x - 3\\right)}\\)",
+        "\\(\\frac{\\left(2 x - 3\\right) \\left(2 x - 1\\right)}{\\left(x - 1\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{1,\\frac{3}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38c · variante propia",
+    "expression": "4 - (-1/(x**2 - 2*x + 1) + 2/(x - 1))/(2*x - 3)",
+    "result": "(2*x - 3)*(2*x - 1)/(x - 1)**2",
+    "restrictions": "x\\notin\\left\\{1,\\frac{3}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-050",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "4-\\frac{1}{2 x + 1}\\cdot \\left(\\frac{2}{x + 1}-\\frac{1}{x^{2} + 2 x + 1}\\right)",
+    "answerLatex": "\\frac{\\left(2 x + 1\\right) \\left(2 x + 3\\right)}{\\left(x + 1\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(4-\\frac{1}{2 x + 1}\\cdot \\left(\\frac{2}{x + 1}-\\frac{1}{\\left(x + 1\\right)^{2}}\\right)\\)",
+        "\\(\\operatorname{mcm}=\\left(x + 1\\right)^{3} \\left(2 x + 1\\right)\\)",
+        "\\(\\frac{\\left(8 x^{4} + 28 x^{3} + 36 x^{2} + 20 x + 4\\right) + \\left(- 2 x^{2} - 3 x - 1\\right)}{\\left(x + 1\\right)^{3} \\left(2 x + 1\\right)}\\)",
+        "\\(\\frac{8 x^{4} + 28 x^{3} + 34 x^{2} + 17 x + 3}{\\left(x + 1\\right)^{3} \\left(2 x + 1\\right)}\\)",
+        "\\(\\frac{\\left(x + 1\\right) \\left(2 x + 1\\right)^{2} \\left(2 x + 3\\right)}{\\left(x + 1\\right)^{3} \\left(2 x + 1\\right)}\\)",
+        "\\(\\frac{\\left(2 x + 1\\right) \\left(2 x + 3\\right)}{\\left(x + 1\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,- \\frac{1}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38c · variante propia",
+    "expression": "4 - (-1/(x**2 + 2*x + 1) + 2/(x + 1))/(2*x + 1)",
+    "result": "(2*x + 1)*(2*x + 3)/(x + 1)**2",
+    "restrictions": "x\\notin\\left\\{-1,- \\frac{1}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-051",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "4-\\frac{1}{2 x + 3}\\cdot \\left(\\frac{2}{x + 2}-\\frac{1}{x^{2} + 4 x + 4}\\right)",
+    "answerLatex": "\\frac{\\left(2 x + 3\\right) \\left(2 x + 5\\right)}{\\left(x + 2\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(4-\\frac{1}{2 x + 3}\\cdot \\left(\\frac{2}{x + 2}-\\frac{1}{\\left(x + 2\\right)^{2}}\\right)\\)",
+        "\\(\\operatorname{mcm}=\\left(x + 2\\right)^{3} \\left(2 x + 3\\right)\\)",
+        "\\(\\frac{\\left(8 x^{4} + 60 x^{3} + 168 x^{2} + 208 x + 96\\right) + \\left(- 2 x^{2} - 7 x - 6\\right)}{\\left(x + 2\\right)^{3} \\left(2 x + 3\\right)}\\)",
+        "\\(\\frac{8 x^{4} + 60 x^{3} + 166 x^{2} + 201 x + 90}{\\left(x + 2\\right)^{3} \\left(2 x + 3\\right)}\\)",
+        "\\(\\frac{\\left(x + 2\\right) \\left(2 x + 3\\right)^{2} \\left(2 x + 5\\right)}{\\left(x + 2\\right)^{3} \\left(2 x + 3\\right)}\\)",
+        "\\(\\frac{\\left(2 x + 3\\right) \\left(2 x + 5\\right)}{\\left(x + 2\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,- \\frac{3}{2}\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38c · variante propia",
+    "expression": "4 - (-1/(x**2 + 4*x + 4) + 2/(x + 2))/(2*x + 3)",
+    "result": "(2*x + 3)*(2*x + 5)/(x + 2)**2",
+    "restrictions": "x\\notin\\left\\{-2,- \\frac{3}{2}\\right\\}"
+  },
+  {
+    "id": "U2-FA-052",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(1+\\frac{y}{x}\\right):\\left(1+\\frac{x}{y}\\right)",
+    "answerLatex": "\\frac{y}{x}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(1+\\frac{y}{x}\\right):\\left(1+\\frac{x}{y}\\right)\\)",
+        "\\(\\frac{x + y}{x}\\cdot\\frac{y}{x + y}\\)",
+        "\\(\\frac{y}{x}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0\\right\\},\\quad x + y\\ne0,\\quad y\\ne0\\)"
+      ]
+    },
+    "reference": "Modelo p. 77, 38d",
+    "expression": "(1 + y/x)/(x/y + 1)",
+    "result": "y/x",
+    "restrictions": "x\\notin\\left\\{0\\right\\},\\quad x + y\\ne0,\\quad y\\ne0"
+  },
+  {
+    "id": "U2-FA-053",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{2 x^{2} - 5 x}{x^{2} - 9}-\\frac{2 x^{2} - 4 x + 3}{x^{2} - 9}",
+    "answerLatex": "- \\frac{1}{x - 3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x \\left(2 x - 5\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}-\\frac{2 x^{2} - 4 x + 3}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 3\\right) \\left(x + 3\\right)\\)",
+        "\\(\\frac{\\left(2 x^{2} - 5 x\\right) + \\left(- 2 x^{2} + 4 x - 3\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\frac{- x - 3}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(- \\frac{1}{x - 3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 5a",
+    "expression": "(2*x**2 - 5*x)/(x**2 - 9) - (2*x**2 - 4*x + 3)/(x**2 - 9)",
+    "result": "-1/(x - 3)",
+    "restrictions": "x\\notin\\left\\{-3,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-054",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{1 - 3 x}{x + 1}-\\frac{5 x + 1}{x^{2} + x}",
+    "answerLatex": "- \\frac{3 x + 1}{x}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{1 - 3 x}{x + 1}-\\frac{5 x + 1}{x \\left(x + 1\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x + 1\\right)\\)",
+        "\\(\\frac{\\left(- 3 x^{2} + x\\right) + \\left(- 5 x - 1\\right)}{x \\left(x + 1\\right)}\\)",
+        "\\(\\frac{- 3 x^{2} - 4 x - 1}{x \\left(x + 1\\right)}\\)",
+        "\\(\\frac{- \\left(x + 1\\right) \\left(3 x + 1\\right)}{x \\left(x + 1\\right)}\\)",
+        "\\(- \\frac{3 x + 1}{x}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 5b",
+    "expression": "(1 - 3*x)/(x + 1) - (5*x + 1)/(x**2 + x)",
+    "result": "-(3*x + 1)/x",
+    "restrictions": "x\\notin\\left\\{-1,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-055",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{4 - 3 x}{x}-\\frac{5 x - 4}{x^{2} - x}",
+    "answerLatex": "- \\frac{3 x - 2}{x - 1}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{4 - 3 x}{x}-\\frac{5 x - 4}{x \\left(x - 1\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 1\\right)\\)",
+        "\\(\\frac{\\left(- 3 x^{2} + 7 x - 4\\right) + \\left(4 - 5 x\\right)}{x \\left(x - 1\\right)}\\)",
+        "\\(\\frac{- 3 x^{2} + 2 x}{x \\left(x - 1\\right)}\\)",
+        "\\(\\frac{- x \\left(3 x - 2\\right)}{x \\left(x - 1\\right)}\\)",
+        "\\(- \\frac{3 x - 2}{x - 1}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 5b · variante propia",
+    "expression": "-(5*x - 4)/(x**2 - x) + (4 - 3*x)/x",
+    "result": "-(3*x - 2)/(x - 1)",
+    "restrictions": "x\\notin\\left\\{0,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-056",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x + 1}{x - 3}+\\frac{x}{x + 3}-\\frac{6 x + 6}{x^{2} - 9}",
+    "answerLatex": "\\frac{2 x + 1}{x + 3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x + 1}{x - 3}+\\frac{x}{x + 3}-\\frac{6 \\left(x + 1\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 3\\right) \\left(x + 3\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 4 x + 3\\right) + \\left(x^{2} - 3 x\\right) + \\left(- 6 x - 6\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\frac{2 x^{4} - 5 x^{3} - 21 x^{2} + 45 x + 27}{\\left(x - 3\\right)^{2} \\left(x + 3\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 3\\right)^{2} \\left(x + 3\\right) \\left(2 x + 1\\right)}{\\left(x - 3\\right)^{2} \\left(x + 3\\right)^{2}}\\)",
+        "\\(\\frac{2 x + 1}{x + 3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7a",
+    "expression": "x/(x + 3) - (6*x + 6)/(x**2 - 9) + (x + 1)/(x - 3)",
+    "result": "(2*x + 1)/(x + 3)",
+    "restrictions": "x\\notin\\left\\{-3,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-057",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x + 5}{x^{2} + 2 x}-\\frac{5}{x^{2}}+\\frac{4 x - 5}{x + 2}",
+    "answerLatex": "\\frac{2 \\left(2 x^{3} - 5\\right)}{x^{2} \\left(x + 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 \\left(x + 1\\right)}{x \\left(x + 2\\right)}-\\frac{5}{x^{2}}+\\frac{4 x - 5}{x + 2}\\)",
+        "\\(\\operatorname{mcm}=x^{2} \\left(x + 2\\right)\\)",
+        "\\(\\frac{\\left(5 x^{2} + 5 x\\right) + \\left(- 5 x - 10\\right) + \\left(4 x^{3} - 5 x^{2}\\right)}{x^{2} \\left(x + 2\\right)}\\)",
+        "\\(\\frac{4 x^{3} - 10}{x^{2} \\left(x + 2\\right)}\\)",
+        "\\(\\frac{2 \\left(2 x^{3} - 5\\right)}{x^{2} \\left(x + 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7b",
+    "expression": "(5*x + 5)/(x**2 + 2*x) + (4*x - 5)/(x + 2) - 5/x**2",
+    "result": "2*(2*x**3 - 5)/(x**2*(x + 2))",
+    "restrictions": "x\\notin\\left\\{-2,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-058",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x - 5}{x^{2} - 2 x}-\\frac{5}{x^{2} - 4 x + 4}+\\frac{4 x - 13}{x}",
+    "answerLatex": "\\frac{2 \\left(2 x^{3} - 12 x^{2} + 24 x - 21\\right)}{x \\left(x - 2\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 \\left(x - 1\\right)}{x \\left(x - 2\\right)}-\\frac{5}{\\left(x - 2\\right)^{2}}+\\frac{4 x - 13}{x}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 2\\right)^{2}\\)",
+        "\\(\\frac{\\left(5 x^{2} - 15 x + 10\\right) + \\left(- 5 x\\right) + \\left(4 x^{3} - 29 x^{2} + 68 x - 52\\right)}{x \\left(x - 2\\right)^{2}}\\)",
+        "\\(\\frac{4 x^{4} - 32 x^{3} + 96 x^{2} - 138 x + 84}{x \\left(x - 2\\right)^{3}}\\)",
+        "\\(\\frac{2 \\left(x - 2\\right) \\left(2 x^{3} - 12 x^{2} + 24 x - 21\\right)}{x \\left(x - 2\\right)^{3}}\\)",
+        "\\(\\frac{2 \\left(2 x^{3} - 12 x^{2} + 24 x - 21\\right)}{x \\left(x - 2\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7b · variante propia",
+    "expression": "(5*x - 5)/(x**2 - 2*x) - 5/(x**2 - 4*x + 4) + (4*x - 13)/x",
+    "result": "2*(2*x**3 - 12*x**2 + 24*x - 21)/(x*(x - 2)**2)",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-059",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x}{x^{2} - 1}-\\frac{5}{x^{2} - 2 x + 1}+\\frac{4 x - 9}{x + 1}",
+    "answerLatex": "\\frac{2 \\left(2 x^{3} - 6 x^{2} + 6 x - 7\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 x}{\\left(x - 1\\right) \\left(x + 1\\right)}-\\frac{5}{\\left(x - 1\\right)^{2}}+\\frac{4 x - 9}{x + 1}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right)^{2} \\left(x + 1\\right)\\)",
+        "\\(\\frac{\\left(5 x^{2} - 5 x\\right) + \\left(- 5 x - 5\\right) + \\left(4 x^{3} - 17 x^{2} + 22 x - 9\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)}\\)",
+        "\\(\\frac{4 x^{5} - 12 x^{4} + 8 x^{3} - 2 x^{2} - 12 x + 14}{\\left(x - 1\\right)^{3} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{2 \\left(x - 1\\right) \\left(x + 1\\right) \\left(2 x^{3} - 6 x^{2} + 6 x - 7\\right)}{\\left(x - 1\\right)^{3} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x^{3} - 6 x^{2} + 6 x - 7\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7b · variante propia",
+    "expression": "5*x/(x**2 - 1) - 5/(x**2 - 2*x + 1) + (4*x - 9)/(x + 1)",
+    "result": "2*(2*x**3 - 6*x**2 + 6*x - 7)/((x - 1)**2*(x + 1))",
+    "restrictions": "x\\notin\\left\\{-1,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-060",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{- 3 x^{2}}{x^{2} - 1}+4\\right)\\cdot \\frac{x + 1}{x^{2} - 4}",
+    "answerLatex": "\\frac{1}{x - 1}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{- 3 x^{2}}{\\left(x - 1\\right) \\left(x + 1\\right)}+4\\right)\\cdot \\frac{x + 1}{\\left(x - 2\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{x + 1}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{1}{x - 1}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,-1,1,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7e",
+    "expression": "(x + 1)*(-3*x**2/(x**2 - 1) + 4)/(x**2 - 4)",
+    "result": "1/(x - 1)",
+    "restrictions": "x\\notin\\left\\{-2,-1,1,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-061",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\left(\\frac{2 x}{x - 5}\\right):\\left(\\frac{3 x^{2}}{x^{2} - 25}\\right)\\right):\\left(\\frac{2 x + 10}{x}\\right)",
+    "answerLatex": "\\frac{1}{3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\left(\\frac{2 x}{x - 5}\\right):\\left(\\frac{3 x^{2}}{\\left(x - 5\\right) \\left(x + 5\\right)}\\right)\\right):\\left(\\frac{2 \\left(x + 5\\right)}{x}\\right)\\)",
+        "\\(\\frac{2 \\left(x - 5\\right) \\left(x + 5\\right)}{3 x \\left(x - 5\\right)}\\cdot\\frac{x}{2 \\left(x + 5\\right)}\\)",
+        "\\(\\frac{x^{2} - 25}{3 \\left(x - 5\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\frac{\\left(x - 5\\right) \\left(x + 5\\right)}{3 \\left(x - 5\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-5,0,5\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7f",
+    "expression": "2*(x**2 - 25)/(3*(x - 5)*(2*x + 10))",
+    "result": "1/3",
+    "restrictions": "x\\notin\\left\\{-5,0,5\\right\\}"
+  },
+  {
+    "id": "U2-FA-062",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{1}{x}-2+x\\right)\\cdot \\frac{x^{3}}{x^{2} - 1}",
+    "answerLatex": "\\frac{x^{2} \\left(x - 1\\right)}{x + 1}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{1}{x}-2+x\\right)\\cdot \\frac{x^{3}}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{x^{4} - 2 x^{3} + x^{2}}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{x^{2} \\left(x - 1\\right)^{2}}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{x^{2} \\left(x - 1\\right)}{x + 1}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,0,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7g",
+    "expression": "x**3*(x - 2 + 1/x)/(x**2 - 1)",
+    "result": "x**2*(x - 1)/(x + 1)",
+    "restrictions": "x\\notin\\left\\{-1,0,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-063",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{1}{x - 1}-2+x - 1\\right)\\cdot \\frac{x^{3} - 3 x^{2} + 3 x - 1}{x^{2} - 2 x}",
+    "answerLatex": "\\frac{\\left(x - 2\\right) \\left(x - 1\\right)^{2}}{x}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{1}{x - 1}-2+x - 1\\right)\\cdot \\frac{\\left(x - 1\\right)^{3}}{x \\left(x - 2\\right)}\\)",
+        "\\(\\frac{x^{5} - 7 x^{4} + 19 x^{3} - 25 x^{2} + 16 x - 4}{x \\left(x - 2\\right) \\left(x - 1\\right)}\\)",
+        "\\(\\frac{\\left(x - 2\\right)^{2} \\left(x - 1\\right)^{3}}{x \\left(x - 2\\right) \\left(x - 1\\right)}\\)",
+        "\\(\\frac{\\left(x - 2\\right) \\left(x - 1\\right)^{2}}{x}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,1,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7g · variante propia",
+    "expression": "(x - 3 + 1/(x - 1))*(x**3 - 3*x**2 + 3*x - 1)/(x**2 - 2*x)",
+    "result": "(x - 2)*(x - 1)**2/x",
+    "restrictions": "x\\notin\\left\\{0,1,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-064",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{1}{x + 1}-2+x + 1\\right)\\cdot \\frac{x^{3} + 3 x^{2} + 3 x + 1}{x^{2} + 2 x}",
+    "answerLatex": "\\frac{x \\left(x + 1\\right)^{2}}{x + 2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{1}{x + 1}-2+x + 1\\right)\\cdot \\frac{\\left(x + 1\\right)^{3}}{x \\left(x + 2\\right)}\\)",
+        "\\(\\frac{x^{5} + 3 x^{4} + 3 x^{3} + x^{2}}{x \\left(x + 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{x^{2} \\left(x + 1\\right)^{3}}{x \\left(x + 1\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{x \\left(x + 1\\right)^{2}}{x + 2}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,-1,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7g · variante propia",
+    "expression": "(x - 1 + 1/(x + 1))*(x**3 + 3*x**2 + 3*x + 1)/(x**2 + 2*x)",
+    "result": "x*(x + 1)**2/(x + 2)",
+    "restrictions": "x\\notin\\left\\{-2,-1,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-065",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{2 x^{3} + 2}{x + 1}-\\frac{x^{3} - 1}{x - 1}+\\frac{x^{3} - x}{x^{2} - 1}",
+    "answerLatex": "\\left(x - 1\\right)^{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{2 \\left(x + 1\\right) \\left(x^{2} - x + 1\\right)}{x + 1}-\\frac{\\left(x - 1\\right) \\left(x^{2} + x + 1\\right)}{x - 1}+\\frac{x \\left(x - 1\\right) \\left(x + 1\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right) \\left(x + 1\\right)\\)",
+        "\\(\\frac{\\left(2 x^{4} - 2 x^{3} + 2 x - 2\\right) + \\left(- x^{4} - x^{3} + x + 1\\right) + \\left(x^{3} - x\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{x^{4} - 2 x^{3} + 2 x - 1}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{\\left(x - 1\\right)^{3} \\left(x + 1\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\left(x - 1\\right)^{2}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7h",
+    "expression": "(x**3 - x)/(x**2 - 1) + (2*x**3 + 2)/(x + 1) - (x**3 - 1)/(x - 1)",
+    "result": "(x - 1)**2",
+    "restrictions": "x\\notin\\left\\{-1,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-066",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{2 x^{3} - 6 x^{2} + 6 x}{x}-\\frac{x^{3} - 3 x^{2} + 3 x - 2}{x - 2}+\\frac{x^{3} - 3 x^{2} + 2 x}{x^{2} - 2 x}",
+    "answerLatex": "\\left(x - 2\\right)^{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{2 x \\left(x^{2} - 3 x + 3\\right)}{x}-\\frac{\\left(x - 2\\right) \\left(x^{2} - x + 1\\right)}{x - 2}+\\frac{x \\left(x - 2\\right) \\left(x - 1\\right)}{x \\left(x - 2\\right)}\\)",
+        "\\(\\operatorname{mcm}=x - 2\\)",
+        "\\(\\frac{\\left(2 x^{3} - 10 x^{2} + 18 x - 12\\right) + \\left(- x^{3} + 3 x^{2} - 3 x + 2\\right) + \\left(x^{2} - 3 x + 2\\right)}{x - 2}\\)",
+        "\\(\\frac{x^{3} - 6 x^{2} + 12 x - 8}{x - 2}\\)",
+        "\\(\\frac{\\left(x - 2\\right)^{3}}{x - 2}\\)",
+        "\\(\\left(x - 2\\right)^{2}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7h · variante propia",
+    "expression": "(x**3 - 3*x**2 + 2*x)/(x**2 - 2*x) - (x**3 - 3*x**2 + 3*x - 2)/(x - 2) + (2*x**3 - 6*x**2 + 6*x)/x",
+    "result": "(x - 2)**2",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-067",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{2 x^{3} + 6 x^{2} + 6 x + 4}{x + 2}-\\frac{x^{3} + 3 x^{2} + 3 x}{x}+\\frac{x^{3} + 3 x^{2} + 2 x}{x^{2} + 2 x}",
+    "answerLatex": "x^{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{2 \\left(x + 2\\right) \\left(x^{2} + x + 1\\right)}{x + 2}-\\frac{x \\left(x^{2} + 3 x + 3\\right)}{x}+\\frac{x \\left(x + 1\\right) \\left(x + 2\\right)}{x \\left(x + 2\\right)}\\)",
+        "\\(\\operatorname{mcm}=x + 2\\)",
+        "\\(\\frac{\\left(2 x^{3} + 6 x^{2} + 6 x + 4\\right) + \\left(- x^{3} - 5 x^{2} - 9 x - 6\\right) + \\left(x^{2} + 3 x + 2\\right)}{x + 2}\\)",
+        "\\(\\frac{x^{3} + 2 x^{2}}{x + 2}\\)",
+        "\\(\\frac{x^{2} \\left(x + 2\\right)}{x + 2}\\)",
+        "\\(x^{2}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 7h · variante propia",
+    "expression": "(x**3 + 3*x**2 + 2*x)/(x**2 + 2*x) + (2*x**3 + 6*x**2 + 6*x + 4)/(x + 2) - (x**3 + 3*x**2 + 3*x)/x",
+    "result": "x**2",
+    "restrictions": "x\\notin\\left\\{-2,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-068",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x - 2}{x^{2} - 1}+\\frac{2 x}{x + 1}-\\frac{3}{x^{2} - 2 x + 1}",
+    "answerLatex": "\\frac{\\left(2 x + 1\\right) \\left(x^{2} - 2 x - 1\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x - 2}{\\left(x - 1\\right) \\left(x + 1\\right)}+\\frac{2 x}{x + 1}-\\frac{3}{\\left(x - 1\\right)^{2}}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right)^{2} \\left(x + 1\\right)\\)",
+        "\\(\\frac{\\left(x^{2} - 3 x + 2\\right) + \\left(2 x^{3} - 4 x^{2} + 2 x\\right) + \\left(- 3 x - 3\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)}\\)",
+        "\\(\\frac{2 x^{5} - 3 x^{4} - 6 x^{3} + 2 x^{2} + 4 x + 1}{\\left(x - 1\\right)^{3} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 1\\right) \\left(x + 1\\right) \\left(2 x + 1\\right) \\left(x^{2} - 2 x - 1\\right)}{\\left(x - 1\\right)^{3} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{\\left(2 x + 1\\right) \\left(x^{2} - 2 x - 1\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 9c",
+    "expression": "2*x/(x + 1) + (x - 2)/(x**2 - 1) - 3/(x**2 - 2*x + 1)",
+    "result": "(2*x + 1)*(x**2 - 2*x - 1)/((x - 1)**2*(x + 1))",
+    "restrictions": "x\\notin\\left\\{-1,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-069",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x - 3}{x^{2} - 2 x}+\\frac{2 x - 2}{x}-\\frac{3}{x^{2} - 4 x + 4}",
+    "answerLatex": "\\frac{\\left(2 x - 1\\right) \\left(x^{2} - 4 x + 2\\right)}{x \\left(x - 2\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x - 3}{x \\left(x - 2\\right)}+\\frac{2 \\left(x - 1\\right)}{x}-\\frac{3}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 2\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2} - 5 x + 6\\right) + \\left(2 x^{3} - 10 x^{2} + 16 x - 8\\right) + \\left(- 3 x\\right)}{x \\left(x - 2\\right)^{2}}\\)",
+        "\\(\\frac{2 x^{4} - 13 x^{3} + 26 x^{2} - 18 x + 4}{x \\left(x - 2\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 2\\right) \\left(2 x - 1\\right) \\left(x^{2} - 4 x + 2\\right)}{x \\left(x - 2\\right)^{3}}\\)",
+        "\\(\\frac{\\left(2 x - 1\\right) \\left(x^{2} - 4 x + 2\\right)}{x \\left(x - 2\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 9c · variante propia",
+    "expression": "(x - 3)/(x**2 - 2*x) - 3/(x**2 - 4*x + 4) + (2*x - 2)/x",
+    "result": "(2*x - 1)*(x**2 - 4*x + 2)/(x*(x - 2)**2)",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-070",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x - 1}{x^{2} + 2 x}+\\frac{2 x + 2}{x + 2}-\\frac{3}{x^{2}}",
+    "answerLatex": "\\frac{\\left(2 x + 3\\right) \\left(x^{2} - 2\\right)}{x^{2} \\left(x + 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x - 1}{x \\left(x + 2\\right)}+\\frac{2 \\left(x + 1\\right)}{x + 2}-\\frac{3}{x^{2}}\\)",
+        "\\(\\operatorname{mcm}=x^{2} \\left(x + 2\\right)\\)",
+        "\\(\\frac{\\left(x^{2} - x\\right) + \\left(2 x^{3} + 2 x^{2}\\right) + \\left(- 3 x - 6\\right)}{x^{2} \\left(x + 2\\right)}\\)",
+        "\\(\\frac{2 x^{3} + 3 x^{2} - 4 x - 6}{x^{2} \\left(x + 2\\right)}\\)",
+        "\\(\\frac{\\left(2 x + 3\\right) \\left(x^{2} - 2\\right)}{x^{2} \\left(x + 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 9c · variante propia",
+    "expression": "(x - 1)/(x**2 + 2*x) + (2*x + 2)/(x + 2) - 3/x**2",
+    "result": "(2*x + 3)*(x**2 - 2)/(x**2*(x + 2))",
+    "restrictions": "x\\notin\\left\\{-2,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-071",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x}{x - 1}-\\frac{x + 2}{x + 1}-\\frac{3 x - 1}{x^{2} - 1}",
+    "answerLatex": "\\frac{2 x^{2} - x + 3}{\\left(x - 1\\right) \\left(x + 1\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 x}{x - 1}-\\frac{x + 2}{x + 1}-\\frac{3 x - 1}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 1\\right) \\left(x + 1\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} + 3 x\\right) + \\left(- x^{2} - x + 2\\right) + \\left(1 - 3 x\\right)}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\frac{2 x^{4} - x^{3} + x^{2} + x - 3}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 1\\right) \\left(x + 1\\right) \\left(2 x^{2} - x + 3\\right)}{\\left(x - 1\\right)^{2} \\left(x + 1\\right)^{2}}\\)",
+        "\\(\\frac{2 x^{2} - x + 3}{\\left(x - 1\\right) \\left(x + 1\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-1,1\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 9f",
+    "expression": "3*x/(x - 1) - (3*x - 1)/(x**2 - 1) - (x + 2)/(x + 1)",
+    "result": "(2*x**2 - x + 3)/((x - 1)*(x + 1))",
+    "restrictions": "x\\notin\\left\\{-1,1\\right\\}"
+  },
+  {
+    "id": "U2-FA-072",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x - 3}{x - 2}-\\frac{x + 1}{x}-\\frac{3 x - 4}{x^{2} - 2 x}",
+    "answerLatex": "\\frac{2 x^{2} - 5 x + 6}{x \\left(x - 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 \\left(x - 1\\right)}{x - 2}-\\frac{x + 1}{x}-\\frac{3 x - 4}{x \\left(x - 2\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 2\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} - 3 x\\right) + \\left(- x^{2} + x + 2\\right) + \\left(4 - 3 x\\right)}{x \\left(x - 2\\right)}\\)",
+        "\\(\\frac{2 x^{2} - 5 x + 6}{x \\left(x - 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 9f · variante propia",
+    "expression": "-(3*x - 4)/(x**2 - 2*x) + (3*x - 3)/(x - 2) - (x + 1)/x",
+    "result": "(2*x**2 - 5*x + 6)/(x*(x - 2))",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-073",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x + 3}{x}-\\frac{x + 3}{x + 2}-\\frac{3 x + 2}{x^{2} + 2 x}",
+    "answerLatex": "\\frac{2 x^{2} + 3 x + 4}{x \\left(x + 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 \\left(x + 1\\right)}{x}-\\frac{x + 3}{x + 2}-\\frac{3 x + 2}{x \\left(x + 2\\right)}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x + 2\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} + 9 x + 6\\right) + \\left(- x^{2} - 3 x\\right) + \\left(- 3 x - 2\\right)}{x \\left(x + 2\\right)}\\)",
+        "\\(\\frac{2 x^{2} + 3 x + 4}{x \\left(x + 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,0\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. ficha Fracciones algebraicas I, 9f · variante propia",
+    "expression": "-(3*x + 2)/(x**2 + 2*x) - (x + 3)/(x + 2) + (3*x + 3)/x",
+    "result": "(2*x**2 + 3*x + 4)/(x*(x + 2))",
+    "restrictions": "x\\notin\\left\\{-2,0\\right\\}"
+  },
+  {
+    "id": "U2-FA-074",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x + 3}{x - 2}+\\frac{2 x - 2}{x + 2}-\\frac{x^{2} + 3}{x^{2} - 4}",
+    "answerLatex": "\\frac{2 x^{2} - x + 7}{\\left(x - 2\\right) \\left(x + 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x + 3}{x - 2}+\\frac{2 \\left(x - 1\\right)}{x + 2}-\\frac{x^{2} + 3}{\\left(x - 2\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 2\\right) \\left(x + 2\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 5 x + 6\\right) + \\left(2 x^{2} - 6 x + 4\\right) + \\left(- x^{2} - 3\\right)}{\\left(x - 2\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\frac{2 x^{4} - x^{3} - x^{2} + 4 x - 28}{\\left(x - 2\\right)^{2} \\left(x + 2\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 2\\right) \\left(x + 2\\right) \\left(2 x^{2} - x + 7\\right)}{\\left(x - 2\\right)^{2} \\left(x + 2\\right)^{2}}\\)",
+        "\\(\\frac{2 x^{2} - x + 7}{\\left(x - 2\\right) \\left(x + 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: diferencia de cuadrados",
+    "expression": "-(x**2 + 3)/(x**2 - 4) + (2*x - 2)/(x + 2) + (x + 3)/(x - 2)",
+    "result": "(2*x**2 - x + 7)/((x - 2)*(x + 2))",
+    "restrictions": "x\\notin\\left\\{-2,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-075",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2}}{x^{2} - 4 x + 4}+\\frac{2 x + 3}{x - 2}-3",
+    "answerLatex": "\\frac{11 x - 18}{\\left(x - 2\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x^{2}}{\\left(x - 2\\right)^{2}}+\\frac{2 x + 3}{x - 2}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 2\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2}\\right) + \\left(2 x^{2} - x - 6\\right) + \\left(- 3 x^{2} + 12 x - 12\\right)}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\frac{11 x^{2} - 40 x + 36}{\\left(x - 2\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 2\\right) \\left(11 x - 18\\right)}{\\left(x - 2\\right)^{3}}\\)",
+        "\\(\\frac{11 x - 18}{\\left(x - 2\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cuadrado de binomio",
+    "expression": "x**2/(x**2 - 4*x + 4) - 3 + (2*x + 3)/(x - 2)",
+    "result": "(11*x - 18)/(x - 2)**2",
+    "restrictions": "x\\notin\\left\\{2\\right\\}"
+  },
+  {
+    "id": "U2-FA-076",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x - 3}{x}-\\frac{x + 3}{x^{2} - 2 x}+\\frac{2 x + 3}{x - 2}",
+    "answerLatex": "\\frac{5 x^{2} - 7 x + 3}{x \\left(x - 2\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 \\left(x - 1\\right)}{x}-\\frac{x + 3}{x \\left(x - 2\\right)}+\\frac{2 x + 3}{x - 2}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 2\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} - 9 x + 6\\right) + \\left(- x - 3\\right) + \\left(2 x^{2} + 3 x\\right)}{x \\left(x - 2\\right)}\\)",
+        "\\(\\frac{5 x^{2} - 7 x + 3}{x \\left(x - 2\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: factor común",
+    "expression": "-(x + 3)/(x**2 - 2*x) + (2*x + 3)/(x - 2) + (3*x - 3)/x",
+    "result": "(5*x**2 - 7*x + 3)/(x*(x - 2))",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-077",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x - 6}{x + 2}\\cdot \\frac{x^{2} - 4}{x - 2}",
+    "answerLatex": "3 \\left(x - 2\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 \\left(x - 2\\right)}{x + 2}\\cdot \\frac{\\left(x - 2\\right) \\left(x + 2\\right)}{x - 2}\\)",
+        "\\(\\frac{3 x^{2} - 12}{x + 2}\\)",
+        "\\(\\frac{3 \\left(x - 2\\right) \\left(x + 2\\right)}{x + 2}\\)",
+        "\\(3 \\left(x - 2\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-2,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: producto y simplificación",
+    "expression": "(3*x - 6)*(x**2 - 4)/((x - 2)*(x + 2))",
+    "result": "3*(x - 2)",
+    "restrictions": "x\\notin\\left\\{-2,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-078",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x + 3}{2 x - 4}\\right):\\left(\\frac{x^{2}}{4 x - 8}\\right)",
+    "answerLatex": "\\frac{2 \\left(2 x + 3\\right)}{x^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 x + 3}{2 \\left(x - 2\\right)}\\right):\\left(\\frac{x^{2}}{4 \\left(x - 2\\right)}\\right)\\)",
+        "\\(\\frac{2 x + 3}{2 \\left(x - 2\\right)}\\cdot\\frac{4 \\left(x - 2\\right)}{x^{2}}\\)",
+        "\\(\\frac{4 x + 6}{x^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x + 3\\right)}{x^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cociente y factor común",
+    "expression": "(2*x + 3)*(4*x - 8)/(x**2*(2*x - 4))",
+    "result": "2*(2*x + 3)/x**2",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-079",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2}}{x - 2}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 2}\\right)",
+    "answerLatex": "- \\frac{x^{3}}{2}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{x^{2}}{x - 2}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 2}\\right)\\)",
+        "\\(\\frac{x^{2}}{x - 2}\\cdot\\frac{x \\left(x - 2\\right)}{-2}\\)",
+        "\\(\\frac{- x^{3}}{2}\\)",
+        "\\(- \\frac{x^{3}}{2}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,2\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: operación combinada",
+    "expression": "x**2/((x - 2)*(-1/(x - 2) + 1/x))",
+    "result": "-x**3/2",
+    "restrictions": "x\\notin\\left\\{0,2\\right\\}"
+  },
+  {
+    "id": "U2-FA-080",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x + 4}{x - 3}+\\frac{2 x - 3}{x + 3}-\\frac{x^{2} + 4}{x^{2} - 9}",
+    "answerLatex": "\\frac{2 x^{2} - 2 x + 17}{\\left(x - 3\\right) \\left(x + 3\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x + 4}{x - 3}+\\frac{2 x - 3}{x + 3}-\\frac{x^{2} + 4}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 3\\right) \\left(x + 3\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 7 x + 12\\right) + \\left(2 x^{2} - 9 x + 9\\right) + \\left(- x^{2} - 4\\right)}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\frac{2 x^{4} - 2 x^{3} - x^{2} + 18 x - 153}{\\left(x - 3\\right)^{2} \\left(x + 3\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 3\\right) \\left(x + 3\\right) \\left(2 x^{2} - 2 x + 17\\right)}{\\left(x - 3\\right)^{2} \\left(x + 3\\right)^{2}}\\)",
+        "\\(\\frac{2 x^{2} - 2 x + 17}{\\left(x - 3\\right) \\left(x + 3\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: diferencia de cuadrados",
+    "expression": "-(x**2 + 4)/(x**2 - 9) + (2*x - 3)/(x + 3) + (x + 4)/(x - 3)",
+    "result": "(2*x**2 - 2*x + 17)/((x - 3)*(x + 3))",
+    "restrictions": "x\\notin\\left\\{-3,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-081",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2}}{x^{2} - 6 x + 9}+\\frac{2 x + 4}{x - 3}-3",
+    "answerLatex": "\\frac{16 x - 39}{\\left(x - 3\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x^{2}}{\\left(x - 3\\right)^{2}}+\\frac{2 \\left(x + 2\\right)}{x - 3}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 3\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2}\\right) + \\left(2 x^{2} - 2 x - 12\\right) + \\left(- 3 x^{2} + 18 x - 27\\right)}{\\left(x - 3\\right)^{2}}\\)",
+        "\\(\\frac{16 x^{2} - 87 x + 117}{\\left(x - 3\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 3\\right) \\left(16 x - 39\\right)}{\\left(x - 3\\right)^{3}}\\)",
+        "\\(\\frac{16 x - 39}{\\left(x - 3\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cuadrado de binomio",
+    "expression": "x**2/(x**2 - 6*x + 9) - 3 + (2*x + 4)/(x - 3)",
+    "result": "(16*x - 39)/(x - 3)**2",
+    "restrictions": "x\\notin\\left\\{3\\right\\}"
+  },
+  {
+    "id": "U2-FA-082",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x - 4}{x}-\\frac{x + 4}{x^{2} - 3 x}+\\frac{2 x + 4}{x - 3}",
+    "answerLatex": "\\frac{5 x^{2} - 10 x + 8}{x \\left(x - 3\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 x - 4}{x}-\\frac{x + 4}{x \\left(x - 3\\right)}+\\frac{2 \\left(x + 2\\right)}{x - 3}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 3\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} - 13 x + 12\\right) + \\left(- x - 4\\right) + \\left(2 x^{2} + 4 x\\right)}{x \\left(x - 3\\right)}\\)",
+        "\\(\\frac{5 x^{2} - 10 x + 8}{x \\left(x - 3\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: factor común",
+    "expression": "-(x + 4)/(x**2 - 3*x) + (2*x + 4)/(x - 3) + (3*x - 4)/x",
+    "result": "(5*x**2 - 10*x + 8)/(x*(x - 3))",
+    "restrictions": "x\\notin\\left\\{0,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-083",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{4 x - 12}{x + 3}\\cdot \\frac{x^{2} - 9}{x - 3}",
+    "answerLatex": "4 \\left(x - 3\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{4 \\left(x - 3\\right)}{x + 3}\\cdot \\frac{\\left(x - 3\\right) \\left(x + 3\\right)}{x - 3}\\)",
+        "\\(\\frac{4 x^{2} - 36}{x + 3}\\)",
+        "\\(\\frac{4 \\left(x - 3\\right) \\left(x + 3\\right)}{x + 3}\\)",
+        "\\(4 \\left(x - 3\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-3,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: producto y simplificación",
+    "expression": "(4*x - 12)*(x**2 - 9)/((x - 3)*(x + 3))",
+    "result": "4*(x - 3)",
+    "restrictions": "x\\notin\\left\\{-3,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-084",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x + 4}{2 x - 6}\\right):\\left(\\frac{x^{2}}{4 x - 12}\\right)",
+    "answerLatex": "\\frac{4 \\left(x + 2\\right)}{x^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 \\left(x + 2\\right)}{2 \\left(x - 3\\right)}\\right):\\left(\\frac{x^{2}}{4 \\left(x - 3\\right)}\\right)\\)",
+        "\\(\\frac{x + 2}{x - 3}\\cdot\\frac{4 \\left(x - 3\\right)}{x^{2}}\\)",
+        "\\(\\frac{4 x + 8}{x^{2}}\\)",
+        "\\(\\frac{4 \\left(x + 2\\right)}{x^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cociente y factor común",
+    "expression": "(2*x + 4)*(4*x - 12)/(x**2*(2*x - 6))",
+    "result": "4*(x + 2)/x**2",
+    "restrictions": "x\\notin\\left\\{0,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-085",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2}}{x - 3}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 3}\\right)",
+    "answerLatex": "- \\frac{x^{3}}{3}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{x^{2}}{x - 3}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 3}\\right)\\)",
+        "\\(\\frac{x^{2}}{x - 3}\\cdot\\frac{x \\left(x - 3\\right)}{-3}\\)",
+        "\\(\\frac{- x^{3}}{3}\\)",
+        "\\(- \\frac{x^{3}}{3}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,3\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: operación combinada",
+    "expression": "x**2/((x - 3)*(-1/(x - 3) + 1/x))",
+    "result": "-x**3/3",
+    "restrictions": "x\\notin\\left\\{0,3\\right\\}"
+  },
+  {
+    "id": "U2-FA-086",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x + 5}{x - 4}+\\frac{2 x - 4}{x + 4}-\\frac{x^{2} + 5}{x^{2} - 16}",
+    "answerLatex": "\\frac{2 x^{2} - 3 x + 31}{\\left(x - 4\\right) \\left(x + 4\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x + 5}{x - 4}+\\frac{2 \\left(x - 2\\right)}{x + 4}-\\frac{x^{2} + 5}{\\left(x - 4\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 4\\right) \\left(x + 4\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 9 x + 20\\right) + \\left(2 x^{2} - 12 x + 16\\right) + \\left(- x^{2} - 5\\right)}{\\left(x - 4\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\frac{2 x^{4} - 3 x^{3} - x^{2} + 48 x - 496}{\\left(x - 4\\right)^{2} \\left(x + 4\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 4\\right) \\left(x + 4\\right) \\left(2 x^{2} - 3 x + 31\\right)}{\\left(x - 4\\right)^{2} \\left(x + 4\\right)^{2}}\\)",
+        "\\(\\frac{2 x^{2} - 3 x + 31}{\\left(x - 4\\right) \\left(x + 4\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-4,4\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: diferencia de cuadrados",
+    "expression": "-(x**2 + 5)/(x**2 - 16) + (2*x - 4)/(x + 4) + (x + 5)/(x - 4)",
+    "result": "(2*x**2 - 3*x + 31)/((x - 4)*(x + 4))",
+    "restrictions": "x\\notin\\left\\{-4,4\\right\\}"
+  },
+  {
+    "id": "U2-FA-087",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2}}{x^{2} - 8 x + 16}+\\frac{2 x + 5}{x - 4}-3",
+    "answerLatex": "\\frac{21 x - 68}{\\left(x - 4\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x^{2}}{\\left(x - 4\\right)^{2}}+\\frac{2 x + 5}{x - 4}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 4\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2}\\right) + \\left(2 x^{2} - 3 x - 20\\right) + \\left(- 3 x^{2} + 24 x - 48\\right)}{\\left(x - 4\\right)^{2}}\\)",
+        "\\(\\frac{21 x^{2} - 152 x + 272}{\\left(x - 4\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 4\\right) \\left(21 x - 68\\right)}{\\left(x - 4\\right)^{3}}\\)",
+        "\\(\\frac{21 x - 68}{\\left(x - 4\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{4\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cuadrado de binomio",
+    "expression": "x**2/(x**2 - 8*x + 16) - 3 + (2*x + 5)/(x - 4)",
+    "result": "(21*x - 68)/(x - 4)**2",
+    "restrictions": "x\\notin\\left\\{4\\right\\}"
+  },
+  {
+    "id": "U2-FA-088",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x - 5}{x}-\\frac{x + 5}{x^{2} - 4 x}+\\frac{2 x + 5}{x - 4}",
+    "answerLatex": "\\frac{5 x^{2} - 13 x + 15}{x \\left(x - 4\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 x - 5}{x}-\\frac{x + 5}{x \\left(x - 4\\right)}+\\frac{2 x + 5}{x - 4}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 4\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} - 17 x + 20\\right) + \\left(- x - 5\\right) + \\left(2 x^{2} + 5 x\\right)}{x \\left(x - 4\\right)}\\)",
+        "\\(\\frac{5 x^{2} - 13 x + 15}{x \\left(x - 4\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,4\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: factor común",
+    "expression": "-(x + 5)/(x**2 - 4*x) + (2*x + 5)/(x - 4) + (3*x - 5)/x",
+    "result": "(5*x**2 - 13*x + 15)/(x*(x - 4))",
+    "restrictions": "x\\notin\\left\\{0,4\\right\\}"
+  },
+  {
+    "id": "U2-FA-089",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{5 x - 20}{x + 4}\\cdot \\frac{x^{2} - 16}{x - 4}",
+    "answerLatex": "5 \\left(x - 4\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{5 \\left(x - 4\\right)}{x + 4}\\cdot \\frac{\\left(x - 4\\right) \\left(x + 4\\right)}{x - 4}\\)",
+        "\\(\\frac{5 x^{2} - 80}{x + 4}\\)",
+        "\\(\\frac{5 \\left(x - 4\\right) \\left(x + 4\\right)}{x + 4}\\)",
+        "\\(5 \\left(x - 4\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-4,4\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: producto y simplificación",
+    "expression": "(5*x - 20)*(x**2 - 16)/((x - 4)*(x + 4))",
+    "result": "5*(x - 4)",
+    "restrictions": "x\\notin\\left\\{-4,4\\right\\}"
+  },
+  {
+    "id": "U2-FA-090",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x + 5}{2 x - 8}\\right):\\left(\\frac{x^{2}}{4 x - 16}\\right)",
+    "answerLatex": "\\frac{2 \\left(2 x + 5\\right)}{x^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 x + 5}{2 \\left(x - 4\\right)}\\right):\\left(\\frac{x^{2}}{4 \\left(x - 4\\right)}\\right)\\)",
+        "\\(\\frac{2 x + 5}{2 \\left(x - 4\\right)}\\cdot\\frac{4 \\left(x - 4\\right)}{x^{2}}\\)",
+        "\\(\\frac{4 x + 10}{x^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x + 5\\right)}{x^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,4\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cociente y factor común",
+    "expression": "(2*x + 5)*(4*x - 16)/(x**2*(2*x - 8))",
+    "result": "2*(2*x + 5)/x**2",
+    "restrictions": "x\\notin\\left\\{0,4\\right\\}"
+  },
+  {
+    "id": "U2-FA-091",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2}}{x - 4}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 4}\\right)",
+    "answerLatex": "- \\frac{x^{3}}{4}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{x^{2}}{x - 4}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 4}\\right)\\)",
+        "\\(\\frac{x^{2}}{x - 4}\\cdot\\frac{x \\left(x - 4\\right)}{-4}\\)",
+        "\\(\\frac{- x^{3}}{4}\\)",
+        "\\(- \\frac{x^{3}}{4}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,4\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: operación combinada",
+    "expression": "x**2/((x - 4)*(-1/(x - 4) + 1/x))",
+    "result": "-x**3/4",
+    "restrictions": "x\\notin\\left\\{0,4\\right\\}"
+  },
+  {
+    "id": "U2-FA-092",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x + 6}{x - 5}+\\frac{2 x - 5}{x + 5}-\\frac{x^{2} + 6}{x^{2} - 25}",
+    "answerLatex": "\\frac{2 x^{2} - 4 x + 49}{\\left(x - 5\\right) \\left(x + 5\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x + 6}{x - 5}+\\frac{2 x - 5}{x + 5}-\\frac{x^{2} + 6}{\\left(x - 5\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 5\\right) \\left(x + 5\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 11 x + 30\\right) + \\left(2 x^{2} - 15 x + 25\\right) + \\left(- x^{2} - 6\\right)}{\\left(x - 5\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\frac{2 x^{4} - 4 x^{3} - x^{2} + 100 x - 1225}{\\left(x - 5\\right)^{2} \\left(x + 5\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 5\\right) \\left(x + 5\\right) \\left(2 x^{2} - 4 x + 49\\right)}{\\left(x - 5\\right)^{2} \\left(x + 5\\right)^{2}}\\)",
+        "\\(\\frac{2 x^{2} - 4 x + 49}{\\left(x - 5\\right) \\left(x + 5\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-5,5\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: diferencia de cuadrados",
+    "expression": "-(x**2 + 6)/(x**2 - 25) + (2*x - 5)/(x + 5) + (x + 6)/(x - 5)",
+    "result": "(2*x**2 - 4*x + 49)/((x - 5)*(x + 5))",
+    "restrictions": "x\\notin\\left\\{-5,5\\right\\}"
+  },
+  {
+    "id": "U2-FA-093",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2}}{x^{2} - 10 x + 25}+\\frac{2 x + 6}{x - 5}-3",
+    "answerLatex": "\\frac{26 x - 105}{\\left(x - 5\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x^{2}}{\\left(x - 5\\right)^{2}}+\\frac{2 \\left(x + 3\\right)}{x - 5}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 5\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2}\\right) + \\left(2 x^{2} - 4 x - 30\\right) + \\left(- 3 x^{2} + 30 x - 75\\right)}{\\left(x - 5\\right)^{2}}\\)",
+        "\\(\\frac{26 x^{2} - 235 x + 525}{\\left(x - 5\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 5\\right) \\left(26 x - 105\\right)}{\\left(x - 5\\right)^{3}}\\)",
+        "\\(\\frac{26 x - 105}{\\left(x - 5\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{5\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cuadrado de binomio",
+    "expression": "x**2/(x**2 - 10*x + 25) - 3 + (2*x + 6)/(x - 5)",
+    "result": "(26*x - 105)/(x - 5)**2",
+    "restrictions": "x\\notin\\left\\{5\\right\\}"
+  },
+  {
+    "id": "U2-FA-094",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x - 6}{x}-\\frac{x + 6}{x^{2} - 5 x}+\\frac{2 x + 6}{x - 5}",
+    "answerLatex": "\\frac{5 x^{2} - 16 x + 24}{x \\left(x - 5\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 \\left(x - 2\\right)}{x}-\\frac{x + 6}{x \\left(x - 5\\right)}+\\frac{2 \\left(x + 3\\right)}{x - 5}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 5\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} - 21 x + 30\\right) + \\left(- x - 6\\right) + \\left(2 x^{2} + 6 x\\right)}{x \\left(x - 5\\right)}\\)",
+        "\\(\\frac{5 x^{2} - 16 x + 24}{x \\left(x - 5\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,5\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: factor común",
+    "expression": "-(x + 6)/(x**2 - 5*x) + (2*x + 6)/(x - 5) + (3*x - 6)/x",
+    "result": "(5*x**2 - 16*x + 24)/(x*(x - 5))",
+    "restrictions": "x\\notin\\left\\{0,5\\right\\}"
+  },
+  {
+    "id": "U2-FA-095",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{6 x - 30}{x + 5}\\cdot \\frac{x^{2} - 25}{x - 5}",
+    "answerLatex": "6 \\left(x - 5\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{6 \\left(x - 5\\right)}{x + 5}\\cdot \\frac{\\left(x - 5\\right) \\left(x + 5\\right)}{x - 5}\\)",
+        "\\(\\frac{6 x^{2} - 150}{x + 5}\\)",
+        "\\(\\frac{6 \\left(x - 5\\right) \\left(x + 5\\right)}{x + 5}\\)",
+        "\\(6 \\left(x - 5\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-5,5\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: producto y simplificación",
+    "expression": "(6*x - 30)*(x**2 - 25)/((x - 5)*(x + 5))",
+    "result": "6*(x - 5)",
+    "restrictions": "x\\notin\\left\\{-5,5\\right\\}"
+  },
+  {
+    "id": "U2-FA-096",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x + 6}{2 x - 10}\\right):\\left(\\frac{x^{2}}{4 x - 20}\\right)",
+    "answerLatex": "\\frac{4 \\left(x + 3\\right)}{x^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 \\left(x + 3\\right)}{2 \\left(x - 5\\right)}\\right):\\left(\\frac{x^{2}}{4 \\left(x - 5\\right)}\\right)\\)",
+        "\\(\\frac{x + 3}{x - 5}\\cdot\\frac{4 \\left(x - 5\\right)}{x^{2}}\\)",
+        "\\(\\frac{4 x + 12}{x^{2}}\\)",
+        "\\(\\frac{4 \\left(x + 3\\right)}{x^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,5\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cociente y factor común",
+    "expression": "(2*x + 6)*(4*x - 20)/(x**2*(2*x - 10))",
+    "result": "4*(x + 3)/x**2",
+    "restrictions": "x\\notin\\left\\{0,5\\right\\}"
+  },
+  {
+    "id": "U2-FA-097",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2}}{x - 5}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 5}\\right)",
+    "answerLatex": "- \\frac{x^{3}}{5}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{x^{2}}{x - 5}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 5}\\right)\\)",
+        "\\(\\frac{x^{2}}{x - 5}\\cdot\\frac{x \\left(x - 5\\right)}{-5}\\)",
+        "\\(\\frac{- x^{3}}{5}\\)",
+        "\\(- \\frac{x^{3}}{5}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,5\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: operación combinada",
+    "expression": "x**2/((x - 5)*(-1/(x - 5) + 1/x))",
+    "result": "-x**3/5",
+    "restrictions": "x\\notin\\left\\{0,5\\right\\}"
+  },
+  {
+    "id": "U2-FA-098",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x + 7}{x - 6}+\\frac{2 x - 6}{x + 6}-\\frac{x^{2} + 7}{x^{2} - 36}",
+    "answerLatex": "\\frac{2 x^{2} - 5 x + 71}{\\left(x - 6\\right) \\left(x + 6\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x + 7}{x - 6}+\\frac{2 \\left(x - 3\\right)}{x + 6}-\\frac{x^{2} + 7}{\\left(x - 6\\right) \\left(x + 6\\right)}\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 6\\right) \\left(x + 6\\right)\\)",
+        "\\(\\frac{\\left(x^{2} + 13 x + 42\\right) + \\left(2 x^{2} - 18 x + 36\\right) + \\left(- x^{2} - 7\\right)}{\\left(x - 6\\right) \\left(x + 6\\right)}\\)",
+        "\\(\\frac{2 x^{4} - 5 x^{3} - x^{2} + 180 x - 2556}{\\left(x - 6\\right)^{2} \\left(x + 6\\right)^{2}}\\)",
+        "\\(\\frac{\\left(x - 6\\right) \\left(x + 6\\right) \\left(2 x^{2} - 5 x + 71\\right)}{\\left(x - 6\\right)^{2} \\left(x + 6\\right)^{2}}\\)",
+        "\\(\\frac{2 x^{2} - 5 x + 71}{\\left(x - 6\\right) \\left(x + 6\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-6,6\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: diferencia de cuadrados",
+    "expression": "-(x**2 + 7)/(x**2 - 36) + (2*x - 6)/(x + 6) + (x + 7)/(x - 6)",
+    "result": "(2*x**2 - 5*x + 71)/((x - 6)*(x + 6))",
+    "restrictions": "x\\notin\\left\\{-6,6\\right\\}"
+  },
+  {
+    "id": "U2-FA-099",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{x^{2}}{x^{2} - 12 x + 36}+\\frac{2 x + 7}{x - 6}-3",
+    "answerLatex": "\\frac{31 x - 150}{\\left(x - 6\\right)^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{x^{2}}{\\left(x - 6\\right)^{2}}+\\frac{2 x + 7}{x - 6}-3\\)",
+        "\\(\\operatorname{mcm}=\\left(x - 6\\right)^{2}\\)",
+        "\\(\\frac{\\left(x^{2}\\right) + \\left(2 x^{2} - 5 x - 42\\right) + \\left(- 3 x^{2} + 36 x - 108\\right)}{\\left(x - 6\\right)^{2}}\\)",
+        "\\(\\frac{31 x^{2} - 336 x + 900}{\\left(x - 6\\right)^{3}}\\)",
+        "\\(\\frac{\\left(x - 6\\right) \\left(31 x - 150\\right)}{\\left(x - 6\\right)^{3}}\\)",
+        "\\(\\frac{31 x - 150}{\\left(x - 6\\right)^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{6\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cuadrado de binomio",
+    "expression": "x**2/(x**2 - 12*x + 36) - 3 + (2*x + 7)/(x - 6)",
+    "result": "(31*x - 150)/(x - 6)**2",
+    "restrictions": "x\\notin\\left\\{6\\right\\}"
+  },
+  {
+    "id": "U2-FA-100",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{3 x - 7}{x}-\\frac{x + 7}{x^{2} - 6 x}+\\frac{2 x + 7}{x - 6}",
+    "answerLatex": "\\frac{5 x^{2} - 19 x + 35}{x \\left(x - 6\\right)}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{3 x - 7}{x}-\\frac{x + 7}{x \\left(x - 6\\right)}+\\frac{2 x + 7}{x - 6}\\)",
+        "\\(\\operatorname{mcm}=x \\left(x - 6\\right)\\)",
+        "\\(\\frac{\\left(3 x^{2} - 25 x + 42\\right) + \\left(- x - 7\\right) + \\left(2 x^{2} + 7 x\\right)}{x \\left(x - 6\\right)}\\)",
+        "\\(\\frac{5 x^{2} - 19 x + 35}{x \\left(x - 6\\right)}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,6\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: factor común",
+    "expression": "-(x + 7)/(x**2 - 6*x) + (2*x + 7)/(x - 6) + (3*x - 7)/x",
+    "result": "(5*x**2 - 19*x + 35)/(x*(x - 6))",
+    "restrictions": "x\\notin\\left\\{0,6\\right\\}"
+  },
+  {
+    "id": "U2-FA-101",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\frac{7 x - 42}{x + 6}\\cdot \\frac{x^{2} - 36}{x - 6}",
+    "answerLatex": "7 \\left(x - 6\\right)",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\frac{7 \\left(x - 6\\right)}{x + 6}\\cdot \\frac{\\left(x - 6\\right) \\left(x + 6\\right)}{x - 6}\\)",
+        "\\(\\frac{7 x^{2} - 252}{x + 6}\\)",
+        "\\(\\frac{7 \\left(x - 6\\right) \\left(x + 6\\right)}{x + 6}\\)",
+        "\\(7 \\left(x - 6\\right)\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{-6,6\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: producto y simplificación",
+    "expression": "(7*x - 42)*(x**2 - 36)/((x - 6)*(x + 6))",
+    "result": "7*(x - 6)",
+    "restrictions": "x\\notin\\left\\{-6,6\\right\\}"
+  },
+  {
+    "id": "U2-FA-102",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{2 x + 7}{2 x - 12}\\right):\\left(\\frac{x^{2}}{4 x - 24}\\right)",
+    "answerLatex": "\\frac{2 \\left(2 x + 7\\right)}{x^{2}}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{2 x + 7}{2 \\left(x - 6\\right)}\\right):\\left(\\frac{x^{2}}{4 \\left(x - 6\\right)}\\right)\\)",
+        "\\(\\frac{2 x + 7}{2 \\left(x - 6\\right)}\\cdot\\frac{4 \\left(x - 6\\right)}{x^{2}}\\)",
+        "\\(\\frac{4 x + 14}{x^{2}}\\)",
+        "\\(\\frac{2 \\left(2 x + 7\\right)}{x^{2}}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,6\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: cociente y factor común",
+    "expression": "(2*x + 7)*(4*x - 24)/(x**2*(2*x - 12))",
+    "result": "2*(2*x + 7)/x**2",
+    "restrictions": "x\\notin\\left\\{0,6\\right\\}"
+  },
+  {
+    "id": "U2-FA-103",
+    "block": "17 Operaciones con fracciones algebraicas",
+    "level": "Examen",
+    "prompt": "Opera y simplifica:",
+    "latex": "\\left(\\frac{x^{2}}{x - 6}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 6}\\right)",
+    "answerLatex": "- \\frac{x^{3}}{6}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(\\left(\\frac{x^{2}}{x - 6}\\right):\\left(\\frac{1}{x}-\\frac{1}{x - 6}\\right)\\)",
+        "\\(\\frac{x^{2}}{x - 6}\\cdot\\frac{x \\left(x - 6\\right)}{-6}\\)",
+        "\\(\\frac{- x^{3}}{6}\\)",
+        "\\(- \\frac{x^{3}}{6}\\)",
+        "\\(\\text{Valores excluidos: }x\\notin\\left\\{0,6\\right\\}\\)"
+      ]
+    },
+    "reference": "Modelo p. variante propia: operación combinada",
+    "expression": "x**2/((x - 6)*(-1/(x - 6) + 1/x))",
+    "result": "-x**3/6",
+    "restrictions": "x\\notin\\left\\{0,6\\right\\}"
   }
 ];
-
-// Banco definitivo validado por el departamento. Las expresiones se guardan
-// en LaTeX explícito para evitar conversiones ambiguas al generar el examen.
-(()=>{
-  const intervals=window.QUESTION_BANK.filter(q=>q.block.startsWith('4 '));
-  const lvl=i=>i<3?'Media':i<6?'Alta':'Examen';
-  const mk=(id,block,i,prompt,latex,answer,steps,title='Resolución paso a paso')=>({
-    id,block,level:lvl(i),prompt,latex,answer:'',answerLatex:answer,
-    solution:{title,steps}
-  });
-  const math=(prefix,block,items,kind)=>items.map((x,i)=>{
-    const [latex,answer]=x;
-    let steps=[];
-    if(kind==='pow') steps=[
-      'Descomponemos todas las bases en factores primos y escribimos las fracciones como potencias de esos mismos factores.',
-      'Aplicamos las propiedades: potencia de una potencia, suma de exponentes en los productos, resta en los cocientes y cambio de signo para los exponentes negativos.',
-      `Agrupamos las potencias de igual base y simplificamos hasta obtener \\(${answer}\\).`
-    ];
-    if(kind==='rad') steps=[
-      'Escribimos los radicales con exponentes fraccionarios y buscamos un índice común cuando los índices son distintos.',
-      'Operamos las potencias de la misma base, extraemos los factores completos y reducimos los radicales semejantes.',
-      `Después de simplificar completamente resulta \\(${answer}\\).`
-    ];
-    if(kind==='rat') steps=[
-      'Multiplicamos numerador y denominador por el conjugado del denominador.',
-      'En el denominador aplicamos \\((a+b)(a-b)=a^2-b^2\\) y desarrollamos el numerador.',
-      `Reducimos términos y obtenemos \\(${answer}\\).`
-    ];
-    return mk(`${prefix}-${String(i+1).padStart(2,'0')}`,block,i,kind==='rat'?'Racionaliza y simplifica:':'Opera y simplifica:',latex,answer,steps);
-  });
-  const powers=math('P','5–6 Potencias: opera y simplifica',[
-    ['\\frac{(-18)^3\\cdot16^{-3}\\cdot(-9)^4}{36^{-1}}','-\\frac{43046721}{128}'],
-    ['\\frac{(\\frac49)^{-1}(\\frac54)^3}{(\\frac{25}{3})^2(\\frac13)^{-3}2^{-7}}','\\frac3{10}'],
-    ['\\frac{(\\frac49)^{-1}(\\frac54)^3(\\frac72)^{-2}3^3}{(\\frac{25}{3})^2(\\frac13)^{-3}2^{-7}(\\frac98)^4}','\\frac{8192}{19845}'],
-    ['\\frac{(-18)^3 16^{-3}(-9)^4 25^{-2}}{36^{-1}12^2}','-\\frac{4782969}{1280000}'],
-    ['\\frac{(-12)^4 18^{-3}(-8)^2}{24^{-2}}','131072'],
-    ['\\frac{(\\frac23)^{-3}(\\frac98)^2(\\frac54)^{-2}}{(\\frac{15}{2})^2 3^{-4}2^{-3}}','\\frac{19683}{625}'],
-    ['\\frac{(-20)^{-2}25^3(-8)^4}{10^{-3}16^2 5^{-1}}','3125000'],
-    ['\\frac{(\\frac6{25})^{-2}(\\frac{15}{4})^3 2^{-4}}{(\\frac35)^{-3}(\\frac98)^2 10}','\\frac{125}{128}'],
-    ['\\frac{(-27)^2 12^{-3}(-16)^2}{18^{-2}8^3 3^{-1}}','\\frac{6561}{32}'],
-    ['\\frac{(\\frac89)^{-2}(\\frac{15}{4})^3(\\frac{10}{3})^{-1}}{(\\frac{25}{6})^2 2^{-5}(\\frac13)^{-3}}','\\frac{2187}{1600}']
-  ],'pow');
-  const radicals=math('R','7–10 Operaciones completas con radicales',[
-    ['(\\sqrt[4]{2})^3+\\sqrt2\\sqrt[4]{2}-\\sqrt[4]{8}','2^{3/4}'],
-    ['\\frac{\\sqrt{125}(\\sqrt[3]{5})^2}{\\sqrt5\\sqrt[3]{25}}','5'],
-    ['\\frac{\\sqrt[3]{18}\\sqrt[4]{12}}{\\sqrt[6]{6^3\\cdot8^4}}','\\frac{\\sqrt[3]{2}\\,3^{5/12}}4'],
-    ['\\frac{15\\sqrt{3\\sqrt[4]{18}}}{3\\sqrt[3]{6\\sqrt{12}}}','\\frac52\\,2^{11/24}\\sqrt[4]{3}'],
-    ['(\\sqrt[3]{4})^2+\\sqrt2\\sqrt[3]{2}-\\sqrt[3]{32}','-2\\cdot2^{2/3}+2^{5/6}+2\\sqrt[3]{2}'],
-    ['\\frac{\\sqrt{48}(\\sqrt[3]{3})^2}{\\sqrt3\\sqrt[3]{9}}','4'],
-    ['\\frac{\\sqrt[3]{12}\\sqrt[4]{8}}{\\sqrt[6]{2^5\\cdot3^2}}','2^{7/12}'],
-    ['\\frac{(\\sqrt[4]{3})^5\\sqrt[3]{9}}{\\sqrt[6]{27}\\sqrt3}','3^{11/12}'],
-    ['\\frac{\\sqrt{72}\\sqrt[3]{12}}{\\sqrt[6]{2^7\\cdot3^5}}','2\\sqrt3'],
-    ['\\frac{6\\sqrt{2\\sqrt[3]{16}}}{3\\sqrt[4]{8\\sqrt2}}','2\\cdot2^{7/24}']
-  ],'rad');
-  const rationalMixed=[
-    ['\\frac{2}{\\sqrt3+1}+\\frac1{\\sqrt3}','\\frac{4\\sqrt3-3}{3}',[
-      'Racionalizamos la primera fracción con el conjugado: \\(\\frac{2}{\\sqrt3+1}\\cdot\\frac{\\sqrt3-1}{\\sqrt3-1}=\\sqrt3-1\\).',
-      'En la segunda usamos la propia raíz: \\(\\frac1{\\sqrt3}=\\frac{\\sqrt3}{3}\\).',
-      'Sumamos con denominador común: \\(\\sqrt3-1+\\frac{\\sqrt3}{3}=\\frac{4\\sqrt3-3}{3}\\). El numerador no tiene un factor común y no se puede reducir.'
-    ]],
-    ['\\frac{3}{\\sqrt5-2}-\\frac2{\\sqrt5}','\\frac{30+13\\sqrt5}{5}',[
-      'Conjugamos la primera: \\(\\frac{3}{\\sqrt5-2}\\cdot\\frac{\\sqrt5+2}{\\sqrt5+2}=3\\sqrt5+6\\), porque \\((\\sqrt5)^2-2^2=1\\).',
-      'Racionalizamos la segunda: \\(\\frac2{\\sqrt5}=\\frac{2\\sqrt5}{5}\\).',
-      'Restamos: \\(3\\sqrt5+6-\\frac{2\\sqrt5}{5}=\\frac{30+13\\sqrt5}{5}\\). Aunque 30 es divisible entre 5, el término \\(13\\sqrt5\\) no lo es; no se puede cancelar solo una parte de una suma.'
-    ]],
-    ['\\frac1{\\sqrt2+1}+\\frac2{\\sqrt8}','\\frac{3\\sqrt2-2}{2}',[
-      'Primero simplificamos la raíz que hace de trampa: \\(\\sqrt8=2\\sqrt2\\), así que \\(\\frac2{\\sqrt8}=\\frac1{\\sqrt2}=\\frac{\\sqrt2}{2}\\).',
-      'Racionalizamos con el conjugado: \\(\\frac1{\\sqrt2+1}\\cdot\\frac{\\sqrt2-1}{\\sqrt2-1}=\\sqrt2-1\\).',
-      'Sumamos: \\(\\sqrt2-1+\\frac{\\sqrt2}{2}=\\frac{3\\sqrt2-2}{2}\\). No puede reducirse porque el numerador completo no contiene el factor 2.'
-    ]],
-    ['\\frac4{\\sqrt7+2}-\\frac3{\\sqrt7}','\\frac{19\\sqrt7-56}{21}',[
-      'Conjugamos la primera fracción: \\(\\frac4{\\sqrt7+2}=\\frac{4(\\sqrt7-2)}{7-4}=\\frac{4\\sqrt7-8}{3}\\).',
-      'Racionalizamos la segunda: \\(\\frac3{\\sqrt7}=\\frac{3\\sqrt7}{7}\\).',
-      'Con denominador común 21: \\(\\frac{28\\sqrt7-56}{21}-\\frac{9\\sqrt7}{21}=\\frac{19\\sqrt7-56}{21}\\). Parece simplificable por 7, pero \\(19\\sqrt7\\) no es múltiplo de 7.'
-    ]],
-    ['\\frac2{3-\\sqrt5}+\\frac1{\\sqrt5}','\\frac{15+7\\sqrt5}{10}',[
-      'Multiplicamos por el conjugado: \\(\\frac2{3-\\sqrt5}\\cdot\\frac{3+\\sqrt5}{3+\\sqrt5}=\\frac{3+\\sqrt5}{2}\\).',
-      'Racionalizamos la raíz simple: \\(\\frac1{\\sqrt5}=\\frac{\\sqrt5}{5}\\).',
-      'Sumamos con denominador 10: \\(\\frac{15+5\\sqrt5}{10}+\\frac{2\\sqrt5}{10}=\\frac{15+7\\sqrt5}{10}\\). No se reduce porque 7 no comparte factor con 10.'
-    ]],
-    ['\\frac5{\\sqrt6+2}-\\frac1{\\sqrt6}','\\frac{7\\sqrt6-15}{3}',[
-      'Conjugamos la primera fracción: \\(\\frac5{\\sqrt6+2}=\\frac{5(\\sqrt6-2)}{6-4}=\\frac{5\\sqrt6-10}{2}\\).',
-      'Racionalizamos la segunda: \\(\\frac1{\\sqrt6}=\\frac{\\sqrt6}{6}\\).',
-      'Restamos: \\(\\frac{15\\sqrt6-30}{6}-\\frac{\\sqrt6}{6}=\\frac{14\\sqrt6-30}{6}\\). Ahora sí hay un factor común 2 y obtenemos \\(\\frac{7\\sqrt6-15}{3}\\).'
-    ]]
-  ].map((x,i)=>mk(`QM-${String(i+1).padStart(2,'0')}`,'11 Racionalización',i,'Racionaliza, opera y simplifica:',x[0],x[1],x[2]));
-  const rationalSimple=math('Q','11 Racionalización',[
-    ['\\frac{2\\sqrt3-3}{2\\sqrt3+3}','7-4\\sqrt3'],['\\frac{2+\\sqrt2}{1+\\sqrt2}','\\sqrt2'],
-    ['\\frac{3+\\sqrt5}{2-\\sqrt5}','-11-5\\sqrt5'],['\\frac{2\\sqrt3+1}{\\sqrt3-2}','-8-5\\sqrt3'],
-    ['\\frac{\\sqrt5-2}{\\sqrt5+1}','\\frac{7-3\\sqrt5}{4}'],['\\frac{3-\\sqrt2}{2+\\sqrt2}','4-\\frac{5\\sqrt2}{2}'],
-    ['\\frac{2\\sqrt5+3}{2\\sqrt5-1}','\\frac{23+8\\sqrt5}{19}'],['\\frac{\\sqrt7+2}{\\sqrt7-2}','\\frac{11+4\\sqrt7}{3}'],
-    ['\\frac{3\\sqrt2-1}{\\sqrt2+3}','\\frac{10\\sqrt2-9}{7}'],['\\frac{4-\\sqrt3}{2\\sqrt3-1}','\\frac{7\\sqrt3-2}{11}']
-  ],'rat');
-  const rational=[...rationalSimple,...rationalMixed];
-  const log38=[
-    ['\\begin{aligned}a)\\;&\\log_2 8^2+\\log_2 4-\\log_2\\frac18\\\\b)\\;&\\log_3 27^2-\\log_3\\sqrt3+\\log_3\\frac19\\\\c)\\;&\\log0{,}001+\\log\\sqrt{100}-\\log0{,}01\\end{aligned}','(11,\\,\\frac72,\\,0)',['a) \\(\\log_2 8^2=6\\), \\(\\log_2 4=2\\) y \\(\\log_2\\frac18=-3\\); por tanto, \\(6+2-(-3)=11\\).','b) \\(\\log_3 27^2=6\\), \\(\\log_3\\sqrt3=\\frac12\\) y \\(\\log_3\\frac19=-2\\); luego, \\(6-\\frac12-2=\\frac72\\).','c) \\(\\log0{,}001=-3\\), \\(\\log\\sqrt{100}=1\\) y \\(\\log0{,}01=-2\\); así, \\(-3+1-(-2)=0\\).']],
-    ['\\begin{aligned}a)\\;&\\log_4 16^3+\\log_4 2+\\log0{,}0001\\\\b)\\;&\\log_5 125-\\log_5\\frac1{25}+\\log_5\\sqrt5\\\\c)\\;&\\log\\frac{\\sqrt[3]{10}}{100}+\\log1000\\end{aligned}','(\\frac52,\\,\\frac{11}{2},\\,\\frac43)',['a) \\(16=4^2\\), por lo que \\(\\log_4 16^3=6\\); además, \\(\\log_4 2=\\frac12\\) y \\(\\log0{,}0001=-4\\). Resultado: \\(6+\\frac12-4=\\frac52\\).','b) \\(\\log_5 125=3\\), \\(\\log_5\\frac1{25}=-2\\) y \\(\\log_5\\sqrt5=\\frac12\\). Resultado: \\(3-(-2)+\\frac12=\\frac{11}{2}\\).','c) \\(\\log\\frac{\\sqrt[3]{10}}{100}=\\frac13-2=-\\frac53\\) y \\(\\log1000=3\\). Resultado: \\(-\\frac53+3=\\frac43\\).']],
-    ['\\begin{aligned}a)\\;&\\log_3 81+\\log_3\\frac1{27}+\\log_3\\sqrt3\\\\b)\\;&\\log_9 27+\\log_9\\frac13-\\log_9\\frac1{81}\\\\c)\\;&\\log10000-\\log\\sqrt[3]{1000}+\\log0{,}1\\end{aligned}','(\\frac32,\\,3,\\,2)',['a) \\(4-3+\\frac12=\\frac32\\), pues \\(81=3^4\\), \\(\\frac1{27}=3^{-3}\\) y \\(\\sqrt3=3^{1/2}\\).','b) Escribimos todo como potencias de 9: \\(27=9^{3/2}\\), \\(\\frac13=9^{-1/2}\\), \\(\\frac1{81}=9^{-2}\\). Entonces \\(\\frac32-\\frac12-(-2)=3\\).','c) \\(\\log10000=4\\), \\(\\log\\sqrt[3]{1000}=1\\) y \\(\\log0{,}1=-1\\). Resultado: \\(4-1-1=2\\).']],
-    ['\\begin{aligned}a)\\;&\\log_2 32-\\log_2\\sqrt8+\\log_2\\frac14\\\\b)\\;&\\log_4 64+\\log_4\\frac18+\\log_4\\sqrt2\\\\c)\\;&\\log0{,}01+\\log\\sqrt[4]{10000}-\\log0{,}1\\end{aligned}','(\\frac32,\\,\\frac74,\\,0)',['a) \\(\\log_2 32=5\\), \\(\\log_2\\sqrt8=\\frac32\\) y \\(\\log_2\\frac14=-2\\). Así, \\(5-\\frac32-2=\\frac32\\).','b) \\(\\log_4 64=3\\), \\(\\log_4\\frac18=-\\frac32\\) y \\(\\log_4\\sqrt2=\\frac14\\). Resultado: \\(3-\\frac32+\\frac14=\\frac74\\).','c) \\(\\log0{,}01=-2\\), \\(\\log\\sqrt[4]{10000}=1\\) y \\(\\log0{,}1=-1\\). Resultado: \\(-2+1-(-1)=0\\).']],
-    ['\\begin{aligned}a)\\;&\\log_5 25^2+\\log_5\\frac1{125}-\\log_5\\sqrt5\\\\b)\\;&\\log_8 64+\\log_8\\frac14+\\log_8\\sqrt[3]8\\\\c)\\;&\\log1000+\\log\\frac{\\sqrt{10}}{100}-\\log0{,}01\\end{aligned}','(\\frac12,\\,\\frac53,\\,\\frac72)',['a) \\(\\log_5 25^2=4\\), \\(\\log_5\\frac1{125}=-3\\) y \\(\\log_5\\sqrt5=\\frac12\\). Resultado: \\(4-3-\\frac12=\\frac12\\).','b) \\(\\log_8 64=2\\), \\(\\log_8\\frac14=-\\frac23\\) y \\(\\log_8\\sqrt[3]8=\\frac13\\). Resultado: \\(2-\\frac23+\\frac13=\\frac53\\).','c) \\(\\log1000=3\\), \\(\\log\\frac{\\sqrt{10}}{100}=\\frac12-2=-\\frac32\\) y \\(\\log0{,}01=-2\\). Resultado: \\(3-\\frac32-(-2)=\\frac72\\).']]
-  ].map((x,i)=>mk(`L38-${i+1}`,'12 Logaritmos',i,'Calcula aplicando la definición de logaritmo:',x[0],x[1],x[2]));
-  const log39=[
-    ['\\begin{aligned}\\log x&=1{,}3,\\quad\\log y=0{,}8\\\\a)\\;&\\log(xy)\\qquad b)\\;\\log(x\\sqrt y)\\qquad c)\\;\\log\\frac{y}{x^2}\\end{aligned}','(2{,}1,\\,1{,}7,\\,-1{,}8)',['a) \\(\\log(xy)=\\log x+\\log y=1{,}3+0{,}8=2{,}1\\).','b) \\(\\log(x\\sqrt y)=\\log x+\\frac12\\log y=1{,}3+0{,}4=1{,}7\\).','c) \\(\\log\\frac{y}{x^2}=\\log y-2\\log x=0{,}8-2{,}6=-1{,}8\\).']],
-    ['\\begin{aligned}\\log x&=0{,}6,\\quad\\log y=1{,}2\\\\a)\\;&\\log(x^2y)\\qquad b)\\;\\log\\frac{\\sqrt x}{y}\\qquad c)\\;\\log\\sqrt[3]{\\frac yx}\\end{aligned}','(2{,}4,\\,-0{,}9,\\,0{,}2)',['a) \\(\\log(x^2y)=2\\log x+\\log y=2(0{,}6)+1{,}2=2{,}4\\).','b) \\(\\log\\frac{\\sqrt x}{y}=\\frac12\\log x-\\log y=0{,}3-1{,}2=-0{,}9\\).','c) \\(\\log\\sqrt[3]{\\frac yx}=\\frac13(\\log y-\\log x)=\\frac13(1{,}2-0{,}6)=0{,}2\\).']],
-    ['\\begin{aligned}\\log x&=1{,}5,\\quad\\log y=0{,}4\\\\a)\\;&\\log\\frac xy\\qquad b)\\;\\log(x^2\\sqrt y)\\qquad c)\\;\\log\\sqrt{\\frac yx}\\end{aligned}','(1{,}1,\\,3{,}2,\\,-0{,}55)',['a) \\(\\log\\frac xy=\\log x-\\log y=1{,}5-0{,}4=1{,}1\\).','b) \\(\\log(x^2\\sqrt y)=2\\log x+\\frac12\\log y=3+0{,}2=3{,}2\\).','c) \\(\\log\\sqrt{\\frac yx}=\\frac12(\\log y-\\log x)=\\frac12(0{,}4-1{,}5)=-0{,}55\\).']],
-    ['\\begin{aligned}\\log x&=0{,}9,\\quad\\log y=0{,}3\\\\a)\\;&\\log(xy^2)\\qquad b)\\;\\log\\frac{x^3}{y}\\qquad c)\\;\\log\\sqrt{\\frac{x}{y^2}}\\end{aligned}','(1{,}5,\\,2{,}4,\\,0{,}15)',['a) \\(\\log(xy^2)=\\log x+2\\log y=0{,}9+0{,}6=1{,}5\\).','b) \\(\\log\\frac{x^3}{y}=3\\log x-\\log y=2{,}7-0{,}3=2{,}4\\).','c) \\(\\log\\sqrt{\\frac{x}{y^2}}=\\frac12(\\log x-2\\log y)=\\frac12(0{,}9-0{,}6)=0{,}15\\).']],
-    ['\\begin{aligned}\\log x&=1{,}3,\\quad\\log y=0{,}7\\\\a)\\;&\\log(x^3y)\\qquad b)\\;\\log\\frac{y^2}{\\sqrt x}\\qquad c)\\;\\log\\sqrt[3]{\\frac xy}\\end{aligned}','(4{,}6,\\,0{,}75,\\,0{,}2)',['a) \\(\\log(x^3y)=3\\log x+\\log y=3(1{,}3)+0{,}7=4{,}6\\).','b) \\(\\log\\frac{y^2}{\\sqrt x}=2\\log y-\\frac12\\log x=1{,}4-0{,}65=0{,}75\\).','c) \\(\\log\\sqrt[3]{\\frac xy}=\\frac13(\\log x-\\log y)=\\frac13(1{,}3-0{,}7)=0{,}2\\).']]
-  ].map((x,i)=>mk(`L39-${i+1}`,'12 Logaritmos',i+5,'Calcula a partir de los datos:',x[0],x[1],x[2]));
-  const log9=[
-    ['\\begin{aligned}a)\\;&7-\\log_2 x=3\\qquad b)\\;\\log_x20=2\\qquad c)\\;\\log5+\\log x=1\\end{aligned}','(x=16,\\,x=2\\sqrt5,\\,x=2)',['a) \\(7-3=\\log_2x\\Rightarrow4=\\log_2x\\Rightarrow x=2^4=16\\).','b) \\(\\log_x20=2\\Rightarrow x^2=20\\Rightarrow x=\\sqrt{20}=2\\sqrt5\\).','c) \\(\\log5+\\log x=1\\Rightarrow\\log(5x)=1\\Rightarrow5x=10\\Rightarrow x=2\\).']],
-    ['\\begin{aligned}a)\\;&6-\\log_3 x=2\\qquad b)\\;\\log_x64=3\\qquad c)\\;\\log2+\\log x=1\\end{aligned}','(x=81,\\,x=4,\\,x=5)',['a) \\(6-2=\\log_3x\\Rightarrow4=\\log_3x\\Rightarrow x=3^4=81\\).','b) \\(\\log_x64=3\\Rightarrow x^3=64\\Rightarrow x=4\\).','c) \\(\\log2+\\log x=1\\Rightarrow\\log(2x)=1\\Rightarrow2x=10\\Rightarrow x=5\\).']],
-    ['\\begin{aligned}a)\\;&5-\\log_5 x=3\\qquad b)\\;\\log_x81=4\\qquad c)\\;\\log4+\\log x=2\\end{aligned}','(x=25,\\,x=3,\\,x=25)',['a) \\(5-3=\\log_5x\\Rightarrow2=\\log_5x\\Rightarrow x=5^2=25\\).','b) \\(\\log_x81=4\\Rightarrow x^4=81\\Rightarrow x=3\\).','c) \\(\\log4+\\log x=2\\Rightarrow\\log(4x)=2\\Rightarrow4x=100\\Rightarrow x=25\\).']],
-    ['\\begin{aligned}a)\\;&8-\\log_2 x=3\\qquad b)\\;\\log_x32=5\\qquad c)\\;\\log8+\\log x=2\\end{aligned}','(x=32,\\,x=2,\\,x=\\frac{25}{2})',['a) \\(8-3=\\log_2x\\Rightarrow5=\\log_2x\\Rightarrow x=2^5=32\\).','b) \\(\\log_x32=5\\Rightarrow x^5=32\\Rightarrow x=2\\).','c) \\(\\log8+\\log x=2\\Rightarrow\\log(8x)=2\\Rightarrow8x=100\\Rightarrow x=\\frac{25}{2}\\).']],
-    ['\\begin{aligned}a)\\;&4-\\log_4 x=1\\qquad b)\\;\\log_x\\frac1{16}=-2\\qquad c)\\;\\log25+\\log x=3\\end{aligned}','(x=64,\\,x=4,\\,x=40)',['a) \\(4-1=\\log_4x\\Rightarrow3=\\log_4x\\Rightarrow x=4^3=64\\).','b) \\(\\log_x\\frac1{16}=-2\\Rightarrow x^{-2}=\\frac1{16}\\Rightarrow x^2=16\\). Como la base debe ser positiva, \\(x=4\\).','c) \\(\\log25+\\log x=3\\Rightarrow\\log(25x)=3\\Rightarrow25x=1000\\Rightarrow x=40\\).']]
-  ].map((x,i)=>mk(`L9-${i+1}`,'12 Logaritmos',i+10,'Halla el valor de x en cada caso:',x[0],x[1],x[2]));
-  // Tres familias independientes de logaritmos. Cada simulacro toma exactamente
-  // una de cada familia para construir los apartados a), b) y c).
-  const logDefinitions=[
-    ['\\log_2 x=5','x=32',['Pasamos a forma exponencial: \\(x=2^5\\).','Por tanto, \\(x=32\\).']],
-    ['\\log_x81=4','x=3',['Por definición, \\(x^4=81\\).','Como la base de un logaritmo debe ser positiva y distinta de 1, \\(x=3\\).']],
-    ['\\log_3 27=x','x=3',['Escribimos \\(27=3^3\\).','Luego \\(\\log_3 27=3\\) y, por tanto, \\(x=3\\).']],
-    ['\\log_x\\frac1{16}=-2','x=4',['Pasamos a forma exponencial: \\(x^{-2}=\\frac1{16}\\).','Entonces \\(x^2=16\\); al ser una base, \\(x=4\\).']],
-    ['\\log_5 x=-2','x=\\frac1{25}',['Por definición, \\(x=5^{-2}\\).','Así, \\(x=\\frac1{25}\\).']],
-    ['\\log_4 64=x','x=3',['Buscamos el exponente al que hay que elevar 4 para obtener 64.','Como \\(4^3=64\\), resulta \\(x=3\\).']],
-    ['\\log_x125=3','x=5',['Por definición, \\(x^3=125\\).','Como \\(125=5^3\\), la base es \\(x=5\\).']],
-    ['\\log_2(x-1)=4','x=17',['Pasamos a forma exponencial: \\(x-1=2^4=16\\).','Despejando, \\(x=17\\).']],
-    ['\\log_3(2x+1)=2','x=4',['Por definición, \\(2x+1=3^2=9\\).','Entonces \\(2x=8\\) y \\(x=4\\).']],
-    ['\\log_x32=5','x=2',['Pasamos a forma exponencial: \\(x^5=32\\).','Como \\(32=2^5\\), obtenemos \\(x=2\\).']]
-  ].map((x,i)=>Object.assign(mk(`LD-${i+1}`,'12 Logaritmos',i,'',x[0],x[1],x[2]),{logType:'definition'}));
-  const logProperties=[
-    ['\\log x=1{,}3,\\;\\log y=0{,}8:\\quad \\log(x\\sqrt y)','1{,}7',['Aplicamos \\(\\log(x\\sqrt y)=\\log x+\\frac12\\log y\\).','Sustituimos: \\(1{,}3+\\frac12(0{,}8)=1{,}7\\).']],
-    ['\\log x=0{,}6,\\;\\log y=1{,}2:\\quad \\log(x^2y)','2{,}4',['Aplicamos \\(\\log(x^2y)=2\\log x+\\log y\\).','Calculamos \\(2(0{,}6)+1{,}2=2{,}4\\).']],
-    ['\\log x=1{,}5,\\;\\log y=0{,}4:\\quad \\log\\frac{x}{y}','1{,}1',['Usamos la propiedad del cociente: \\(\\log\\frac{x}{y}=\\log x-\\log y\\).','Resultado: \\(1{,}5-0{,}4=1{,}1\\).']],
-    ['\\log x=0{,}9,\\;\\log y=0{,}3:\\quad \\log\\frac{x^3}{y}','2{,}4',['Aplicamos \\(\\log\\frac{x^3}{y}=3\\log x-\\log y\\).','Resultado: \\(3(0{,}9)-0{,}3=2{,}4\\).']],
-    ['\\log x=1{,}3,\\;\\log y=0{,}7:\\quad \\log\\sqrt[3]{\\frac{x}{y}}','0{,}2',['El índice de la raíz pasa a ser coeficiente: \\(\\frac13(\\log x-\\log y)\\).','Calculamos \\(\\frac13(1{,}3-0{,}7)=0{,}2\\).']],
-    ['\\log x=0{,}8,\\;\\log y=1{,}4:\\quad \\log\\frac{y^2}{\\sqrt x}','2{,}4',['Desarrollamos: \\(2\\log y-\\frac12\\log x\\).','Sustituimos: \\(2(1{,}4)-\\frac12(0{,}8)=2{,}4\\).']],
-    ['\\log x=1{,}1,\\;\\log y=0{,}5:\\quad \\log(x^2\\sqrt y)','2{,}45',['Aplicamos \\(2\\log x+\\frac12\\log y\\).','Resultado: \\(2(1{,}1)+\\frac12(0{,}5)=2{,}45\\).']],
-    ['\\log x=0{,}7,\\;\\log y=1{,}6:\\quad \\log\\sqrt{\\frac{y}{x}}','0{,}45',['La raíz cuadrada multiplica por \\(\\frac12\\): \\(\\frac12(\\log y-\\log x)\\).','Calculamos \\(\\frac12(1{,}6-0{,}7)=0{,}45\\).']],
-    ['\\log x=1{,}2,\\;\\log y=0{,}4:\\quad \\log\\frac{x}{y^3}','0',['Desarrollamos: \\(\\log x-3\\log y\\).','Sustituimos: \\(1{,}2-3(0{,}4)=0\\).']],
-    ['\\log x=0{,}5,\\;\\log y=0{,}9:\\quad \\log(xy^2)','2{,}3',['Aplicamos \\(\\log(xy^2)=\\log x+2\\log y\\).','Resultado: \\(0{,}5+2(0{,}9)=2{,}3\\).']]
-  ].map((x,i)=>Object.assign(mk(`LP-${i+1}`,'12 Logaritmos',i,'',x[0],x[1],x[2]),{logType:'properties'}));
-  const logEquations=[
-    ['3+\\log(2x)=5','x=50',['Aislamos el logaritmo: \\(\\log(2x)=2\\).','Pasamos a forma exponencial: \\(2x=10^2=100\\), luego \\(x=50\\).']],
-    ['7-\\log_2 x=3','x=16',['Aislamos: \\(\\log_2x=4\\).','Por definición, \\(x=2^4=16\\).']],
-    ['2+\\log(5x)=4','x=20',['Restamos 2: \\(\\log(5x)=2\\).','Entonces \\(5x=100\\) y \\(x=20\\).']],
-    ['5-\\log_3 x=1','x=81',['Aislamos: \\(\\log_3x=4\\).','Por tanto, \\(x=3^4=81\\).']],
-    ['1+\\log(x-2)=2','x=12',['Aislamos: \\(\\log(x-2)=1\\).','Así, \\(x-2=10\\) y \\(x=12\\).']],
-    ['4+\\log_2(x+1)=7','x=7',['Restamos 4: \\(\\log_2(x+1)=3\\).','Luego \\(x+1=8\\) y \\(x=7\\).']],
-    ['6-\\log_5(2x)=4','x=\\frac{25}{2}',['Aislamos: \\(\\log_5(2x)=2\\).','Entonces \\(2x=25\\) y \\(x=\\frac{25}{2}\\).']],
-    ['2+\\log_4(x-1)=4','x=17',['Aislamos: \\(\\log_4(x-1)=2\\).','Por tanto, \\(x-1=16\\) y \\(x=17\\).']],
-    ['8-\\log_2(3x+1)=3','x=\\frac{31}{3}',['Aislamos: \\(\\log_2(3x+1)=5\\).','Entonces \\(3x+1=32\\), de donde \\(x=\\frac{31}{3}\\).']],
-    ['3+\\log(4x)=6','x=250',['Aislamos: \\(\\log(4x)=3\\).','Así, \\(4x=1000\\) y \\(x=250\\).']]
-  ].map((x,i)=>Object.assign(mk(`LE-${i+1}`,'12 Logaritmos',i,'',x[0],x[1],x[2]),{logType:'equation'}));
-  const logs=[...logDefinitions,...logProperties,...logEquations];
-  const word=(id,block,i,prompt,answer,steps)=>mk(id,block,i,prompt,'',answer,steps,'Planteamiento y cálculo');
-  const percentages=[
-    ['En una granja se cosecharon 4500 kg. La cosecha aumentó un 12,5 %, después disminuyó un 15 % y finalmente aumentó un 10 %. ¿Cuántos kilogramos se cosechan al final?','4733{,}44\\text{ kg}',['Usamos los índices de variación \\(1{,}125\\), \\(0{,}85\\) y \\(1{,}10\\).','Calculamos \\(4500\\cdot1{,}125\\cdot0{,}85\\cdot1{,}10=4733{,}4375\\).']],
-    ['BMW vendió 120 000 coches. Las ventas aumentaron un 20 %, disminuyeron un 8 %, volvieron a disminuir un 5 % y después aumentaron un 12 %. Calcula las ventas finales y la reducción causada por el 5 %.','140958{,}72\\text{ coches};\\;6624\\text{ coches}',['Ventas antes de la bajada del 5 %: \\(120000\\cdot1{,}20\\cdot0{,}92=132480\\).','Reducción: \\(132480\\cdot0{,}05=6624\\). Ventas finales: \\(132480\\cdot0{,}95\\cdot1{,}12=140958{,}72\\).']],
-    ['Una producción de 8500 unidades aumenta un 12 %, disminuye un 8 % y aumenta un 15 %. Calcula la producción final y la variación total.','10072{,}16;\\;18{,}496\\%',['Multiplicamos los índices: \\(1{,}12\\cdot0{,}92\\cdot1{,}15=1{,}18496\\).','Producción: \\(8500\\cdot1{,}18496=10072{,}16\\). La subida total es \\(18{,}496\\%\\).']],
-    ['Un artículo se rebaja un 20 %, después otro 15 % y finalmente se añade un 21 % de IVA. Se pagan 493,68 €. Calcula el precio inicial.','600\\,€',['Sea \\(P\\) el precio inicial: \\(P\\cdot0{,}80\\cdot0{,}85\\cdot1{,}21=493{,}68\\).','Despejamos: \\(P=493{,}68/(0{,}80\\cdot0{,}85\\cdot1{,}21)=600\\).']],
-    ['Una población de 24 000 habitantes aumenta un 6 %, disminuye un 4 % y aumenta un 2,5 %. Calcula la población final y la variación total.','25032{,}96;\\;4{,}304\\%',['Índice total: \\(1{,}06\\cdot0{,}96\\cdot1{,}025=1{,}04304\\).','Población final: \\(24000\\cdot1{,}04304=25032{,}96\\); aumento total \\(4{,}304\\%\\).']],
-    ['Tras rebajas del 18 % y del 10 %, un ordenador cuesta 737,10 €. Calcula el precio inicial y el descuento equivalente.','998{,}78\\,€;\\;26{,}2\\%',['Índice final: \\(0{,}82\\cdot0{,}90=0{,}738\\); descuento equivalente: \\(26{,}2\\%\\).','Precio inicial: \\(737{,}10/0{,}738=998{,}78\\,€\\).']],
-    ['Un precio aumenta un 12 %, se descuenta un 5 % y se añade un 21 % de IVA. Se pagan 643,72 €. Calcula el precio inicial.','500\\,€',['Planteamos \\(P\\cdot1{,}12\\cdot0{,}95\\cdot1{,}21=643{,}72\\).','Al despejar obtenemos \\(P=500\\,€\\).']],
-    ['Una inversión pierde un 15 % y al año siguiente gana un 20 %. Termina con 10 200 €. Calcula el capital inicial y la variación total.','10000\\,€;\\;2\\%',['Índice total: \\(0{,}85\\cdot1{,}20=1{,}02\\), equivalente a una subida del 2 %.','Capital inicial: \\(10200/1{,}02=10000\\,€\\).']],
-    ['Un comercio aumenta el coste un 35 % y después rebaja el precio marcado un 20 %. Aun así gana 32 € por unidad. Calcula el coste y el precio marcado.','400\\,€;\\;540\\,€',['Si el coste es \\(C\\), el precio final es \\(1{,}35C\\cdot0{,}80=1{,}08C\\).','El beneficio es \\(0{,}08C=32\\), luego \\(C=400\\) y el precio marcado es \\(540\\,€\\).']],
-    ['Dos tiendas parten de 800 €. A aplica descuentos del 15 % y 10 %; B aplica un 23 %. Compara los precios.','A:612\\,€;\\;B:616\\,€',['Tienda A: \\(800\\cdot0{,}85\\cdot0{,}90=612\\,€\\).','Tienda B: \\(800\\cdot0{,}77=616\\,€\\). Es más económica A.']]
-  ].map((x,i)=>word(`C-${i+1}`,'13 Problemas de porcentajes',i,x[0],x[1],x[2]));
-  const finance=[
-    ['Laura invierte 2500 € al 3,5 % simple durante 3 años. Sergio termina con 2787 € tras 3 años al 3,5 % compuesto. Calcula capitales, beneficios y compara.','Laura:2762{,}50\\,€;\\;Sergio:\\,C_0\\approx2513{,}71\\,€,\\;B\\approx273{,}29\\,€',['Laura: \\(C_f=2500(1+0{,}035\\cdot3)=2762{,}50\\,€\\).','Sergio: \\(C_0=2787/(1{,}035)^3\\approx2513{,}71\\,€\\); beneficio \\(273{,}29\\,€\\). Sergio obtiene mayor beneficio.']],
-    ['Sofía invierte 7000 € al 4 % compuesto durante 4 años. Alejandro termina con 8556,25 € tras 4 años al 5 % compuesto. Calcula capitales y beneficios.','Sofía:8189{,}01\\,€;\\;Alejandro:\\,C_0\\approx7039{,}25\\,€',['Sofía: \\(7000(1{,}04)^4=8189{,}01\\,€\\), beneficio \\(1189{,}01\\,€\\).','Alejandro: \\(C_0=8556{,}25/(1{,}05)^4\\approx7039{,}25\\,€\\), beneficio \\(1517\\,€\\) aproximadamente.']],
-    ['Dabiz invierte 92 000 € al 3,8 % compuesto durante 4 años. Joan termina con 110 324 € al 4,6 % compuesto. Calcula y compara.','Dabiz:106801{,}47\\,€;\\;Joan:\\,C_0\\approx92160{,}17\\,€',['Dabiz: \\(92000(1{,}038)^4=106801{,}47\\,€\\).','Joan: \\(C_0=110324/(1{,}046)^4\\approx92160{,}17\\,€\\). Calculamos ambos beneficios y comparamos.']],
-    ['Calcula capital final y beneficio de 6500 € al 4,2 % simple durante 4 años.','7592\\,€;\\;1092\\,€',['\\(C_f=6500(1+0{,}042\\cdot4)=7592\\,€\\).','Beneficio: \\(7592-6500=1092\\,€\\).']],
-    ['Un capital produce 1260 € de interés simple en 3 años al 3,5 %. Calcula el capital inicial y final.','12000\\,€;\\;13260\\,€',['\\(I=C_0rt\\), luego \\(1260=C_0\\cdot0{,}035\\cdot3\\).','\\(C_0=12000\\,€\\) y \\(C_f=12000+1260=13260\\,€\\).']],
-    ['Una inversión termina con 7545,76 € tras 4 años al 3,8 % compuesto. Calcula capital inicial y beneficio.','6500\\,€;\\;1045{,}76\\,€',['\\(C_0=7545{,}76/(1{,}038)^4\\approx6500\\,€\\).','Beneficio: \\(7545{,}76-6500=1045{,}76\\,€\\).']],
-    ['Compara 10 000 € durante 6 años: banco A al 4 % simple y banco B al 3,7 % compuesto.','A:12400\\,€;\\;B:12435{,}77\\,€',['A: \\(10000(1+0{,}04\\cdot6)=12400\\,€\\).','B: \\(10000(1{,}037)^6=12435{,}77\\,€\\). Conviene B.']],
-    ['Un capital de 8000 € se convierte en 9733,22 € en 5 años con interés compuesto. Calcula el tipo anual.','4\\%',['\\(9733{,}22=8000(1+r)^5\\), así que \\((1+r)^5=9733{,}22/8000\\).','\\(r=\\sqrt[5]{9733{,}22/8000}-1\\approx0{,}04=4\\%\\).']],
-    ['Marta invierte 12 000 € al 4,5 % simple y Pablo 11 500 € al 4 % compuesto, ambos 4 años. Calcula y compara.','Marta:14160\\,€;\\;Pablo:13453{,}37\\,€',['Marta: \\(12000(1+0{,}045\\cdot4)=14160\\,€\\).','Pablo: \\(11500(1{,}04)^4=13453{,}37\\,€\\). Comparamos los beneficios, no solo los capitales finales.']],
-    ['Una inversión al 3,2 % compuesto alcanza 18 141,52 € en 5 años. Calcula capital inicial y beneficio.','C_0\\approx15497{,}98\\,€;\\;B\\approx2643{,}54\\,€',['\\(C_0=18141{,}52/(1{,}032)^5\\approx15497{,}98\\,€\\).','Beneficio: \\(18141{,}52-15497{,}98\\approx2643{,}54\\,€\\).']]
-  ].map((x,i)=>word(`F-${i+1}`,'14 Interés simple y compuesto',i,x[0],x[1],x[2]));
-  window.QUESTION_BANK=[...intervals,...powers,...radicals,...rational,...logs,...percentages,...finance];
-})();
