@@ -1716,9 +1716,9 @@ window.QUESTION_BANK=[
     "polynomial": "3*x**5 - 48*x",
     "factorization": "3*x*(x - 2)*(x + 2)*(x**2 + 4)",
     "roots": {
-      "-2": 1,
+      "0": 1,
       "2": 1,
-      "0": 1
+      "-2": 1
     }
   },
   {
@@ -1748,8 +1748,8 @@ window.QUESTION_BANK=[
     "polynomial": "3*x**5 - 15*x**4 + 30*x**3 - 30*x**2 - 33*x + 45",
     "factorization": "3*(x - 3)*(x - 1)*(x + 1)*(x**2 - 2*x + 5)",
     "roots": {
-      "3": 1,
       "1": 1,
+      "3": 1,
       "-1": 1
     }
   },
@@ -1886,8 +1886,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - 7*x**2 + 8*x + 16",
     "factorization": "(x - 4)**2*(x + 1)",
     "roots": {
-      "-1": 1,
-      "4": 2
+      "4": 2,
+      "-1": 1
     }
   },
   {
@@ -1913,8 +1913,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - 10*x**2 + 25*x",
     "factorization": "x*(x - 5)**2",
     "roots": {
-      "5": 2,
-      "0": 1
+      "0": 1,
+      "5": 2
     }
   },
   {
@@ -1940,8 +1940,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - 4*x**2 - 3*x + 18",
     "factorization": "(x - 3)**2*(x + 2)",
     "roots": {
-      "-2": 1,
-      "3": 2
+      "3": 2,
+      "-2": 1
     }
   },
   {
@@ -1969,10 +1969,10 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 + 2*x**3 - 23*x**2 - 60*x",
     "factorization": "x*(x - 5)*(x + 3)*(x + 4)",
     "roots": {
+      "0": 1,
       "5": 1,
       "-3": 1,
-      "-4": 1,
-      "0": 1
+      "-4": 1
     }
   },
   {
@@ -2000,8 +2000,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 - 2*x**3 - 23*x**2 - 12*x + 36",
     "factorization": "(x - 6)*(x - 1)*(x + 2)*(x + 3)",
     "roots": {
-      "6": 1,
       "1": 1,
+      "6": 1,
       "-2": 1,
       "-3": 1
     }
@@ -2062,8 +2062,8 @@ window.QUESTION_BANK=[
     "polynomial": "9*x**4 - 36*x**3 + 26*x**2 + 4*x - 3",
     "factorization": "(x - 3)*(x - 1)*(3*x - 1)*(3*x + 1)",
     "roots": {
-      "3": 1,
       "1": 1,
+      "3": 1,
       "1/3": 1,
       "-1/3": 1
     }
@@ -2093,8 +2093,8 @@ window.QUESTION_BANK=[
     "polynomial": "9*x**4 - 72*x**3 + 188*x**2 - 192*x + 64",
     "factorization": "(x - 4)*(x - 2)*(3*x - 4)*(3*x - 2)",
     "roots": {
-      "4": 1,
       "2": 1,
+      "4": 1,
       "4/3": 1,
       "2/3": 1
     }
@@ -2124,10 +2124,10 @@ window.QUESTION_BANK=[
     "polynomial": "9*x**4 - 28*x**2 - 16*x",
     "factorization": "x*(x - 2)*(3*x + 2)*(3*x + 4)",
     "roots": {
+      "0": 1,
       "2": 1,
       "-2/3": 1,
-      "-4/3": 1,
-      "0": 1
+      "-4/3": 1
     }
   },
   {
@@ -2201,8 +2201,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**2 + 6*x",
     "factorization": "x*(x + 6)",
     "roots": {
-      "-6": 1,
-      "0": 1
+      "0": 1,
+      "-6": 1
     }
   },
   {
@@ -2551,8 +2551,8 @@ window.QUESTION_BANK=[
     "polynomial": "3*x**2 - 8*x",
     "factorization": "x*(3*x - 8)",
     "roots": {
-      "8/3": 1,
-      "0": 1
+      "0": 1,
+      "8/3": 1
     }
   },
   {
@@ -2676,8 +2676,8 @@ window.QUESTION_BANK=[
     "polynomial": "-x**2 + 17*x - 72",
     "factorization": "-(x - 9)*(x - 8)",
     "roots": {
-      "9": 1,
-      "8": 1
+      "8": 1,
+      "9": 1
     }
   },
   {
@@ -2701,8 +2701,8 @@ window.QUESTION_BANK=[
     "polynomial": "-x**2 + 19*x - 90",
     "factorization": "-(x - 10)*(x - 9)",
     "roots": {
-      "10": 1,
-      "9": 1
+      "9": 1,
+      "10": 1
     }
   },
   {
@@ -2726,8 +2726,8 @@ window.QUESTION_BANK=[
     "polynomial": "-x**2 + 15*x - 56",
     "factorization": "-(x - 8)*(x - 7)",
     "roots": {
-      "8": 1,
-      "7": 1
+      "7": 1,
+      "8": 1
     }
   },
   {
@@ -2781,9 +2781,9 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - x**2 - 2*x",
     "factorization": "x*(x - 2)*(x + 1)",
     "roots": {
+      "0": 1,
       "2": 1,
-      "-1": 1,
-      "0": 1
+      "-1": 1
     }
   },
   {
@@ -2809,9 +2809,9 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 + 5*x**2 + 6*x",
     "factorization": "x*(x + 2)*(x + 3)",
     "roots": {
+      "0": 1,
       "-2": 1,
-      "-3": 1,
-      "0": 1
+      "-3": 1
     }
   },
   {
@@ -2837,9 +2837,9 @@ window.QUESTION_BANK=[
     "polynomial": "3*x**3 - 15*x**2 + 12*x",
     "factorization": "3*x*(x - 4)*(x - 1)",
     "roots": {
-      "4": 1,
+      "0": 1,
       "1": 1,
-      "0": 1
+      "4": 1
     }
   },
   {
@@ -2865,9 +2865,9 @@ window.QUESTION_BANK=[
     "polynomial": "3*x**3 - 24*x**2 + 51*x - 30",
     "factorization": "3*(x - 5)*(x - 2)*(x - 1)",
     "roots": {
-      "5": 1,
+      "1": 1,
       "2": 1,
-      "1": 1
+      "5": 1
     }
   },
   {
@@ -2893,9 +2893,9 @@ window.QUESTION_BANK=[
     "polynomial": "3*x**3 - 6*x**2 - 9*x",
     "factorization": "3*x*(x - 3)*(x + 1)",
     "roots": {
+      "0": 1,
       "3": 1,
-      "-1": 1,
-      "0": 1
+      "-1": 1
     }
   },
   {
@@ -2921,8 +2921,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - 9*x**2 + 15*x - 7",
     "factorization": "(x - 7)*(x - 1)**2",
     "roots": {
-      "7": 1,
-      "1": 2
+      "1": 2,
+      "7": 1
     }
   },
   {
@@ -2948,8 +2948,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - 12*x**2 + 36*x - 32",
     "factorization": "(x - 8)*(x - 2)**2",
     "roots": {
-      "8": 1,
-      "2": 2
+      "2": 2,
+      "8": 1
     }
   },
   {
@@ -2975,8 +2975,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - 6*x**2",
     "factorization": "x**2*(x - 6)",
     "roots": {
-      "6": 1,
-      "0": 2
+      "0": 2,
+      "6": 1
     }
   },
   {
@@ -3004,8 +3004,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 - 13*x**2 + 36",
     "factorization": "(x - 3)*(x - 2)*(x + 2)*(x + 3)",
     "roots": {
-      "3": 1,
       "2": 1,
+      "3": 1,
       "-2": 1,
       "-3": 1
     }
@@ -3035,8 +3035,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 - 4*x**3 - 7*x**2 + 22*x + 24",
     "factorization": "(x - 4)*(x - 3)*(x + 1)*(x + 2)",
     "roots": {
-      "4": 1,
       "3": 1,
+      "4": 1,
       "-1": 1,
       "-2": 1
     }
@@ -3066,8 +3066,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 + 4*x**3 - 7*x**2 - 22*x + 24",
     "factorization": "(x - 2)*(x - 1)*(x + 3)*(x + 4)",
     "roots": {
-      "2": 1,
       "1": 1,
+      "2": 1,
       "-3": 1,
       "-4": 1
     }
@@ -3367,9 +3367,9 @@ window.QUESTION_BANK=[
     "polynomial": "4*x**4 - 12*x**3 + 9*x**2 - 2*x",
     "factorization": "x*(x - 2)*(2*x - 1)**2",
     "roots": {
+      "0": 1,
       "2": 1,
-      "1/2": 2,
-      "0": 1
+      "1/2": 2
     }
   },
   {
@@ -3397,9 +3397,9 @@ window.QUESTION_BANK=[
     "polynomial": "4*x**4 + 20*x**3 + 33*x**2 + 18*x",
     "factorization": "x*(x + 2)*(2*x + 3)**2",
     "roots": {
+      "0": 1,
       "-2": 1,
-      "-3/2": 2,
-      "0": 1
+      "-3/2": 2
     }
   },
   {
@@ -3624,8 +3624,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 - 4*x**3 + 4*x**2",
     "factorization": "x**2*(x - 2)**2",
     "roots": {
-      "2": 2,
-      "0": 2
+      "0": 2,
+      "2": 2
     }
   },
   {
@@ -3653,8 +3653,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 + 4*x**3 + 4*x**2",
     "factorization": "x**2*(x + 2)**2",
     "roots": {
-      "-2": 2,
-      "0": 2
+      "0": 2,
+      "-2": 2
     }
   },
   {
@@ -3680,8 +3680,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - 2*x**2 - 9*x + 18",
     "factorization": "(x - 3)*(x - 2)*(x + 3)",
     "roots": {
-      "3": 1,
       "2": 1,
+      "3": 1,
       "-3": 1
     }
   },
@@ -3708,8 +3708,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 - 5*x**2 - 2*x + 24",
     "factorization": "(x - 4)*(x - 3)*(x + 2)",
     "roots": {
-      "4": 1,
       "3": 1,
+      "4": 1,
       "-2": 1
     }
   },
@@ -3736,8 +3736,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**3 + x**2 - 10*x + 8",
     "factorization": "(x - 2)*(x - 1)*(x + 4)",
     "roots": {
-      "2": 1,
       "1": 1,
+      "2": 1,
       "-4": 1
     }
   },
@@ -3766,8 +3766,8 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 - x**3 - 7*x**2 + x + 6",
     "factorization": "(x - 3)*(x - 1)*(x + 1)*(x + 2)",
     "roots": {
-      "3": 1,
       "1": 1,
+      "3": 1,
       "-1": 1,
       "-2": 1
     }
@@ -3797,10 +3797,10 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 - 5*x**3 + 2*x**2 + 8*x",
     "factorization": "x*(x - 4)*(x - 2)*(x + 1)",
     "roots": {
-      "4": 1,
+      "0": 1,
       "2": 1,
-      "-1": 1,
-      "0": 1
+      "4": 1,
+      "-1": 1
     }
   },
   {
@@ -3828,10 +3828,10 @@ window.QUESTION_BANK=[
     "polynomial": "x**4 + 3*x**3 - 4*x**2 - 12*x",
     "factorization": "x*(x - 2)*(x + 2)*(x + 3)",
     "roots": {
+      "0": 1,
       "2": 1,
       "-2": 1,
-      "-3": 1,
-      "0": 1
+      "-3": 1
     }
   },
   {
@@ -3913,9 +3913,9 @@ window.QUESTION_BANK=[
     "polynomial": "8*x**3 + 30*x**2 + 25*x",
     "factorization": "x*(2*x + 5)*(4*x + 5)",
     "roots": {
+      "0": 1,
       "-5/2": 1,
-      "-5/4": 1,
-      "0": 1
+      "-5/4": 1
     }
   },
   {
@@ -3969,9 +3969,9 @@ window.QUESTION_BANK=[
     "polynomial": "3*x**3 - x**2 - 4*x",
     "factorization": "x*(x + 1)*(3*x - 4)",
     "roots": {
+      "0": 1,
       "-1": 1,
-      "4/3": 1,
-      "0": 1
+      "4/3": 1
     }
   },
   {
@@ -4109,37 +4109,6 @@ window.QUESTION_BANK=[
     ],
     "parameters": {
       "a": "-4"
-    }
-  },
-  {
-    "id": "U2-TR-002",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla el valor de a para que se cumpla la condición indicada.",
-    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}-2 x^{2}+a x-15\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }-2\\end{gathered}",
-    "answerLatex": "a=\\frac{4}{3}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(3)=-2\\)",
-        "\\(a \\left(3\\right) + \\left(3\\right)^{4} - 2 \\left(3\\right)^{3} - 2 \\left(3\\right)^{2} - 15=-2\\)",
-        "\\(3 a - 6=-2\\)",
-        "\\(3 a=4\\)",
-        "\\(a=\\frac{4}{3}\\)",
-        "\\(P(3)=-2\\)"
-      ]
-    },
-    "reference": "Modelo p. 65, 4a · variante propia",
-    "polynomial": "a*x + x**4 - 2*x**3 - 2*x**2 - 15",
-    "conditions": [
-      [
-        "3",
-        "-2"
-      ]
-    ],
-    "parameters": {
-      "a": "4/3"
     }
   },
   {
@@ -4515,37 +4484,6 @@ window.QUESTION_BANK=[
     }
   },
   {
-    "id": "U2-TR-015",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
-    "latex": "\\begin{gathered}P(x)=x^{3}+2 x^{2}+m x+2\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }3\\end{gathered}",
-    "answerLatex": "m=- \\frac{1}{2}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(-2)=3\\)",
-        "\\(m \\left(-2\\right) + \\left(-2\\right)^{3} + 2 \\left(-2\\right)^{2} + 2=3\\)",
-        "\\(2 - 2 m=3\\)",
-        "\\(- 2 m=1\\)",
-        "\\(m=- \\frac{1}{2}\\)",
-        "\\(P(-2)=3\\)"
-      ]
-    },
-    "reference": "Modelo p. 76, 31b · variante propia",
-    "polynomial": "m*x + x**3 + 2*x**2 + 2",
-    "conditions": [
-      [
-        "-2",
-        "3"
-      ]
-    ],
-    "parameters": {
-      "m": "-1/2"
-    }
-  },
-  {
     "id": "U2-TR-016",
     "block": "15 Teorema del resto",
     "level": "Examen",
@@ -4605,37 +4543,6 @@ window.QUESTION_BANK=[
     ],
     "parameters": {
       "m": "-5"
-    }
-  },
-  {
-    "id": "U2-TR-018",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
-    "latex": "\\begin{gathered}P(x)=x^{3}-\\left(m - 3\\right) x^{2}-6 x+2 m\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }3\\end{gathered}",
-    "answerLatex": "m=\\frac{5}{2}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(2)=3\\)",
-        "\\(- m \\left(2\\right)^{2} + 2 m + \\left(2\\right)^{3} + 3 \\left(2\\right)^{2} - 6 \\left(2\\right)=3\\)",
-        "\\(8 - 2 m=3\\)",
-        "\\(- 2 m=-5\\)",
-        "\\(m=\\frac{5}{2}\\)",
-        "\\(P(2)=3\\)"
-      ]
-    },
-    "reference": "Modelo p. 76, 31c · variante propia",
-    "polynomial": "-m*x**2 + 2*m + x**3 + 3*x**2 - 6*x",
-    "conditions": [
-      [
-        "2",
-        "3"
-      ]
-    ],
-    "parameters": {
-      "m": "5/2"
     }
   },
   {
@@ -4866,88 +4773,6 @@ window.QUESTION_BANK=[
     }
   },
   {
-    "id": "U2-TR-026",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla los valores de m y n para que se cumplan las dos condiciones indicadas.",
-    "latex": "\\begin{gathered}P(x)=x^{3}-\\left(m + 2\\right) x^{2}+n x+4\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-2\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }-2\\end{gathered}",
-    "answerLatex": "m=- \\frac{1}{2},\\quad n=-4",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(2)=-2\\)",
-        "\\(- m \\left(2\\right)^{2} + n \\left(2\\right) + \\left(2\\right)^{3} - 2 \\left(2\\right)^{2} + 4=-2\\)",
-        "\\(- 4 m + 2 n + 4=-2\\)",
-        "\\(R=P(-2)=-2\\)",
-        "\\(- m \\left(-2\\right)^{2} + n \\left(-2\\right) + \\left(-2\\right)^{3} - 2 \\left(-2\\right)^{2} + 4=-2\\)",
-        "\\(- 4 m - 2 n - 12=-2\\)",
-        "\\(\\begin{cases}- 4 m + 2 n + 6=0\\\\- 4 m - 2 n - 10=0\\end{cases}\\)",
-        "\\(16 m + 8=0\\quad\\Longrightarrow\\quad m=- \\frac{1}{2}\\)",
-        "\\(2 n + 8=0\\quad\\Longrightarrow\\quad n=-4\\)",
-        "\\(P(2)=-2\\)",
-        "\\(P(-2)=-2\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 46 · variante propia",
-    "polynomial": "-m*x**2 + n*x + x**3 - 2*x**2 + 4",
-    "conditions": [
-      [
-        "2",
-        "-2"
-      ],
-      [
-        "-2",
-        "-2"
-      ]
-    ],
-    "parameters": {
-      "m": "-1/2",
-      "n": "-4"
-    }
-  },
-  {
-    "id": "U2-TR-027",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla los valores de m y n para que se cumplan las dos condiciones indicadas.",
-    "latex": "\\begin{gathered}P(x)=x^{3}-\\left(m - 3\\right) x^{2}+n x+4\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }3\\\\\\text{Divisor: }x + 2\\qquad\\text{Resto: }3\\end{gathered}",
-    "answerLatex": "m=\\frac{13}{4},\\quad n=-4",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(2)=3\\)",
-        "\\(- m \\left(2\\right)^{2} + n \\left(2\\right) + \\left(2\\right)^{3} + 3 \\left(2\\right)^{2} + 4=3\\)",
-        "\\(- 4 m + 2 n + 24=3\\)",
-        "\\(R=P(-2)=3\\)",
-        "\\(- m \\left(-2\\right)^{2} + n \\left(-2\\right) + \\left(-2\\right)^{3} + 3 \\left(-2\\right)^{2} + 4=3\\)",
-        "\\(- 4 m - 2 n + 8=3\\)",
-        "\\(\\begin{cases}- 4 m + 2 n + 21=0\\\\- 4 m - 2 n + 5=0\\end{cases}\\)",
-        "\\(16 m - 52=0\\quad\\Longrightarrow\\quad m=\\frac{13}{4}\\)",
-        "\\(2 n + 8=0\\quad\\Longrightarrow\\quad n=-4\\)",
-        "\\(P(2)=3\\)",
-        "\\(P(-2)=3\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 46 · variante propia",
-    "polynomial": "-m*x**2 + n*x + x**3 + 3*x**2 + 4",
-    "conditions": [
-      [
-        "2",
-        "3"
-      ],
-      [
-        "-2",
-        "3"
-      ]
-    ],
-    "parameters": {
-      "m": "13/4",
-      "n": "-4"
-    }
-  },
-  {
     "id": "U2-TR-028",
     "block": "15 Teorema del resto",
     "level": "Examen",
@@ -4986,88 +4811,6 @@ window.QUESTION_BANK=[
     "parameters": {
       "a": "-16",
       "b": "2"
-    }
-  },
-  {
-    "id": "U2-TR-029",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla los valores de a y b para que se cumplan las dos condiciones indicadas.",
-    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}+\\left(a - 2\\right) x^{2}+b x+15\\\\\\text{Divisor: }x + 3\\qquad\\text{Resto: }-2\\\\\\text{Divisor: }x - 5\\qquad\\text{Resto: }-2\\end{gathered}",
-    "answerLatex": "a=- \\frac{212}{15},\\quad b=\\frac{34}{15}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(-3)=-2\\)",
-        "\\(a \\left(-3\\right)^{2} + b \\left(-3\\right) + \\left(-3\\right)^{4} - 2 \\left(-3\\right)^{3} - 2 \\left(-3\\right)^{2} + 15=-2\\)",
-        "\\(9 a - 3 b + 132=-2\\)",
-        "\\(R=P(5)=-2\\)",
-        "\\(a \\left(5\\right)^{2} + b \\left(5\\right) + \\left(5\\right)^{4} - 2 \\left(5\\right)^{3} - 2 \\left(5\\right)^{2} + 15=-2\\)",
-        "\\(25 a + 5 b + 340=-2\\)",
-        "\\(\\begin{cases}9 a - 3 b + 134=0\\\\25 a + 5 b + 342=0\\end{cases}\\)",
-        "\\(120 a + 1696=0\\quad\\Longrightarrow\\quad a=- \\frac{212}{15}\\)",
-        "\\(\\frac{34}{5} - 3 b=0\\quad\\Longrightarrow\\quad b=\\frac{34}{15}\\)",
-        "\\(P(-3)=-2\\)",
-        "\\(P(5)=-2\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 47 · variante propia",
-    "polynomial": "a*x**2 + b*x + x**4 - 2*x**3 - 2*x**2 + 15",
-    "conditions": [
-      [
-        "-3",
-        "-2"
-      ],
-      [
-        "5",
-        "-2"
-      ]
-    ],
-    "parameters": {
-      "a": "-212/15",
-      "b": "34/15"
-    }
-  },
-  {
-    "id": "U2-TR-030",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla los valores de a y b para que se cumplan las dos condiciones indicadas.",
-    "latex": "\\begin{gathered}P(x)=x^{4}-2 x^{3}+\\left(a + 3\\right) x^{2}+b x+15\\\\\\text{Divisor: }x + 3\\qquad\\text{Resto: }3\\\\\\text{Divisor: }x - 5\\qquad\\text{Resto: }3\\end{gathered}",
-    "answerLatex": "a=- \\frac{94}{5},\\quad b=\\frac{8}{5}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(-3)=3\\)",
-        "\\(a \\left(-3\\right)^{2} + b \\left(-3\\right) + \\left(-3\\right)^{4} - 2 \\left(-3\\right)^{3} + 3 \\left(-3\\right)^{2} + 15=3\\)",
-        "\\(9 a - 3 b + 177=3\\)",
-        "\\(R=P(5)=3\\)",
-        "\\(a \\left(5\\right)^{2} + b \\left(5\\right) + \\left(5\\right)^{4} - 2 \\left(5\\right)^{3} + 3 \\left(5\\right)^{2} + 15=3\\)",
-        "\\(25 a + 5 b + 465=3\\)",
-        "\\(\\begin{cases}9 a - 3 b + 174=0\\\\25 a + 5 b + 462=0\\end{cases}\\)",
-        "\\(120 a + 2256=0\\quad\\Longrightarrow\\quad a=- \\frac{94}{5}\\)",
-        "\\(\\frac{24}{5} - 3 b=0\\quad\\Longrightarrow\\quad b=\\frac{8}{5}\\)",
-        "\\(P(-3)=3\\)",
-        "\\(P(5)=3\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 47 · variante propia",
-    "polynomial": "a*x**2 + b*x + x**4 - 2*x**3 + 3*x**2 + 15",
-    "conditions": [
-      [
-        "-3",
-        "3"
-      ],
-      [
-        "5",
-        "3"
-      ]
-    ],
-    "parameters": {
-      "a": "-94/5",
-      "b": "8/5"
     }
   },
   {
@@ -5164,99 +4907,6 @@ window.QUESTION_BANK=[
     }
   },
   {
-    "id": "U2-TR-034",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
-    "latex": "\\begin{gathered}P(x)=2 x^{3}-12 x+2 m\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }-5\\end{gathered}",
-    "answerLatex": "m=- \\frac{23}{2}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(3)=-5\\)",
-        "\\(2 m + 2 \\left(3\\right)^{3} - 12 \\left(3\\right)=-5\\)",
-        "\\(2 m + 18=-5\\)",
-        "\\(2 m=-23\\)",
-        "\\(m=- \\frac{23}{2}\\)",
-        "\\(P(3)=-5\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 48b",
-    "polynomial": "2*m + 2*x**3 - 12*x",
-    "conditions": [
-      [
-        "3",
-        "-5"
-      ]
-    ],
-    "parameters": {
-      "m": "-23/2"
-    }
-  },
-  {
-    "id": "U2-TR-035",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
-    "latex": "\\begin{gathered}P(x)=2 x^{3}-2 x^{2}-12 x+2 m\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }-7\\end{gathered}",
-    "answerLatex": "m=- \\frac{7}{2}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(3)=-7\\)",
-        "\\(2 m + 2 \\left(3\\right)^{3} - 2 \\left(3\\right)^{2} - 12 \\left(3\\right)=-7\\)",
-        "\\(2 m=-7\\)",
-        "\\(2 m=-7\\)",
-        "\\(m=- \\frac{7}{2}\\)",
-        "\\(P(3)=-7\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 48b · variante propia",
-    "polynomial": "2*m + 2*x**3 - 2*x**2 - 12*x",
-    "conditions": [
-      [
-        "3",
-        "-7"
-      ]
-    ],
-    "parameters": {
-      "m": "-7/2"
-    }
-  },
-  {
-    "id": "U2-TR-036",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla el valor de m para que se cumpla la condición indicada.",
-    "latex": "\\begin{gathered}P(x)=2 x^{3}+3 x^{2}-12 x+2 m\\\\\\text{Divisor: }x - 3\\qquad\\text{Resto: }-2\\end{gathered}",
-    "answerLatex": "m=- \\frac{47}{2}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(3)=-2\\)",
-        "\\(2 m + 2 \\left(3\\right)^{3} + 3 \\left(3\\right)^{2} - 12 \\left(3\\right)=-2\\)",
-        "\\(2 m + 45=-2\\)",
-        "\\(2 m=-47\\)",
-        "\\(m=- \\frac{47}{2}\\)",
-        "\\(P(3)=-2\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 48b · variante propia",
-    "polynomial": "2*m + 2*x**3 + 3*x**2 - 12*x",
-    "conditions": [
-      [
-        "3",
-        "-2"
-      ]
-    ],
-    "parameters": {
-      "m": "-47/2"
-    }
-  },
-  {
     "id": "U2-TR-037",
     "block": "15 Teorema del resto",
     "level": "Examen",
@@ -5285,68 +4935,6 @@ window.QUESTION_BANK=[
     ],
     "parameters": {
       "k": "-4"
-    }
-  },
-  {
-    "id": "U2-TR-038",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla el valor de k para que se cumpla la condición indicada.",
-    "latex": "\\begin{gathered}P(x)=2 x^{4}+k x^{3}-2 x^{2}-7 x+6\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-10\\end{gathered}",
-    "answerLatex": "k=- \\frac{13}{4}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(2)=-10\\)",
-        "\\(k \\left(2\\right)^{3} + 2 \\left(2\\right)^{4} - 2 \\left(2\\right)^{2} - 7 \\left(2\\right) + 6=-10\\)",
-        "\\(8 k + 16=-10\\)",
-        "\\(8 k=-26\\)",
-        "\\(k=- \\frac{13}{4}\\)",
-        "\\(P(2)=-10\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 49 · variante propia",
-    "polynomial": "k*x**3 + 2*x**4 - 2*x**2 - 7*x + 6",
-    "conditions": [
-      [
-        "2",
-        "-10"
-      ]
-    ],
-    "parameters": {
-      "k": "-13/4"
-    }
-  },
-  {
-    "id": "U2-TR-039",
-    "block": "15 Teorema del resto",
-    "level": "Examen",
-    "prompt": "Aplica el teorema del resto y halla el valor de k para que se cumpla la condición indicada.",
-    "latex": "\\begin{gathered}P(x)=2 x^{4}+k x^{3}+3 x^{2}-7 x+6\\\\\\text{Divisor: }x - 2\\qquad\\text{Resto: }-5\\end{gathered}",
-    "answerLatex": "k=- \\frac{41}{8}",
-    "answer": "",
-    "solution": {
-      "title": "Resolución desarrollada",
-      "steps": [
-        "\\(R=P(2)=-5\\)",
-        "\\(k \\left(2\\right)^{3} + 2 \\left(2\\right)^{4} + 3 \\left(2\\right)^{2} - 7 \\left(2\\right) + 6=-5\\)",
-        "\\(8 k + 36=-5\\)",
-        "\\(8 k=-41\\)",
-        "\\(k=- \\frac{41}{8}\\)",
-        "\\(P(2)=-5\\)"
-      ]
-    },
-    "reference": "Modelo p. 77, 49 · variante propia",
-    "polynomial": "k*x**3 + 2*x**4 + 3*x**2 - 7*x + 6",
-    "conditions": [
-      [
-        "2",
-        "-5"
-      ]
-    ],
-    "parameters": {
-      "k": "-41/8"
     }
   },
   {
@@ -11087,7 +10675,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -10.0,
+            -10,
             -2.2857
           ],
           [
@@ -11893,7 +11481,7 @@ window.QUESTION_BANK=[
             -1.7115
           ],
           [
-            4.0,
+            4,
             -1.7143
           ]
         ]
@@ -11935,7 +11523,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -9.0,
+            -9,
             -1.4286
           ],
           [
@@ -12336,13 +11924,13 @@ window.QUESTION_BANK=[
           ],
           [
             -2.15,
-            -21.0
+            -21
           ]
         ],
         [
           [
             -1.85,
-            19.0
+            19
           ],
           [
             -1.7815,
@@ -12741,7 +12329,7 @@ window.QUESTION_BANK=[
             -0.5672
           ],
           [
-            5.0,
+            5,
             -0.5714
           ]
         ]
@@ -12783,7 +12371,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -8.0,
+            -8,
             -0.5714
           ],
           [
@@ -13589,7 +13177,7 @@ window.QUESTION_BANK=[
             0.5771
           ],
           [
-            6.0,
+            6,
             0.5714
           ]
         ]
@@ -13631,7 +13219,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -7.0,
+            -7,
             0.2857
           ],
           [
@@ -14437,7 +14025,7 @@ window.QUESTION_BANK=[
             1.7213
           ],
           [
-            7.0,
+            7,
             1.7143
           ]
         ]
@@ -14479,7 +14067,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -6.0,
+            -6,
             1.7143
           ],
           [
@@ -15285,7 +14873,7 @@ window.QUESTION_BANK=[
             2.2885
           ],
           [
-            8.0,
+            8,
             2.2857
           ]
         ]
@@ -15327,7 +14915,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -2.4286
           ],
           [
@@ -15728,13 +15316,13 @@ window.QUESTION_BANK=[
           ],
           [
             1.85,
-            -22.0
+            -22
           ]
         ],
         [
           [
             2.15,
-            18.0
+            18
           ],
           [
             2.2185,
@@ -16133,7 +15721,7 @@ window.QUESTION_BANK=[
             -1.5672
           ],
           [
-            9.0,
+            9,
             -1.5714
           ]
         ]
@@ -16175,7 +15763,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -4.0,
+            -4,
             -1.5714
           ],
           [
@@ -16981,7 +16569,7 @@ window.QUESTION_BANK=[
             -0.4229
           ],
           [
-            10.0,
+            10,
             -0.4286
           ]
         ]
@@ -17023,7 +16611,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -10.0,
+            -10,
             -0.7143
           ],
           [
@@ -17829,7 +17417,7 @@ window.QUESTION_BANK=[
             0.7213
           ],
           [
-            4.0,
+            4,
             0.7143
           ]
         ]
@@ -17871,7 +17459,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -9.0,
+            -9,
             0.7143
           ],
           [
@@ -18677,7 +18265,7 @@ window.QUESTION_BANK=[
             1.2885
           ],
           [
-            5.0,
+            5,
             1.2857
           ]
         ]
@@ -18719,7 +18307,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -8.0,
+            -8,
             1.5714
           ],
           [
@@ -19120,13 +18708,13 @@ window.QUESTION_BANK=[
           ],
           [
             -1.15,
-            -18.0
+            -18
           ]
         ],
         [
           [
             -0.85,
-            22.0
+            22
           ],
           [
             -0.7815,
@@ -19525,7 +19113,7 @@ window.QUESTION_BANK=[
             2.4328
           ],
           [
-            6.0,
+            6,
             2.4286
           ]
         ]
@@ -19567,7 +19155,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -7.0,
+            -7,
             -2.5714
           ],
           [
@@ -20373,7 +19961,7 @@ window.QUESTION_BANK=[
             -1.4229
           ],
           [
-            7.0,
+            7,
             -1.4286
           ]
         ]
@@ -20415,7 +20003,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -6.0,
+            -6,
             -1.7143
           ],
           [
@@ -21221,7 +20809,7 @@ window.QUESTION_BANK=[
             -0.2787
           ],
           [
-            8.0,
+            8,
             -0.2857
           ]
         ]
@@ -21263,7 +20851,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.4844
           ],
           [
@@ -21722,7 +21310,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.3329
           ],
           [
@@ -22181,7 +21769,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.4961
           ],
           [
@@ -22640,7 +22228,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.3333
           ],
           [
@@ -23099,7 +22687,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.4844
           ],
           [
@@ -23558,7 +23146,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.3329
           ],
           [
@@ -24017,7 +23605,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.4961
           ],
           [
@@ -24476,7 +24064,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.3333
           ],
           [
@@ -24935,7 +24523,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.4844
           ],
           [
@@ -25394,7 +24982,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.3329
           ],
           [
@@ -25853,7 +25441,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.4961
           ],
           [
@@ -26312,7 +25900,7 @@ window.QUESTION_BANK=[
       "series": [
         [
           [
-            -5.0,
+            -5,
             -0.3333
           ],
           [
@@ -30441,7 +30029,7 @@ window.QUESTION_BANK=[
     ],
     "statistics": {
       "mean": 3.45,
-      "median": 4.0,
+      "median": 4,
       "modes": [
         5
       ],
@@ -30512,7 +30100,7 @@ window.QUESTION_BANK=[
     ],
     "statistics": {
       "mean": 2.8,
-      "median": 3.0,
+      "median": 3,
       "modes": [
         3
       ],
@@ -30797,7 +30385,7 @@ window.QUESTION_BANK=[
     ],
     "statistics": {
       "mean": 2.1,
-      "median": 2.0,
+      "median": 2,
       "modes": [
         0
       ],
@@ -30868,7 +30456,7 @@ window.QUESTION_BANK=[
     ],
     "statistics": {
       "mean": 2.65,
-      "median": 3.0,
+      "median": 3,
       "modes": [
         0
       ],
@@ -30935,7 +30523,7 @@ window.QUESTION_BANK=[
     ],
     "statistics": {
       "mean": 2.95,
-      "median": 3.0,
+      "median": 3,
       "modes": [
         4
       ],
@@ -31078,7 +30666,7 @@ window.QUESTION_BANK=[
     ],
     "statistics": {
       "mean": 2.2,
-      "median": 2.0,
+      "median": 2,
       "modes": [
         2
       ],
@@ -31149,7 +30737,7 @@ window.QUESTION_BANK=[
     ],
     "statistics": {
       "mean": 3.1,
-      "median": 3.0,
+      "median": 3,
       "modes": [
         3,
         5
@@ -31157,5 +30745,439 @@ window.QUESTION_BANK=[
       "variance": 4.09,
       "stdev": 2.0223748416156684
     }
+  },
+  {
+    "id": "U2-TR-050",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que el polinomio sea divisible por el binomio indicado.",
+    "latex": "\\begin{gathered}P(x)=m x^{3}-4x^{2}+6x+7m\\\\\\text{Divisor: }x+2\\end{gathered}",
+    "answerLatex": "m=-28",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-2)=0\\)",
+        "\\(-8m-16-12+7m=0\\)",
+        "\\(-m-28=0\\)",
+        "\\(m=-28\\)",
+        "\\(P(-2)=0\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-051",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que el polinomio sea divisible por el binomio indicado.",
+    "latex": "\\begin{gathered}P(x)=2m x^{3}+3x^{2}-5x+15m+19\\\\\\text{Divisor: }x-1\\end{gathered}",
+    "answerLatex": "m=-1",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(1)=0\\)",
+        "\\(2m+3-5+15m+19=0\\)",
+        "\\(17m+17=0\\)",
+        "\\(m=-1\\)",
+        "\\(P(1)=0\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-052",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Aplica el teorema del resto y halla el valor de m para que el polinomio sea divisible por el binomio indicado.",
+    "latex": "\\begin{gathered}P(x)=m x^{3}+4x^{2}-8x+5m\\\\\\text{Divisor: }x+1\\end{gathered}",
+    "answerLatex": "m=-3",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-1)=0\\)",
+        "\\(-m+4+8+5m=0\\)",
+        "\\(4m+12=0\\)",
+        "\\(m=-3\\)",
+        "\\(P(-1)=0\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-053",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de m y n para que el polinomio sea divisible por los dos binomios indicados.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-m x^{2}+n x+8\\\\\\text{Divisores: }x-2\\text{ y }x+2\\end{gathered}",
+    "answerLatex": "m=2,\\quad n=-4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(2)=0\\Rightarrow 16-4m+2n=0\\)",
+        "\\(P(-2)=0\\Rightarrow -4-4m-2n=0\\)",
+        "\\(\\begin{cases}-4m+2n=-16\\\\-4m-2n=4\\end{cases}\\)",
+        "\\(-8m=-12\\Rightarrow m=2\\)",
+        "\\(-8+2n=-16\\Rightarrow n=-4\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-054",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de m y n para que el polinomio sea divisible por los dos binomios indicados.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-m x^{2}+n x-8\\\\\\text{Divisores: }x-2\\text{ y }x+2\\end{gathered}",
+    "answerLatex": "m=-2,\\quad n=-4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(2)=0\\Rightarrow -4m+2n=0\\)",
+        "\\(P(-2)=0\\Rightarrow -16-4m-2n=0\\)",
+        "\\(\\begin{cases}-4m+2n=0\\\\-4m-2n=16\\end{cases}\\)",
+        "\\(-8m=16\\Rightarrow m=-2\\)",
+        "\\(8+2n=0\\Rightarrow n=-4\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-055",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de m y n para que el polinomio sea divisible por los dos binomios indicados.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-m x^{2}+n x+18\\\\\\text{Divisores: }x-3\\text{ y }x+3\\end{gathered}",
+    "answerLatex": "m=2,\\quad n=-9",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(3)=0\\Rightarrow 45-9m+3n=0\\)",
+        "\\(P(-3)=0\\Rightarrow -9-9m-3n=0\\)",
+        "\\(\\begin{cases}-9m+3n=-45\\\\-9m-3n=9\\end{cases}\\)",
+        "\\(-18m=-36\\Rightarrow m=2\\)",
+        "\\(-18+3n=-45\\Rightarrow n=-9\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-056",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de a y b para que el polinomio sea divisible por los dos binomios indicados.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2x^{3}+a x^{2}+b x-24\\\\\\text{Divisores: }x+2\\text{ y }x-4\\end{gathered}",
+    "answerLatex": "a=-5,\\quad b=-6",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-2)=0\\Rightarrow 8+4a-2b=0\\)",
+        "\\(P(4)=0\\Rightarrow 104+16a+4b=0\\)",
+        "\\(\\begin{cases}2a-b=-4\\\\4a+b=-26\\end{cases}\\)",
+        "\\(6a=-30\\Rightarrow a=-5\\)",
+        "\\(b=-6\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-057",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de a y b para que el polinomio sea divisible por los dos binomios indicados.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2x^{3}+a x^{2}+b x-15\\\\\\text{Divisores: }x+1\\text{ y }x-3\\end{gathered}",
+    "answerLatex": "a=2,\\quad b=-10",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-1)=0\\Rightarrow a-b-12=0\\)",
+        "\\(P(3)=0\\Rightarrow 12+9a+3b=0\\)",
+        "\\(\\begin{cases}a-b=12\\\\3a+b=-4\\end{cases}\\)",
+        "\\(4a=8\\Rightarrow a=2\\)",
+        "\\(b=-10\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-058",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de a y b para que el polinomio sea divisible por los dos binomios indicados.",
+    "latex": "\\begin{gathered}P(x)=x^{4}-2x^{3}+a x^{2}+b x+48\\\\\\text{Divisores: }x+4\\text{ y }x-6\\end{gathered}",
+    "answerLatex": "a=-26,\\quad b=4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-4)=0\\Rightarrow 432+16a-4b=0\\)",
+        "\\(P(6)=0\\Rightarrow 912+36a+6b=0\\)",
+        "\\(\\begin{cases}4a-b=-108\\\\6a+b=-152\\end{cases}\\)",
+        "\\(10a=-260\\Rightarrow a=-26\\)",
+        "\\(b=4\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-059",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el valor de m en cada apartado aplicando el teorema del resto.",
+    "latex": "\\begin{aligned}a)\\;&P(x)=x^{3}-3x^{2}+2x+m,\\quad (x+1),\\quad R=4\\\\[4pt]b)\\;&Q(x)=2x^{3}-5x^{2}-8x+2m,\\quad (x-2),\\quad R=-6\\end{aligned}",
+    "answerLatex": "\\begin{aligned}a)\\;&m=10\\\\b)\\;&m=7\\end{aligned}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "a) \\(P(-1)=4\\)",
+        "\\(-1-3-2+m=4\\)",
+        "\\(m-6=4\\)",
+        "\\(m=10\\)",
+        "b) \\(Q(2)=-6\\)",
+        "\\(16-20-16+2m=-6\\)",
+        "\\(2m-20=-6\\)",
+        "\\(m=7\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-060",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el valor de m en cada apartado aplicando el teorema del resto.",
+    "latex": "\\begin{aligned}a)\\;&P(x)=x^{3}+2x^{2}-4x+m,\\quad (x-1),\\quad R=6\\\\[4pt]b)\\;&Q(x)=3x^{3}-2x^{2}+5x+3m,\\quad (x+2),\\quad R=-6\\end{aligned}",
+    "answerLatex": "\\begin{aligned}a)\\;&m=7\\\\b)\\;&m=12\\end{aligned}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "a) \\(P(1)=6\\)",
+        "\\(1+2-4+m=6\\)",
+        "\\(m-1=6\\)",
+        "\\(m=7\\)",
+        "b) \\(Q(-2)=-6\\)",
+        "\\(-24-8-10+3m=-6\\)",
+        "\\(3m-42=-6\\)",
+        "\\(m=12\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-061",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el valor de m en cada apartado aplicando el teorema del resto.",
+    "latex": "\\begin{aligned}a)\\;&P(x)=2x^{3}-x^{2}+3x+m,\\quad (x+1),\\quad R=-2\\\\[4pt]b)\\;&Q(x)=x^{4}-3x^{2}+2m,\\quad (x-2),\\quad R=18\\end{aligned}",
+    "answerLatex": "\\begin{aligned}a)\\;&m=4\\\\b)\\;&m=7\\end{aligned}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "a) \\(P(-1)=-2\\)",
+        "\\(-2-1-3+m=-2\\)",
+        "\\(m-6=-2\\)",
+        "\\(m=4\\)",
+        "b) \\(Q(2)=18\\)",
+        "\\(16-12+2m=18\\)",
+        "\\(2m+4=18\\)",
+        "\\(m=7\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-062",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "El resto de la división indicada es el dado. Halla el valor de k aplicando el teorema del resto.",
+    "latex": "\\begin{gathered}\\left(3x^{4}+k x^{3}-5x+4\\right):\\left(x-2\\right)\\\\R=18\\end{gathered}",
+    "answerLatex": "k=-3",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(2)=18\\)",
+        "\\(48+8k-10+4=18\\)",
+        "\\(8k+42=18\\)",
+        "\\(8k=-24\\)",
+        "\\(k=-3\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-063",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "El resto de la división indicada es el dado. Halla el valor de k aplicando el teorema del resto.",
+    "latex": "\\begin{gathered}\\left(2x^{4}+k x^{3}+4x^{2}-3x+1\\right):\\left(x+1\\right)\\\\R=5\\end{gathered}",
+    "answerLatex": "k=5",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-1)=5\\)",
+        "\\(2-k+4+3+1=5\\)",
+        "\\(10-k=5\\)",
+        "\\(k=5\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-064",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "El resto de la división indicada es el dado. Halla el valor de k aplicando el teorema del resto.",
+    "latex": "\\begin{gathered}\\left(x^{4}+2k x^{3}-6x^{2}+x-8\\right):\\left(x-2\\right)\\\\R=50\\end{gathered}",
+    "answerLatex": "k=4",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(2)=50\\)",
+        "\\(16+16k-24+2-8=50\\)",
+        "\\(16k-14=50\\)",
+        "\\(16k=64\\)",
+        "\\(k=4\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-065",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de m y n sabiendo los restos de las dos divisiones.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-m x^{2}+n x+4\\\\P(-1)=9\\qquad P(2)=6\\end{gathered}",
+    "answerLatex": "m=-1,\\quad n=-5",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-1)=9\\Rightarrow 3-m-n=9\\Rightarrow m+n=-6\\)",
+        "\\(P(2)=6\\Rightarrow 12-4m+2n=6\\Rightarrow -2m+n=-3\\)",
+        "\\(\\begin{cases}m+n=-6\\\\-2m+n=-3\\end{cases}\\)",
+        "\\(3m=-3\\Rightarrow m=-1\\)",
+        "\\(n=-5\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-066",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de m y n sabiendo los restos de las dos divisiones.",
+    "latex": "\\begin{gathered}P(x)=x^{3}-m x^{2}+n x+5\\\\P(-1)=5\\qquad P(2)=-1\\end{gathered}",
+    "answerLatex": "m=2,\\quad n=-3",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-1)=5\\Rightarrow 4-m-n=5\\Rightarrow m+n=-1\\)",
+        "\\(P(2)=-1\\Rightarrow 13-4m+2n=-1\\Rightarrow -2m+n=-7\\)",
+        "\\(\\begin{cases}m+n=-1\\\\-2m+n=-7\\end{cases}\\)",
+        "\\(3m=6\\Rightarrow m=2\\)",
+        "\\(n=-3\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-067",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Halla los valores de m y n sabiendo los restos de las dos divisiones.",
+    "latex": "\\begin{gathered}P(x)=2x^{3}-m x^{2}+n x+1\\\\P(-1)=-2\\qquad P(3)=22\\end{gathered}",
+    "answerLatex": "m=3,\\quad n=-2",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "\\(P(-1)=-2\\Rightarrow -1-m-n=-2\\Rightarrow m+n=1\\)",
+        "\\(P(3)=22\\Rightarrow 55-9m+3n=22\\Rightarrow -3m+n=-11\\)",
+        "\\(\\begin{cases}m+n=1\\\\-3m+n=-11\\end{cases}\\)",
+        "\\(4m=12\\Rightarrow m=3\\)",
+        "\\(n=-2\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-068",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el valor de a en los apartados a) y b), y el valor numérico pedido en c).",
+    "latex": "\\begin{aligned}a)\\;&\\left(x^{4}-3x^{3}+a x-10\\right):\\left(x-2\\right)\\text{ es exacta}\\\\[4pt]b)\\;&R=4\\text{ en }\\left(2x^{3}+5x^{2}-4x+a\\right):\\left(x+1\\right)\\\\[4pt]c)\\;&P(x)=x^{5}-3x^{3}+2x^{2}-x+4,\\quad P(-2)\\end{aligned}",
+    "answerLatex": "\\begin{aligned}a)\\;&a=9\\\\b)\\;&a=-3\\\\c)\\;&P(-2)=6\\end{aligned}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "a) \\(P(2)=0\\)",
+        "\\(16-24+2a-10=0\\)",
+        "\\(2a-18=0\\Rightarrow a=9\\)",
+        "b) \\(Q(-1)=4\\)",
+        "\\(-2+5+4+a=4\\)",
+        "\\(a+7=4\\Rightarrow a=-3\\)",
+        "c) \\(P(-2)=-32+24+8+2+4=6\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-069",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el valor de a en los apartados a) y b), y el valor numérico pedido en c).",
+    "latex": "\\begin{aligned}a)\\;&\\left(x^{4}+x^{3}+a x-6\\right):\\left(x+2\\right)\\text{ es exacta}\\\\[4pt]b)\\;&R=4\\text{ en }\\left(3x^{3}-2x^{2}+5x+a\\right):\\left(x-1\\right)\\\\[4pt]c)\\;&P(x)=x^{5}-2x^{4}+x^{2}+3x-1,\\quad P(3)\\end{aligned}",
+    "answerLatex": "\\begin{aligned}a)\\;&a=1\\\\b)\\;&a=-2\\\\c)\\;&P(3)=98\\end{aligned}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "a) \\(P(-2)=0\\)",
+        "\\(16-8-2a-6=0\\)",
+        "\\(2-2a=0\\Rightarrow a=1\\)",
+        "b) \\(Q(1)=4\\)",
+        "\\(3-2+5+a=4\\)",
+        "\\(a+6=4\\Rightarrow a=-2\\)",
+        "c) \\(P(3)=243-162+9+9-1=98\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
+  },
+  {
+    "id": "U2-TR-070",
+    "block": "15 Teorema del resto",
+    "level": "Examen",
+    "prompt": "Calcula el valor de a en los apartados a) y b), y el valor numérico pedido en c).",
+    "latex": "\\begin{aligned}a)\\;&\\left(2x^{4}-x^{3}+a x+6\\right):\\left(x+1\\right)\\text{ es exacta}\\\\[4pt]b)\\;&R=5\\text{ en }\\left(x^{3}+4x^{2}-2x+a\\right):\\left(x-2\\right)\\\\[4pt]c)\\;&P(x)=2x^{5}-x^{4}+3x^{2}-5,\\quad P(-2)\\end{aligned}",
+    "answerLatex": "\\begin{aligned}a)\\;&a=9\\\\b)\\;&a=-15\\\\c)\\;&P(-2)=-73\\end{aligned}",
+    "answer": "",
+    "solution": {
+      "title": "Resolución desarrollada",
+      "steps": [
+        "a) \\(P(-1)=0\\)",
+        "\\(2+1-a+6=0\\)",
+        "\\(9-a=0\\Rightarrow a=9\\)",
+        "b) \\(Q(2)=5\\)",
+        "\\(8+16-4+a=5\\)",
+        "\\(a+20=5\\Rightarrow a=-15\\)",
+        "c) \\(P(-2)=-64-16+12-5=-73\\)"
+      ]
+    },
+    "reference": "Ejercicios aportados el 14/10/2026 · variante propia"
   }
 ];
