@@ -15,7 +15,7 @@ Se revisaron también los documentos de 2023–2024. El examen de la tercera eva
 
 **Se excluyó íntegramente la carpeta `25-26`.** Las fechas de modificación de Drive no se usan para atribuir un examen a un curso. El enlace de Drive facilitado mostró únicamente dos documentos de seguimiento de la primera evaluación; la ampliación se fundamenta en el archivo de exámenes previamente aportado.
 
-Las 311 preguntas nuevas son variantes propias de los tipos observados, con otros datos y soluciones calculadas. El banco anterior se conserva: hay 649 preguntas en total. No se publican los documentos originales ni sus escaneos.
+Las variantes son propias de los tipos observados, con otros datos y soluciones calculadas. El banco contiene 658 preguntas en total. El bloque del teorema del resto reúne 58 ejercicios con soluciones enteras, incluidos 21 modelos nuevos basados en los ejercicios aportados el 14 de octubre de 2026. No se publican los documentos originales ni sus escaneos.
 
 ## Contenidos previstos y tiempos
 
