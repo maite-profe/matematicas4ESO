@@ -60,6 +60,9 @@ const FORMATS=[
 ];
 FORMATS.forEach(format=>{format.blocks=format.themes.flatMap(([,blocks])=>blocks);format.upcoming=[]});
 const formatStates=new Map();const usedQuestionIds=new Set();const topicUseByFormat=new Map();let activeFormat=null;
+function resetQuestionSession(){usedQuestionIds.clear();topicUseByFormat.clear()}
+window.addEventListener('pagehide',resetQuestionSession);
+window.addEventListener('pageshow',event=>{if(event.persisted)resetQuestionSession()});
 const checks=()=>[...document.querySelectorAll('[name=topic]:not(:disabled)')],chosen=()=>checks().filter(x=>x.checked).map(x=>x.value),shuffle=a=>{const out=[...a];for(let i=out.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[out[i],out[j]]=[out[j],out[i]]}return out};
 function estimatedTime(list){return list.reduce((sum,name)=>sum+(MINUTES[name]||0),0)}
 function updateEstimate(){const list=chosen(),all=list.length===checks().length&&list.length,total=estimatedTime(list);document.querySelector('#selectionTime').textContent=total>90?'≈ 90 min':`${total} min`;document.querySelector('#toggleAll').textContent=all?'Quitar todos':'Seleccionar todos'}
