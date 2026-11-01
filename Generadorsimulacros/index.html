@@ -50,13 +50,36 @@ const DRIVE_SHEET_SETS=Object.fromEntries(Object.entries(DRIVE_SHEET_IDS).map(([
 function sourcePool(block){const allowed=DRIVE_SHEET_SETS[block];return bank.filter(q=>q.block===block&&(!allowed||allowed.has(q.id)))}
 const DRIVE_BANK_ID='1IK3IQEfmR2Nxh9JP2VKYl1h6irqjxXAYMkIM6ejgqbk';
 const DRIVE_TABS={
+ [BLOCKS.interval]:'T1 Intervalos',
+ [BLOCKS.power]:'T1 Potencias enteras',
+ [BLOCKS.fractionPower]:'T1 Potencias fraccionarias',
+ [BLOCKS.radical]:'T1 Radicales',
+ [BLOCKS.rational]:'T1 Racionalización',
+ [BLOCKS.logs]:'T1 Logaritmos',
+ [BLOCKS.percentage]:'T1 Porcentajes',
+ [BLOCKS.interest]:'T1 Interés',
  [BLOCKS.polyops]:'Operaciones polinomios',
  [BLOCKS.simplify]:'Simplificación',
  [BLOCKS.algebra]:'Fracciones algebraicas',
  [BLOCKS.factor]:'Factorización',
- [BLOCKS.remainder]:'Teorema del resto'
+ [BLOCKS.remainder]:'Teorema del resto',
+ [BLOCKS.eqpoly]:'T3 Ecuaciones polinómicas',
+ [BLOCKS.eqrad]:'T3 Ecuaciones radicales',
+ [BLOCKS.eqrat]:'T3 Ecuaciones racionales',
+ [BLOCKS.eqexp]:'T3 Ecuaciones exponenciales',
+ [BLOCKS.eqlog]:'T3 Ecuaciones logarítmicas',
+ [BLOCKS.eqfactor]:'T3 Ecuaciones con factores',
+ [BLOCKS.systems]:'T3 Sistemas lineales',
+ [BLOCKS.sysnonlinear]:'T3 Sistemas no lineales',
+ [BLOCKS.ineq]:'T3 Inecuaciones',
+ [BLOCKS.ineqsys]:'T3 Sistemas inecuaciones 1',
+ [BLOCKS.ineqsys2]:'T3 Sistemas inecuaciones 2',
+ [BLOCKS.eqproblem]:'T3 Problemas ecuaciones',
+ [BLOCKS.sysproblem]:'T3 Problemas sistemas'
 };
+const DRIVE_MANAGED_BLOCKS=new Set(Object.keys(DRIVE_TABS));
 function gvizValue(cells,index){return cells[index]&&cells[index].v!==null&&cells[index].v!==undefined?cells[index].v:''}
+function parseJson(value,fallback){try{return JSON.parse(String(value||''))}catch{return fallback}}
 async function readDriveTab(block,sheet){
  const url=`https://docs.google.com/spreadsheets/d/${DRIVE_BANK_ID}/gviz/tq?tqx=out:json&headers=1&sheet=${encodeURIComponent(sheet)}&_=${Date.now()}`;
  const response=await fetch(url,{cache:'no-store'});
@@ -67,15 +90,14 @@ async function readDriveTab(block,sheet){
  return (data.table.rows||[]).map(row=>{
   const cells=row.c||[],id=String(gvizValue(cells,0)).trim(),active=gvizValue(cells,1);
   if(!id||active===false||String(active).toLowerCase()==='false')return null;
-  let extra={};try{extra=JSON.parse(String(gvizValue(cells,6)||'{}'))}catch{}
-  return {...extra,id,block,prompt:String(gvizValue(cells,2)||''),latex:String(gvizValue(cells,3)||''),answerLatex:String(gvizValue(cells,4)||''),solution:{steps:String(gvizValue(cells,5)||'').split(/\r?\n/).filter(Boolean)}};
+  const extra=parseJson(gvizValue(cells,6),{}),steps=parseJson(gvizValue(cells,5),[]);
+  return {...extra,id,block,prompt:String(gvizValue(cells,2)||''),latex:String(gvizValue(cells,3)||''),answerLatex:String(gvizValue(cells,4)||''),solution:{...(extra.solution||{}),steps:Array.isArray(steps)?steps:String(gvizValue(cells,5)||'').split(/\r?\n/).filter(Boolean)}};
  }).filter(Boolean)
 }
 async function loadDriveBank(){
  const live=(await Promise.all(Object.entries(DRIVE_TABS).map(([block,sheet])=>readDriveTab(block,sheet)))).flat();
- const managed=new Set(Object.values(DRIVE_SHEET_IDS).flat());
- bank.splice(0,bank.length,...bank.filter(q=>!managed.has(q.id)),...live);
- if(live.length!==90)console.warn(`Banco de Drive cargado con ${live.length} ejercicios activos.`);
+ bank.splice(0,bank.length,...bank.filter(q=>!DRIVE_MANAGED_BLOCKS.has(q.block)),...live);
+ if(!live.length)throw new Error('El banco de Drive no contiene ejercicios activos.');
  return live.length
 }
 const driveBankReady=loadDriveBank();
