@@ -94,10 +94,27 @@ async function readDriveTab(block,sheet){
   return {...extra,id,block,prompt:String(gvizValue(cells,2)||''),latex:String(gvizValue(cells,3)||''),answerLatex:String(gvizValue(cells,4)||''),solution:{...(extra.solution||{}),steps:Array.isArray(steps)?steps:String(gvizValue(cells,5)||'').split(/\r?\n/).filter(Boolean)}};
  }).filter(Boolean)
 }
+function validateDriveQuestions(questions){
+ const seen=new Set(),valid=[],invalid=[];
+ questions.forEach(question=>{
+  const reasons=[];
+  if(!question.id)reasons.push('falta ID');
+  if(!question.prompt&&!question.latex)reasons.push('falta enunciado o LaTeX');
+  if(!question.answerLatex&&!question.answer)reasons.push('falta respuesta');
+  if(!question.solution?.steps?.length)reasons.push('falta solución');
+  if(seen.has(question.id))reasons.push('ID duplicado');
+  seen.add(question.id);
+  if(reasons.length)invalid.push({id:question.id||'sin ID',block:question.block,reasons});
+  else valid.push(question);
+ });
+ if(invalid.length)console.warn('Ejercicios de Drive omitidos por errores:',invalid);
+ return valid
+}
 async function loadDriveBank(){
- const live=(await Promise.all(Object.entries(DRIVE_TABS).map(([block,sheet])=>readDriveTab(block,sheet)))).flat();
+ const loaded=(await Promise.all(Object.entries(DRIVE_TABS).map(([block,sheet])=>readDriveTab(block,sheet)))).flat();
+ const live=validateDriveQuestions(loaded);
  bank.splice(0,bank.length,...bank.filter(q=>!DRIVE_MANAGED_BLOCKS.has(q.block)),...live);
- if(!live.length)throw new Error('El banco de Drive no contiene ejercicios activos.');
+ if(!live.length)throw new Error('El banco de Drive no contiene ejercicios válidos y activos.');
  return live.length
 }
 const driveBankReady=loadDriveBank();
