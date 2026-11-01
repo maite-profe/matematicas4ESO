@@ -88,5 +88,75 @@ window.QUESTION_BANK.push(...[
     id: 'U2-OP-015', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
     prompt: 'Opera y simplifica.', latex: '\\frac{1}{3}(3x+6)^2-\\frac{1}{2}(2x-4)(2x+4)+(x-1)^2', answerLatex: '2x^2+10x+21',
     solution: {title: 'Resultado', steps: ['\\(2x^2+10x+21\\)']}, reference: 'Modelo Anaya p. 75, ejercicio 1 · variante propia'
+  },
+  {
+    id: 'U2-OP-016', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{1}{2}(2x-3)^2-\\frac{1}{3}(x+2)(x-2)+\\frac{1}{6}(x-1)^2',
+    answerLatex: '\\frac{11}{6}x^2-\\frac{19}{3}x+6',
+    solution: {title: 'Resultado', steps: ['\\(\\frac{11}{6}x^2-\\frac{19}{3}x+6\\)']}, reference: 'U2-OP-016'
+  },
+  {
+    id: 'U2-OP-017', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{3}{4}(x+2)^2-\\frac{1}{2}(x-3)(x+3)-\\frac{1}{4}(x-4)^2',
+    answerLatex: '5x+\\frac{7}{2}',
+    solution: {title: 'Resultado', steps: ['\\(5x+\\frac{7}{2}\\)']}, reference: 'U2-OP-017'
+  },
+  {
+    id: 'U2-OP-018', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{2}{3}(3x-1)^2-\\frac{1}{2}(2x+3)(2x-3)+\\frac{1}{6}(x+5)^2',
+    answerLatex: '\\frac{25}{6}x^2-\\frac{7}{3}x+\\frac{28}{3}',
+    solution: {title: 'Resultado', steps: ['\\(\\frac{25}{6}x^2-\\frac{7}{3}x+\\frac{28}{3}\\)']}, reference: 'U2-OP-018'
+  },
+  {
+    id: 'U2-OP-019', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{1}{5}(5x+2)^2-\\frac{1}{2}(x-4)^2+\\frac{3}{10}(x+1)(x-1)',
+    answerLatex: '\\frac{24}{5}x^2+8x-\\frac{15}{2}',
+    solution: {title: 'Resultado', steps: ['\\(\\frac{24}{5}x^2+8x-\\frac{15}{2}\\)']}, reference: 'U2-OP-019'
+  },
+  {
+    id: 'U2-OP-020', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{1}{6}(3x-2)^2+\\frac{2}{3}(x+4)^2-\\frac{1}{2}(x-5)(x+5)',
+    answerLatex: '\\frac{5}{3}x^2+\\frac{10}{3}x+\\frac{143}{6}',
+    solution: {title: 'Resultado', steps: ['\\(\\frac{5}{3}x^2+\\frac{10}{3}x+\\frac{143}{6}\\)']}, reference: 'U2-OP-020'
+  },
+  {
+    id: 'U2-OP-021', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{3}{8}(2x-1)^2-\\frac{1}{4}(x+3)^2+\\frac{1}{8}(x-2)(x+2)',
+    answerLatex: '\\frac{11}{8}x^2-3x-\\frac{19}{8}',
+    solution: {title: 'Resultado', steps: ['\\(\\frac{11}{8}x^2-3x-\\frac{19}{8}\\)']}, reference: 'U2-OP-021'
+  },
+  {
+    id: 'U2-OP-022', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{2}{9}(3x+2)^2+\\frac{1}{3}(2x-1)(2x+1)-\\frac{1}{9}(x-5)^2',
+    answerLatex: '\\frac{29}{9}x^2+\\frac{34}{9}x-\\frac{20}{9}',
+    solution: {title: 'Resultado', steps: ['\\(\\frac{29}{9}x^2+\\frac{34}{9}x-\\frac{20}{9}\\)']}, reference: 'U2-OP-022'
+  },
+  {
+    id: 'U2-OP-023', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{1}{4}(4x-3)^2-\\frac{2}{5}(x+2)^2+\\frac{3}{20}(x-6)(x+6)',
+    answerLatex: '\\frac{15}{4}x^2-\\frac{38}{5}x-\\frac{19}{4}',
+    solution: {title: 'Resultado', steps: ['\\(\\frac{15}{4}x^2-\\frac{38}{5}x-\\frac{19}{4}\\)']}, reference: 'U2-OP-023'
+  },
+  {
+    id: 'U2-OP-024', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{5}{12}(2x+3)^2-\\frac{1}{3}(x-4)^2-\\frac{1}{4}(3x-1)(3x+1)',
+    answerLatex: '-\\frac{11}{12}x^2+\\frac{23}{3}x-\\frac{4}{3}',
+    solution: {title: 'Resultado', steps: ['\\(-\\frac{11}{12}x^2+\\frac{23}{3}x-\\frac{4}{3}\\)']}, reference: 'U2-OP-024'
+  },
+  {
+    id: 'U2-OP-025', block: '15A Operaciones con polinomios e identidades notables', level: 'Examen',
+    prompt: 'Opera y simplifica. Utiliza las identidades notables y reduce a común denominador.',
+    latex: '\\frac{1}{10}(5x-2)^2+\\frac{3}{5}(x+1)^2-\\frac{1}{2}(2x-3)(2x+3)',
+    answerLatex: '\\frac{11}{10}x^2-\\frac{4}{5}x+\\frac{11}{2}',
+    solution: {title: 'Resultado', steps: ['\\(\\frac{11}{10}x^2-\\frac{4}{5}x+\\frac{11}{2}\\)']}, reference: 'U2-OP-025'
   }
 ]);
