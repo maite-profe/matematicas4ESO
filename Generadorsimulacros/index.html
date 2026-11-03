@@ -90,8 +90,8 @@ async function readDriveTab(block,sheet){
  return (data.table.rows||[]).map(row=>{
   const cells=row.c||[],id=String(gvizValue(cells,0)).trim(),active=gvizValue(cells,1);
   if(!id||active===false||String(active).toLowerCase()==='false')return null;
-  const extra=parseJson(gvizValue(cells,6),{}),steps=parseJson(gvizValue(cells,5),[]);
-  return {...extra,id,block,prompt:String(gvizValue(cells,2)||''),latex:String(gvizValue(cells,3)||''),answerLatex:String(gvizValue(cells,4)||''),solution:{...(extra.solution||{}),steps:Array.isArray(steps)?steps:String(gvizValue(cells,5)||'').split(/\r?\n/).filter(Boolean)}};
+  const extra=parseJson(gvizValue(cells,6),{}),rawSteps=String(gvizValue(cells,5)||''),parsedSteps=parseJson(rawSteps,null);
+  return {...extra,id,block,prompt:String(gvizValue(cells,2)||''),latex:String(gvizValue(cells,3)||''),answerLatex:String(gvizValue(cells,4)||''),solution:{...(extra.solution||{}),steps:Array.isArray(parsedSteps)?parsedSteps:rawSteps.split(/\r?\n/).filter(Boolean)}};
  }).filter(Boolean)
 }
 function validateDriveQuestions(questions){
